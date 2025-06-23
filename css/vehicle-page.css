@@ -1,0 +1,429 @@
+/* Vehicle Page Specific Styles */
+
+.vehicle-hero {
+    padding: 120px 20px 80px;
+    background: var(--gradient-primary);
+    position: relative;
+    overflow: hidden;
+}
+
+.vehicle-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('../images/pic14.jpg') center/cover;
+    opacity: 0.05;
+    z-index: 0;
+}
+
+.vehicle-hero-content {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.vehicle-hero-text {
+    max-width: 500px;
+}
+
+.vehicle-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background: var(--gradient-accent);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.2;
+}
+
+.vehicle-subtitle {
+    font-size: 1.3rem;
+    color: var(--text-secondary);
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+.vehicle-actions {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.secondary-button {
+    display: inline-block;
+    background: transparent;
+    color: var(--accent-color);
+    padding: 15px 30px;
+    text-decoration: none;
+    border: 2px solid var(--accent-color);
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+}
+
+.secondary-button:hover {
+    background: var(--accent-color);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.vehicle-hero-image {
+    text-align: center;
+}
+
+.hero-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: var(--shadow-heavy);
+    transition: transform 0.3s ease;
+}
+
+.hero-image:hover {
+    transform: scale(1.02);
+}
+
+/* Vehicle Details */
+.vehicle-details {
+    padding: 80px 20px;
+    background: var(--secondary-color);
+}
+
+.details-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.detail-card {
+    background: var(--card-bg);
+    padding: 40px 30px;
+    border-radius: 15px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-color);
+}
+
+.detail-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-medium);
+    border-color: var(--accent-color);
+}
+
+.detail-icon {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.detail-card h3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: var(--text-primary);
+}
+
+.detail-card p {
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+/* Specifications */
+.specifications {
+    padding: 80px 20px;
+    background: var(--primary-color);
+}
+
+.specs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.spec-category {
+    background: var(--card-bg);
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+}
+
+.spec-category h3 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: var(--accent-color);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
+.spec-list {
+    list-style: none;
+}
+
+.spec-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border-color);
+    transition: background-color 0.3s ease;
+}
+
+.spec-list li:last-child {
+    border-bottom: none;
+}
+
+.spec-list li:hover {
+    background-color: rgba(74, 158, 255, 0.1);
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.spec-list li span:first-child {
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.spec-list li span:last-child {
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+/* Features */
+.features {
+    padding: 80px 20px;
+    background: var(--secondary-color);
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.feature-item {
+    background: var(--card-bg);
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+
+.feature-item:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-medium);
+    border-color: var(--accent-color);
+}
+
+.feature-item h3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: var(--text-primary);
+}
+
+.feature-item p {
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+/* CTA Section */
+.cta-section {
+    padding: 80px 20px;
+    background: var(--gradient-primary);
+    text-align: center;
+}
+
+.cta-content h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: var(--text-primary);
+}
+
+.cta-content p {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Related Vehicles */
+.related-vehicles {
+    padding: 80px 20px;
+    background: var(--primary-color);
+}
+
+/* Responsive Design for Vehicle Pages */
+@media (max-width: 768px) {
+    .vehicle-hero-content {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        text-align: center;
+    }
+    
+    .vehicle-title {
+        font-size: 2.5rem;
+    }
+    
+    .vehicle-subtitle {
+        font-size: 1.1rem;
+    }
+    
+    .vehicle-actions {
+        justify-content: center;
+    }
+    
+    .details-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .specs-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    
+    .features-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .cta-content h2 {
+        font-size: 2rem;
+    }
+    
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .cta-button,
+    .secondary-button {
+        width: 100%;
+        max-width: 300px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .vehicle-hero {
+        padding: 100px 15px 60px;
+    }
+    
+    .vehicle-title {
+        font-size: 2rem;
+    }
+    
+    .detail-card {
+        padding: 30px 20px;
+    }
+    
+    .spec-category {
+        padding: 25px 20px;
+    }
+    
+    .feature-item {
+        padding: 25px 20px;
+    }
+}
+
+/* Animation for page load */
+.vehicle-hero-content {
+    animation: slideInUp 0.8s ease;
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Breadcrumb navigation */
+.breadcrumb {
+    padding: 90px 20px 20px;
+    background: var(--primary-color);
+}
+
+.breadcrumb-nav {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.breadcrumb-nav a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.breadcrumb-nav a:hover {
+    color: var(--accent-color);
+}
+
+.breadcrumb-nav span {
+    color: var(--text-muted);
+    margin: 0 10px;
+}
+
+/* Image gallery for vehicle pages */
+.vehicle-gallery {
+    padding: 60px 20px;
+    background: var(--secondary-color);
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.gallery-item {
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.gallery-item:hover {
+    transform: scale(1.05);
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
