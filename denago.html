@@ -192,6 +192,77 @@
 
     <!-- JavaScript -->
     <script src="js/main.js"></script>
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+     <script src="js/main.js"></script>
+    <style>
+        .filter-section { padding:40px 20px; background:var(--secondary-color); border-bottom:1px solid var(--border-color); }
+        .filter-controls { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; gap:30px; }
+        .search-input { padding:12px 20px; border:1px solid var(--border-color); border-radius:25px; background:var(--card-bg); color:var(--text-primary); font-size:1rem; width:300px; outline:none; transition:border-color .3s ease; }
+        .search-input:focus { border-color:var(--accent-color); }
+        .filter-buttons { display:flex; gap:15px; }
+        .filter-btn { padding:10px 20px; border:2px solid var(--border-color); border-radius:25px; background:transparent; color:var(--text-secondary); font-weight:500; cursor:pointer; transition:all .3s ease; }
+        .filter-btn:hover, .filter-btn.active { border-color:var(--accent-color); color:var(--accent-color); background:rgba(74,158,255,0.1); }
+        .load-more-section { text-align:center; margin-top:50px; }
+        .vehicle-count { color:var(--text-secondary); margin-bottom:20px; font-size:1.1rem; }
+        .vehicle-card.hidden { display:none; }
+        @media (max-width:768px) {
+            .filter-controls { flex-direction:column; gap:20px; }
+            .search-input { width:100%; max-width:400px; }
+            .filter-buttons { flex-wrap:wrap; justify-content:center; }
+        }
+    </style>
+    <script>
+        const filterButtons = document.querySelectorAll('.filter-btn');
+        const vehicleCards   = document.querySelectorAll('.vehicle-card');
+        const searchInput    = document.getElementById('vehicle-search');
+        const loadMoreBtn    = document.getElementById('loadMoreBtn');
+        const visibleCountSpan = document.getElementById('visibleCount');
+        const totalCountSpan   = document.getElementById('totalCount');
+        let currentFilter = 'all', visibleCount = 12;
+
+        updateDisplay();
+
+        filterButtons.forEach(btn=>{
+            btn.addEventListener('click',function(){
+                filterButtons.forEach(b=>b.classList.remove('active'));
+                this.classList.add('active');
+                currentFilter = this.dataset.filter;
+                visibleCount = 12;
+                updateDisplay();
+            });
+        });
+
+        searchInput.addEventListener('input',function(){
+            visibleCount = 12;
+            updateDisplay(this.value.toLowerCase());
+        });
+
+        loadMoreBtn.addEventListener('click',()=>{
+            visibleCount += 12;
+            updateDisplay();
+        });
+
+        function updateDisplay(searchTerm=''){
+            let filtered = Array.from(vehicleCards);
+            if(currentFilter!=='all'){
+                filtered = filtered.filter(c=>c.dataset.category===currentFilter);
+            }
+            if(searchTerm){
+                filtered = filtered.filter(c=>{
+                    const title = c.querySelector('.vehicle-title').textContent.toLowerCase();
+                    const desc  = c.querySelector('.vehicle-description').textContent.toLowerCase();
+                    return title.includes(searchTerm)||desc.includes(searchTerm);
+                });
+            }
+            vehicleCards.forEach(c=>c.classList.add('hidden'));
+            filtered.slice(0,visibleCount).forEach(c=>c.classList.remove('hidden'));
+            const showing = Math.min(visibleCount, filtered.length);
+            visibleCountSpan.textContent = showing;
+            totalCountSpan.textContent   = filtered.length;
+            loadMoreBtn.style.display = (showing>=filtered.length)?'none':'inline-block';
+        }
+    </script>
 </body>
 </html>
 
