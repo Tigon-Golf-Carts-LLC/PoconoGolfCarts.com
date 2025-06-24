@@ -67,19 +67,15 @@
         <!-- Search Section -->
         <section class="filter-section">
             <div class="container">
-                <div class="search-container" style="text-align: center; margin-bottom: 40px;">
-                    <input type="text" id="vehicle-search" placeholder="Search EVOLUTION vehicles..." style="
-                        padding: 12px 20px;
-                        border: 1px solid var(--border-color);
-                        border-radius: 25px;
-                        background: var(--card-bg);
-                        color: var(--text-primary);
-                        font-size: 1rem;
-                        width: 100%;
-                        max-width: 400px;
-                        outline: none;
-                        transition: border-color 0.3s ease;
-                    ">
+                <div class="filter-controls">
+                    <div class="search-container">
+                        <input type="text" id="vehicle-search" placeholder="EVolution Models" class="search-input">
+                    </div>
+                    <div class="filter-buttons">
+                        <a href="/vehicle.html"><button class="filter-btn active">All Vehicles</button></a>
+                        <a href="/denago.html"><button class="filter-btn active">DENAGO Series</button></a>
+                        <a href="/evolution.html"><button class="filter-btn active">EVOLUTION Series</button></a>
+                    </div>
                 </div>
             </div>
         </section>
