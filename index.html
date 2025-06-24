@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pocono Golf Carts - Premium Electric Vehicles</title>
+    <title>Pocono Golf Carts - Premium Low Speed Neighborhood Golf Carts</title>
     <meta name="description" content="Explore Pocono Golf Carts' premium neighborhood electric vehicles—eco-friendly, street-legal carts designed for comfort, style, and reliable performance in your community.">
     <meta name="keywords" content="golf carts, electric vehicles, neighborhood electric vehicles, NEV, DENAGO, EVOLUTION, Pocono">
     
@@ -25,17 +25,17 @@
     <meta name="twitter:image" content="images/DENAGO NEV NOMAD XL.jpg">
     
     <!-- CSS -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../css/style.css">
     
     <!-- Preload critical resources -->
-    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="css/style.css" as="style">
     <link rel="preload" href="js/main.js" as="script">
 </head>
 <body>
     <!-- Header -->
-    <header class="header" id="header">
+    <header class="header">
         <nav class="nav-container">
-            <a href="https://poconogolfcarts.com" class="logo">POCONO GOLF CARTS</a>
+            <a href="index.html" class="logo">Pocono Golf Carts</a>
             
             <!-- Desktop Menu -->
             <div class="nav-center">
@@ -43,12 +43,13 @@
                     <li><a href="index.html">HOME</a></li>
                     <li><a href="denago.html">DENAGO</a></li>
                     <li><a href="evolution.html">EVOLUTION</a></li>
-                    <li><a href="vehicles.html">ALL VEHICLES</a></li>
                 </ul>
             </div>
             
+            <a href="contact.html" class="contact-button">Contact</a>
+            
             <!-- Mobile Menu Toggle -->
-            <div class="mobile-menu-toggle" id="mobile-menu-toggle">
+            <div class="mobile-menu-toggle">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -56,31 +57,43 @@
         </nav>
         
         <!-- Mobile Menu -->
-        <div class="mobile-menu" id="mobile-menu">
+        <div class="mobile-menu">
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="denago.html">DENAGO</a></li>
                 <li><a href="evolution.html">EVOLUTION</a></li>
-                <li><a href="vehicles.html">ALL VEHICLES</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
             </ul>
         </div>
     </header>
 
-    <!-- Main Content -->
     <main class="main-content">
-        <!-- Hero Section -->
-        <section id="home" class="hero">
+        <section class="hero">
             <div class="hero-content">
-                <h1>Premium Electric Vehicles</h1>
-                <p>Your premier source for eco-friendly, efficient neighborhood electric vehicles. Explore our range of models, customizable features, and support services designed to power your daily journeys with style and reliability.</p>
-                <a href="#vehicles" class="cta-button">Explore Our Vehicles</a>
+                <h1>Pocono Golf Carts</h1>
+                <p>Explore our full range of premium electric vehicles from DENAGO and EVOLUTION. Find the perfect low speed neighborhood electric vehicle for your lifestyle and transportation needs.</p>
             </div>
         </section>
 
+        <section class="filter-section">
+            <div class="container">
+                <div class="filter-controls">
+                    <div class="search-container">
+                        <input type="text" id="vehicle-search" placeholder="Search vehicles..." class="search-input">
+                    </div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="all">All Vehicles</button>
+                        <button class="filter-btn" data-filter="denago">DENAGO Series</button>
+                        <button class="filter-btn" data-filter="evolution">EVOLUTION Series</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
         <!-- Vehicles Section -->
         <section id="vehicles" class="vehicles-section">
             <div class="container">
-                <h2 class="section-title">Our Vehicle Collection</h2>
+                <h2 class="section-title">Pocono Golf Cart Selection</h2>
                 
                 <!-- Search Bar -->
                 <div class="search-container" style="text-align: center; margin-bottom: 40px;">
@@ -97,7 +110,7 @@
                         transition: border-color 0.3s ease;
                     ">
                 </div>
-
+                
                 <div class="vehicles-grid">
                     <!-- DENAGO EV CITY -->
                     <div class="vehicle-card">
@@ -504,106 +517,104 @@
     </footer>
 
     <!-- JavaScript -->
+    <script src="js/main.js"></script>
+     <script src="js/main.js"></script>
+    <style>
+        .filter-section { padding:40px 20px; background:var(--secondary-color); border-bottom:1px solid var(--border-color); }
+        .filter-controls { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; gap:30px; }
+        .search-input { padding:12px 20px; border:1px solid var(--border-color); border-radius:25px; background:var(--card-bg); color:var(--text-primary); font-size:1rem; width:300px; outline:none; transition:border-color .3s ease; }
+        .search-input:focus { border-color:var(--accent-color); }
+        .filter-buttons { display:flex; gap:15px; }
+        .filter-btn { padding:10px 20px; border:2px solid var(--border-color); border-radius:25px; background:transparent; color:var(--text-secondary); font-weight:500; cursor:pointer; transition:all .3s ease; }
+        .filter-btn:hover, .filter-btn.active { border-color:var(--accent-color); color:var(--accent-color); background:rgba(74,158,255,0.1); }
+        .load-more-section { text-align:center; margin-top:50px; }
+        .vehicle-count { color:var(--text-secondary); margin-bottom:20px; font-size:1.1rem; }
+        .vehicle-card.hidden { display:none; }
+        @media (max-width:768px) {
+            .filter-controls { flex-direction:column; gap:20px; }
+            .search-input { width:100%; max-width:400px; }
+            .filter-buttons { flex-wrap:wrap; justify-content:center; }
+        }
+    </style>
     <script>
-        // Mobile menu toggle
-        const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
-        const mobileMenu = document.getElementById('mobile-menu');
-        const header = document.getElementById('header');
+        const filterButtons = document.querySelectorAll('.filter-btn');
+        const vehicleCards   = document.querySelectorAll('.vehicle-card');
+        const searchInput    = document.getElementById('vehicle-search');
+        const loadMoreBtn    = document.getElementById('loadMoreBtn');
+        const visibleCountSpan = document.getElementById('visibleCount');
+        const totalCountSpan   = document.getElementById('totalCount');
+        let currentFilter = 'all', visibleCount = 12;
 
-        mobileMenuToggle.addEventListener('click', function() {
-            mobileMenuToggle.classList.toggle('active');
-            mobileMenu.classList.toggle('active');
-        });
+        updateDisplay();
 
-        // Header scroll behavior
-        let lastScrollTop = 0;
-        let scrollTimeout;
-
-        window.addEventListener('scroll', function() {
-            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-            
-            // Clear existing timeout
-            clearTimeout(scrollTimeout);
-            
-            // Add scrolled class for styling
-            if (scrollTop > 50) {
-                header.classList.add('scrolled');
-            } else {
-                header.classList.remove('scrolled');
-            }
-
-            // Hide/show header on desktop only
-            if (window.innerWidth > 768) {
-                if (scrollTop > lastScrollTop && scrollTop > 100) {
-                    // Scrolling down
-                    header.classList.add('hidden');
-                } else {
-                    // Scrolling up
-                    header.classList.remove('hidden');
-                }
-            }
-
-            lastScrollTop = scrollTop;
-
-            // Set timeout to show header after scrolling stops
-            scrollTimeout = setTimeout(function() {
-                if (window.innerWidth > 768) {
-                    header.classList.remove('hidden');
-                }
-            }, 150);
-        });
-
-        // Vehicle search functionality
-        const searchInput = document.getElementById('vehicle-search');
-        const vehicleCards = document.querySelectorAll('.vehicle-card');
-
-        searchInput.addEventListener('input', function() {
-            const searchTerm = this.value.toLowerCase();
-            
-            vehicleCards.forEach(card => {
-                const title = card.querySelector('.vehicle-title').textContent.toLowerCase();
-                const description = card.querySelector('.vehicle-description').textContent.toLowerCase();
-                
-                if (title.includes(searchTerm) || description.includes(searchTerm)) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
-                }
+        filterButtons.forEach(btn=>{
+            btn.addEventListener('click',function(){
+                filterButtons.forEach(b=>b.classList.remove('active'));
+                this.classList.add('active');
+                currentFilter = this.dataset.filter;
+                visibleCount = 12;
+                updateDisplay();
             });
         });
 
-        // Smooth scrolling for anchor links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                }
-            });
+        searchInput.addEventListener('input',function(){
+            visibleCount = 12;
+            updateDisplay(this.value.toLowerCase());
         });
 
-        // Close mobile menu when clicking on a link
-        document.querySelectorAll('.mobile-menu a').forEach(link => {
-            link.addEventListener('click', function() {
-                mobileMenuToggle.classList.remove('active');
-                mobileMenu.classList.remove('active');
-            });
+        loadMoreBtn.addEventListener('click',()=>{
+            visibleCount += 12;
+            updateDisplay();
         });
 
-        // Close mobile menu when clicking outside
-        document.addEventListener('click', function(event) {
-            const isClickInsideMenu = mobileMenu.contains(event.target);
-            const isClickOnToggle = mobileMenuToggle.contains(event.target);
-            
-            if (!isClickInsideMenu && !isClickOnToggle && mobileMenu.classList.contains('active')) {
-                mobileMenuToggle.classList.remove('active');
-                mobileMenu.classList.remove('active');
+        function updateDisplay(searchTerm=''){
+            let filtered = Array.from(vehicleCards);
+            if(currentFilter!=='all'){
+                filtered = filtered.filter(c=>c.dataset.category===currentFilter);
             }
-        });
+            if(searchTerm){
+                filtered = filtered.filter(c=>{
+                    const title = c.querySelector('.vehicle-title').textContent.toLowerCase();
+                    const desc  = c.querySelector('.vehicle-description').textContent.toLowerCase();
+                    return title.includes(searchTerm)||desc.includes(searchTerm);
+                });
+            }
+            vehicleCards.forEach(c=>c.classList.add('hidden'));
+            filtered.slice(0,visibleCount).forEach(c=>c.classList.remove('hidden'));
+            const showing = Math.min(visibleCount, filtered.length);
+            visibleCountSpan.textContent = showing;
+            totalCountSpan.textContent   = filtered.length;
+            loadMoreBtn.style.display = (showing>=filtered.length)?'none':'inline-block';
+        }
     </script>
 </body>
 </html>
+    
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Pocono Golf Carts",
+        "url": "https://poconogolfcarts.com",
+        "logo": "https://poconogolfcarts.com/images/DENAGO NEIGHBORHOOD ELECTRIC VEHICLE (1).png",
+        "description": "Premier Low Speed Neighborhood Golf Carts In The Poconos",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "123 Electric Ave",
+            "addressLocality": "Pocono",
+            "addressRegion": "PA",
+            "postalCode": "18301",
+            "addressCountry": "US"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": 1-844-844-6638
+            "contactType": "customer service"
+        }
+    }
+    </script>
+</body>
+</html>
+</html>
+
