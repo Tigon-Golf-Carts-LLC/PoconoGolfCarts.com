@@ -389,34 +389,56 @@
     </style>
     
     <script>
-        // Contact form handling
-        document.getElementById('contactForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            
-            // Get form data
-            const formData = new FormData(this);
-            const data = Object.fromEntries(formData);
-            
-            // Simple validation
-            if (!data.name || !data.email || !data.message) {
-                alert('Please fill in all required fields.');
-                return;
+       // Contact form handling
+document.getElementById('contactForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+
+    const submitButton = this.querySelector('button[type="submit"]');
+    const originalText = submitButton.textContent;
+    const form = this;
+    
+    // Get form data
+    const formData = new FormData(form);
+    const data = Object.fromEntries(formData);
+
+    // Simple validation
+    if (!data.name || !data.email || !data.message) {
+        alert('Please fill in all required fields.');
+        return;
+    }
+
+    // Update button text and disable it to prevent multiple submissions
+    submitButton.textContent = 'Sending...';
+    submitButton.disabled = true;
+
+    try {
+        // Send the data to your endpoint
+        const response = await fetch('zrt3xm0goujpyquwlljfcm5lv9cbicf2@hook.us1.make.com', { // <--- PASTE URL HERE
+            method: 'POST',
+            body: JSON.stringify(data),
+            headers: {
+                'Content-Type': 'application/json'
             }
-            
-            // Simulate form submission
-            const submitButton = this.querySelector('button[type="submit"]');
-            const originalText = submitButton.textContent;
-            
-            submitButton.textContent = 'Sending...';
-            submitButton.disabled = true;
-            
-            setTimeout(() => {
-                alert('Thank you for your message! We will get back to you within 24 hours.');
-                this.reset();
-                submitButton.textContent = originalText;
-                submitButton.disabled = false;
-            }, 1500);
         });
+
+        if (response.ok) {
+            // Success!
+            alert('Thank you for your message! We will get back to you within 24 hours.');
+            form.reset(); // Clear the form fields
+        } else {
+            // Handle server errors (e.g., validation errors from Formspree)
+            alert('Could not send your message. Please try again.');
+        }
+    } catch (error) {
+        // Handle network errors
+        console.error('Form submission error:', error);
+        alert('An error occurred. Please check your connection and try again.');
+    } finally {
+        // Re-enable the button and restore its text, regardless of outcome
+        submitButton.textContent = originalText;
+        submitButton.disabled = false;
+    }
+});
     </script>
 </body>
 </html>
