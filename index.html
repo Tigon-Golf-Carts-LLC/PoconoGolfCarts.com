@@ -43,6 +43,7 @@
                     <li><a href="index.html">Home</a></li>
                     <li><a href="denago.html">DENAGO</a></li>
                     <li><a href="evolution.html">EVOLUTION</a></li>
+                    <li><a href="about.html">About</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </div>
@@ -54,6 +55,18 @@
                 <span></span>
             </div>
         </nav>
+
+        <!-- Mobile Menu -->
+        <div class="mobile-menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="denago.html">DENAGO</a></li>
+                <li><a href="evolution.html">EVOLUTION</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </header>
 
     <main class="main-content">
         <section class="hero">
@@ -510,54 +523,36 @@
         }
     </style>
     <script>
-        const filterButtons = document.querySelectorAll('.filter-btn');
-        const vehicleCards   = document.querySelectorAll('.vehicle-card');
-        const searchInput    = document.getElementById('vehicle-search');
-        const loadMoreBtn    = document.getElementById('loadMoreBtn');
-        const visibleCountSpan = document.getElementById('visibleCount');
-        const totalCountSpan   = document.getElementById('totalCount');
-        let currentFilter = 'all', visibleCount = 12;
+        const vehicleCards = document.querySelectorAll('.vehicle-card');
+        const searchInput = document.getElementById('vehicle-search');
+        let visibleCount = 16; // Show 16 vehicles initially
 
+        // Initialize display
         updateDisplay();
 
-        filterButtons.forEach(btn=>{
-            btn.addEventListener('click',function(){
-                filterButtons.forEach(b=>b.classList.remove('active'));
-                this.classList.add('active');
-                currentFilter = this.dataset.filter;
-                visibleCount = 12;
-                updateDisplay();
+        // Search functionality
+        if (searchInput) {
+            searchInput.addEventListener('input', function(){
+                updateDisplay(this.value.toLowerCase());
             });
-        });
+        }
 
-        searchInput.addEventListener('input',function(){
-            visibleCount = 12;
-            updateDisplay(this.value.toLowerCase());
-        });
-
-        loadMoreBtn.addEventListener('click',()=>{
-            visibleCount += 12;
-            updateDisplay();
-        });
-
-        function updateDisplay(searchTerm=''){
+        function updateDisplay(searchTerm = '') {
             let filtered = Array.from(vehicleCards);
-            if(currentFilter!=='all'){
-                filtered = filtered.filter(c=>c.dataset.category===currentFilter);
-            }
-            if(searchTerm){
-                filtered = filtered.filter(c=>{
+            
+            if (searchTerm) {
+                filtered = filtered.filter(c => {
                     const title = c.querySelector('.vehicle-title').textContent.toLowerCase();
-                    const desc  = c.querySelector('.vehicle-description').textContent.toLowerCase();
-                    return title.includes(searchTerm)||desc.includes(searchTerm);
+                    const desc = c.querySelector('.vehicle-description').textContent.toLowerCase();
+                    return title.includes(searchTerm) || desc.includes(searchTerm);
                 });
             }
-            vehicleCards.forEach(c=>c.classList.add('hidden'));
-            filtered.slice(0,visibleCount).forEach(c=>c.classList.remove('hidden'));
-            const showing = Math.min(visibleCount, filtered.length);
-            visibleCountSpan.textContent = showing;
-            totalCountSpan.textContent   = filtered.length;
-            loadMoreBtn.style.display = (showing>=filtered.length)?'none':'inline-block';
+            
+            // Hide all cards first
+            vehicleCards.forEach(c => c.classList.add('hidden'));
+            
+            // Show the filtered cards up to visibleCount
+            filtered.slice(0, visibleCount).forEach(c => c.classList.remove('hidden'));
         }
     </script>
 
