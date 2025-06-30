@@ -57,19 +57,21 @@ body {
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
-  height: 70px;
+  height: 100px;
+  text-align: center;
 }
 
 .logo {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
   color: var(--accent-color);
   text-decoration: none;
   transition: all 0.3s ease;
-  flex-shrink: 0;
   letter-spacing: 0.5px;
+  margin-bottom: 15px;
 }
 
 .logo:hover {
@@ -80,16 +82,17 @@ body {
 .nav-center {
   display: flex;
   align-items: center;
-  flex-grow: 1;
+  width: 100%;
   justify-content: center;
 }
 
 .nav-menu {
   display: flex;
   list-style: none;
-  gap: 40px;
+  gap: 60px;
   margin: 0;
   padding: 0;
+  justify-content: center;
 }
 
 .nav-menu li {
@@ -429,12 +432,12 @@ body {
   .nav-menu {
     gap: 25px;
   }
-  
+
   .nav-menu li a {
     font-size: 0.9rem;
     padding: 10px 12px;
   }
-  
+
   .logo {
     font-size: 1.3rem;
   }
@@ -445,40 +448,40 @@ body {
   .nav-menu {
     display: none;
   }
-  
+
   .mobile-menu-toggle {
     display: flex;
   }
-  
+
   .hero h1 {
     font-size: 2.5rem;
   }
-  
+
   .hero p {
     font-size: 1.1rem;
   }
-  
+
   .vehicles-grid {
     grid-template-columns: 1fr;
     gap: 20px;
   }
-  
+
   .nav-container {
     padding: 0 15px;
   }
-  
+
   .hero {
     padding: 60px 15px;
   }
-  
+
   .vehicles-section {
     padding: 60px 15px;
   }
-  
+
   .logo {
     font-size: 1.1rem;
   }
-  
+
   /* Disable header hiding on mobile/tablet */
   .header.hidden {
     transform: translateY(0) !important;
@@ -489,28 +492,28 @@ body {
   .hero h1 {
     font-size: 2rem;
   }
-  
+
   .section-title {
     font-size: 2rem;
   }
-  
+
   .vehicle-info {
     padding: 20px;
   }
-  
+
   .nav-container {
     height: 60px;
   }
-  
+
   .main-content {
     margin-top: 60px;
   }
-  
+
   .mobile-menu {
     top: 60px;
     max-height: calc(100vh - 60px);
   }
-  
+
   .logo {
     font-size: 1rem;
   }
@@ -565,7 +568,7 @@ html {
   .nav-menu li a:hover {
     box-shadow: 0 4px 15px rgba(74, 158, 255, 0.2);
   }
-  
+
   .mobile-menu-toggle:hover span {
     background: var(--accent-color);
   }
@@ -585,7 +588,7 @@ html {
   .mobile-menu ul {
     animation: slideInFromTop 0.3s ease-out;
   }
-  
+
   @keyframes slideInFromTop {
     from {
       opacity: 0;
@@ -597,4 +600,3 @@ html {
     }
   }
 }
-
