@@ -1,0 +1,9 @@
+# robots.txt for poconogolfcarts.com
+User-agent: *
+Allow: /
+
+# Block dev/template artifacts that should never be indexed
+Disallow: /vehicle-template.html
+
+Sitemap: https://poconogolfcarts.com/sitemap.xml
+Sitemap: https://poconogolfcarts.com/image-sitemap.xml
