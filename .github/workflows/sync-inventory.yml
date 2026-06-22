@@ -39,9 +39,10 @@ jobs:
 
       - name: Sync inventory from DMS
         env:
-          # Optionally limit to specific store IDs (comma-separated).
-          # Leave empty to sync all active inventory.
-          DMS_STORE_IDS: ${{ vars.DMS_STORE_IDS }}
+          # Stores to include (comma-separated). Defaults to the Pennsylvania
+          # locations — T1 Hatfield, T3 Long Pond (Pocono), T5 Scranton.
+          # Override by setting a DMS_STORE_IDS repo variable (empty = all).
+          DMS_STORE_IDS: ${{ vars.DMS_STORE_IDS || 'T1,T3,T5' }}
         run: node scripts/sync-inventory.mjs
 
       - name: Commit updated snapshot

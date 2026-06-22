@@ -17,8 +17,8 @@
   const PHONE_NUMBER = "570-643-0152";
   const PHONE_TEL = "tel:570-643-0152";
   const S3_CARTS_URL = "https://s3.amazonaws.com/prod.docs.s3/carts/";
-  const COMING_SOON_IMAGE =
-    "https://tigongolfcarts.com/wp-content/uploads/2024/11/TIGON-GOLF-CARTS-IMAGES-COMING-SOON.jpg";
+  // Local placeholder for carts without a public photo (reliable, no hotlink).
+  const COMING_SOON_IMAGE = "images/cart-coming-soon.svg";
 
   // Live DMS API (imported directly in the browser when CORS allows).
   const DMS_BASE_URL = "https://api.tigondms.com/wp-website";
@@ -93,10 +93,13 @@
 
   // ---- State ---------------------------------------------------------------
 
+  const PAGE_SIZE = 24; // cards shown before "Load More"
+
   const state = {
     carts: [],
     storeMap: new Map(),
     slugMap: {},
+    shown: PAGE_SIZE,
     filter: {
       search: "",
       make: "all",
@@ -235,6 +238,7 @@
     if (!grid) return;
 
     const list = applyFilters();
+    const shown = Math.min(state.shown, list.length);
 
     if (list.length === 0) {
       grid.innerHTML =
@@ -247,15 +251,34 @@
         "</a> and we'll help you find the right cart.</p>" +
         "</div>";
     } else {
-      grid.innerHTML = list.map(cardHtml).join("");
+      grid.innerHTML = list.slice(0, shown).map(cardHtml).join("");
+    }
+
+    // "Load More" button
+    const more = document.getElementById("inventoryLoadMore");
+    if (more) {
+      if (shown < list.length) {
+        more.innerHTML =
+          '<button class="cta-button" id="loadMoreBtn">Load More (' +
+          (list.length - shown) +
+          " more)</button>";
+        const btn = document.getElementById("loadMoreBtn");
+        if (btn)
+          btn.addEventListener("click", function () {
+            state.shown += PAGE_SIZE;
+            render();
+          });
+      } else {
+        more.innerHTML = "";
+      }
     }
 
     if (count) {
       const total = state.carts.length;
       count.textContent =
         list.length === total
-          ? "Showing all " + total + " available cart" + (total === 1 ? "" : "s")
-          : "Showing " + list.length + " of " + total + " available carts";
+          ? "Showing " + shown + " of " + total + " available cart" + (total === 1 ? "" : "s")
+          : "Showing " + shown + " of " + list.length + " matching (of " + total + " available)";
     }
   }
 
@@ -297,6 +320,12 @@
     });
   }
 
+  // Re-render from the first page after any filter change.
+  function refilter() {
+    state.shown = PAGE_SIZE;
+    render();
+  }
+
   function wireControls() {
     const search = document.getElementById("inventorySearch");
     const make = document.getElementById("filterMake");
@@ -308,19 +337,19 @@
     if (search) {
       search.addEventListener("input", function () {
         state.filter.search = this.value.trim();
-        render();
+        refilter();
       });
     }
     if (make) {
       make.addEventListener("change", function () {
         state.filter.make = this.value;
-        render();
+        refilter();
       });
     }
     if (sort) {
       sort.addEventListener("change", function () {
         state.filter.sort = this.value;
-        render();
+        refilter();
       });
     }
     condBtns.forEach(function (btn) {
@@ -330,7 +359,7 @@
         });
         this.classList.add("active");
         state.filter.condition = this.dataset.condition;
-        render();
+        refilter();
       });
     });
     powerBtns.forEach(function (btn) {
@@ -340,13 +369,13 @@
         });
         this.classList.add("active");
         state.filter.power = this.dataset.power;
-        render();
+        refilter();
       });
     });
     if (legal) {
       legal.addEventListener("change", function () {
         state.filter.streetLegal = this.checked;
-        render();
+        refilter();
       });
     }
   }
@@ -437,18 +466,19 @@
 
     let data = null;
 
-    // 1) Try importing live from the DMS API first.
+    // 1) Use the committed snapshot first — it is refreshed nightly and is
+    //    already scoped to our store locations.
     try {
-      data = await loadFromDMS();
-      if (!data.carts.length) data = null; // fall through to snapshot
+      data = await loadFromSnapshot();
+      if (!data.carts.length) data = null; // empty -> try live as a fallback
     } catch (err) {
-      console.warn("Live DMS import unavailable, using snapshot:", err.message);
+      console.warn("Snapshot unavailable, trying live DMS:", err.message);
     }
 
-    // 2) Fall back to the committed snapshot.
+    // 2) Fall back to importing live from the DMS API directly.
     if (!data) {
       try {
-        data = await loadFromSnapshot();
+        data = await loadFromDMS();
       } catch (err) {
         console.error("Failed to load inventory:", err);
         setStatus("We couldn't load live inventory right now.", true);
