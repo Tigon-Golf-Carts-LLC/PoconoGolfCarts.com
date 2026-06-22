@@ -106,6 +106,7 @@
                 <div class="vehicles-grid" id="inventoryGrid">
                     <div class="inv-empty"><p>Loading live inventory…</p></div>
                 </div>
+                <div id="inventoryLoadMore" class="load-more-section"></div>
             </div>
         </section>
     </main>
@@ -180,6 +181,7 @@
         .inv-empty { grid-column:1/-1; text-align:center; padding:60px 20px; color:var(--text-secondary); font-size:1.15rem; line-height:1.8; }
         .inv-empty a { color:var(--accent-color); }
         .inv-error { color:#ff6b6b; }
+        .load-more-section { text-align:center; margin-top:40px; }
 
         @media (max-width:768px) {
             .inv-filter-row { flex-direction:column; align-items:stretch; }

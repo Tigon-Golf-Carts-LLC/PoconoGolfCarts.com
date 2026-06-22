@@ -83,14 +83,16 @@ async function fetchAllCarts() {
 }
 
 /**
- * A cart counts as ACTIVE inventory when its status is "Available" (the DMS
- * default for in-stock units). Carts with no status are kept; anything
- * explicitly sold/archived/pending is dropped.
+ * A cart counts as ACTIVE (sellable) inventory when its DMS status is
+ * "retail" (units listed for retail sale) or "available", or when it has no
+ * status. Carts in "work_in_progress", "boneyard" or "permanent_boneyard"
+ * are not sellable and are dropped.
  */
+const ACTIVE_STATUSES = new Set(["retail", "available", "in_stock", "instock"]);
 function isActive(cart) {
   const status = (cart?.status || "").toString().trim().toLowerCase();
   if (!status) return true;
-  return status === "available";
+  return ACTIVE_STATUSES.has(status);
 }
 
 /**
@@ -229,12 +231,23 @@ async function main() {
   const idToSlug = buildSlugMap(activeCarts, stores);
   const brands = deriveBrands(activeCarts);
 
+  // Diagnostic: active carts per store (helps decide location scope).
+  const storeNameById = new Map(stores.map((s) => [s.storeId, s.name]));
+  const storeActiveCounts = {};
+  for (const c of activeCarts) {
+    const id = c.cartLocation?.locationId || c.cartLocation?.latestStoreId || "(none)";
+    const label = `${id}${storeNameById.get(id) ? " " + storeNameById.get(id) : ""}`;
+    storeActiveCounts[label] = (storeActiveCounts[label] || 0) + 1;
+  }
+  console.log("Active per store:", JSON.stringify(storeActiveCounts));
+
   const snapshot = {
     generatedAt: new Date().toISOString(),
     source: DMS_BASE_URL,
     totalActive: activeCarts.length,
     totalFetched: rawCarts.length,
     statusCounts,
+    storeActiveCounts,
     storeIds: STORE_IDS,
     brands,
     stores,
