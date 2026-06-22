@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-06-22T14:27:04.452Z",
+  "generatedAt": "2026-06-22T14:51:57.940Z",
   "source": "https://api.tigondms.com/wp-website",
   "totalActive": 8,
   "totalFetched": 1138,
+  "statusCounts": {
+    "retail": 1014,
+    "work_in_progress": 49,
+    "permanent_boneyard": 10,
+    "(none)": 8,
+    "boneyard": 57
+  },
   "storeIds": [],
   "brands": [
     {
