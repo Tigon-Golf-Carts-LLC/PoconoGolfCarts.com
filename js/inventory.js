@@ -17,8 +17,8 @@
   const PHONE_NUMBER = "570-643-0152";
   const PHONE_TEL = "tel:570-643-0152";
   const S3_CARTS_URL = "https://s3.amazonaws.com/prod.docs.s3/carts/";
-  const COMING_SOON_IMAGE =
-    "https://tigongolfcarts.com/wp-content/uploads/2024/11/TIGON-GOLF-CARTS-IMAGES-COMING-SOON.jpg";
+  // Local placeholder for carts without a public photo (reliable, no hotlink).
+  const COMING_SOON_IMAGE = "images/cart-coming-soon.svg";
 
   // Live DMS API (imported directly in the browser when CORS allows).
   const DMS_BASE_URL = "https://api.tigondms.com/wp-website";

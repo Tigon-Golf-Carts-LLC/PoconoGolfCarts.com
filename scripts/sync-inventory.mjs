@@ -217,6 +217,14 @@ async function main() {
 
   const stores = (Array.isArray(rawStores) ? rawStores : []).map(trimStore);
 
+  // Diagnostic: how many carts carry each status value (helps tune isActive).
+  const statusCounts = {};
+  for (const c of rawCarts) {
+    const s = c && c.status != null && String(c.status).trim() ? String(c.status).trim() : "(none)";
+    statusCounts[s] = (statusCounts[s] || 0) + 1;
+  }
+  console.log("Status breakdown:", JSON.stringify(statusCounts));
+
   const activeCarts = rawCarts.filter(isActive).map(trimCart).filter((c) => c._id);
   const idToSlug = buildSlugMap(activeCarts, stores);
   const brands = deriveBrands(activeCarts);
@@ -226,6 +234,7 @@ async function main() {
     source: DMS_BASE_URL,
     totalActive: activeCarts.length,
     totalFetched: rawCarts.length,
+    statusCounts,
     storeIds: STORE_IDS,
     brands,
     stores,
