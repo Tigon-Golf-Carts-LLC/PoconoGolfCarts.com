@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Golf Cart Inventory for Sale in Pocono, PA | Pocono Golf Carts</title>
+    <link rel="canonical" href="https://poconogolfcarts.com/inventory.html">
+    <meta name="description" content="Browse our live, in-stock golf cart inventory in the Poconos. Real-time pricing and availability for new and used electric golf carts from DENAGO and EVOLUTION.">
+    <meta name="keywords" content="golf cart inventory, in-stock golf carts, electric golf carts for sale, Pocono, DENAGO, EVOLUTION, used golf carts">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/Pocono Golf Carts logo.png">
+    <link rel="shortcut icon" type="image/png" href="images/Pocono Golf Carts logo.png">
+
+    <!-- Open Graph Meta -->
+    <meta property="og:title" content="Live Golf Cart Inventory - Pocono Golf Carts">
+    <meta property="og:description" content="Browse our live, in-stock golf cart inventory with real-time pricing and availability.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://poconogolfcarts.com/inventory.html">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="index.html" class="logo">Pocono Golf Carts</a>
+
+            <!-- Desktop Menu -->
+            <div class="nav-center">
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="inventory.html">Inventory</a></li>
+                    <li><a href="golf-carts-for-sale-pocono-pa.html">For Sale</a></li>
+                    <li><a href="denago.html">DENAGO</a></li>
+                    <li><a href="evolution.html">EVOLUTION</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="resources/index.html">Resources</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Mobile Menu Toggle -->
+            <div class="mobile-menu-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Live Golf Cart Inventory</h1>
+                <p>Real-time, in-stock golf carts available in the Poconos. Prices and availability update automatically from our dealership management system.</p>
+                <p id="inventoryUpdated" class="inv-updated"></p>
+            </div>
+        </section>
+
+        <!-- Filters -->
+        <section class="filter-section">
+            <div class="container">
+                <div class="inv-filter-bar">
+                    <div class="inv-filter-row">
+                        <input type="text" id="inventorySearch" placeholder="Search make, model, color…" class="search-input" data-testid="input-search">
+
+                        <select id="filterMake" class="inv-select" data-testid="filter-make" aria-label="Filter by brand">
+                            <option value="all">All Brands</option>
+                        </select>
+
+                        <select id="filterSort" class="inv-select" data-testid="filter-sort" aria-label="Sort by">
+                            <option value="default">Sort: Featured</option>
+                            <option value="priceAsc">Price: Low to High</option>
+                            <option value="priceDesc">Price: High to Low</option>
+                        </select>
+                    </div>
+
+                    <div class="inv-filter-row">
+                        <div class="inv-btn-group" role="group" aria-label="Condition">
+                            <button class="filter-btn active" data-condition="all" data-testid="filter-condition-all">All</button>
+                            <button class="filter-btn" data-condition="new" data-testid="filter-new">New</button>
+                            <button class="filter-btn" data-condition="used" data-testid="filter-used">Used</button>
+                        </div>
+
+                        <div class="inv-btn-group" role="group" aria-label="Power">
+                            <button class="filter-btn active" data-power="all" data-testid="filter-power-all">Any Power</button>
+                            <button class="filter-btn" data-power="electric" data-testid="filter-electric">Electric</button>
+                            <button class="filter-btn" data-power="gas" data-testid="filter-gas">Gas</button>
+                        </div>
+
+                        <label class="inv-checkbox">
+                            <input type="checkbox" id="filterStreetLegal" data-testid="filter-street-legal">
+                            Street Legal only
+                        </label>
+                    </div>
+                </div>
+                <p id="inventoryCount" class="vehicle-count"></p>
+            </div>
+        </section>
+
+        <!-- Inventory grid -->
+        <section class="vehicles-section">
+            <div class="container">
+                <div class="vehicles-grid" id="inventoryGrid">
+                    <div class="inv-empty"><p>Loading live inventory…</p></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Information</h3>
+                <p>Phone:<a href="tel:1-844-844-6638">1-844-844-6638</a></p>
+                <p>Email: info@poconogolfcarts.com</p>
+                <p>Address: 1712 PA-940, Pocono Pines, PA 18350</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <p><a href="inventory.html">Live Inventory</a></p>
+                <p><a href="vehicles.html">Our Vehicles</a></p>
+                <p><a href="golf-carts-for-sale-pocono-pa.html">Golf Carts for Sale in Pocono, PA</a></p>
+                <p><a href="resources/index.html">Resources &amp; Guides</a></p>
+                <p><a href="about.html">About Us</a></p>
+                <p><a href="contact.html">Contact</a></p>
+                <p><a href="privacy-policy.html">Privacy Policy</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>Vehicle Series</h3>
+                <p><a href="denago.html">DENAGO Series</a></p>
+                <p><a href="evolution.html">EVOLUTION Series</a></p>
+                <p><a href="vehicles.html">All Vehicles</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <p><a href="https://www.facebook.com/TigonGolfCartsPoconos/">Facebook</a></p>
+                <p><a href="https://www.facebook.com/TigonGolfCartsPoconos/#">X</a></p>
+                <p><a href="https://www.instagram.com/tigongolfcarts/">Instagram</a></p>
+                <p><a href="https://www.youtube.com/@TIGONGolfCartsPoconosPA">YouTube</a></p>
+                <p><a href="https://www.pinterest.com/tigongolfcarts/">Pinterest</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Pocono Golf Carts. All rights reserved. | Premium Low Speed Neighborhood Golf Carts</p>
+            <p><a href="https://tigongolfcarts.com/pocono/">Pocono Golf Cart Source</a></p>
+        </div>
+    </footer>
+
+    <style>
+        .filter-section { padding:40px 20px; background:var(--secondary-color); border-bottom:1px solid var(--border-color); }
+        .inv-updated { font-size:.95rem; color:var(--text-muted); margin-top:8px; }
+        .inv-filter-bar { max-width:1200px; margin:0 auto; display:flex; flex-direction:column; gap:18px; }
+        .inv-filter-row { display:flex; flex-wrap:wrap; gap:15px; align-items:center; }
+        .search-input { padding:12px 20px; border:1px solid var(--border-color); border-radius:25px; background:var(--card-bg); color:var(--text-primary); font-size:1rem; min-width:260px; flex:1; outline:none; transition:border-color .3s ease; }
+        .search-input:focus { border-color:var(--accent-color); }
+        .inv-select { padding:12px 18px; border:1px solid var(--border-color); border-radius:25px; background:var(--card-bg); color:var(--text-primary); font-size:1rem; cursor:pointer; outline:none; }
+        .inv-select:focus { border-color:var(--accent-color); }
+        .inv-btn-group { display:flex; gap:8px; }
+        .filter-btn { padding:10px 18px; border:2px solid var(--border-color); border-radius:25px; background:transparent; color:var(--text-secondary); font-weight:500; cursor:pointer; transition:all .3s ease; }
+        .filter-btn:hover, .filter-btn.active { border-color:var(--accent-color); color:var(--accent-color); background:rgba(74,158,255,0.1); }
+        .inv-checkbox { display:flex; align-items:center; gap:8px; color:var(--text-secondary); cursor:pointer; font-weight:500; }
+        .inv-checkbox input { width:18px; height:18px; accent-color:var(--accent-color); cursor:pointer; }
+        .vehicle-count { max-width:1200px; margin:25px auto 0; color:var(--text-secondary); font-size:1.05rem; }
+
+        .inv-card { display:flex; flex-direction:column; }
+        .inv-image-wrap { background:var(--secondary-color); }
+        .inv-badges { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:14px; }
+        .inv-badge { font-size:.75rem; font-weight:600; padding:4px 10px; border-radius:20px; background:var(--secondary-color); color:var(--text-secondary); border:1px solid var(--border-color); letter-spacing:.3px; }
+        .inv-badge-new { background:rgba(74,158,255,0.15); color:var(--accent-color); border-color:var(--accent-color); }
+        .inv-badge-used { background:rgba(176,176,176,0.12); color:var(--text-secondary); }
+        .inv-badge-power { background:rgba(74,158,255,0.08); color:var(--text-primary); }
+        .inv-badge-legal { background:rgba(40,180,99,0.15); color:#37c46f; border-color:#37c46f; }
+        .inv-meta { color:var(--text-muted); font-size:.92rem; margin-bottom:14px; }
+        .inv-price { font-size:1.6rem; font-weight:bold; color:var(--accent-color); margin-bottom:18px; }
+        .inv-actions { margin-top:auto; }
+        .inv-call { display:block; text-align:center; font-size:1rem; padding:12px 20px; }
+        .inv-empty { grid-column:1/-1; text-align:center; padding:60px 20px; color:var(--text-secondary); font-size:1.15rem; line-height:1.8; }
+        .inv-empty a { color:var(--accent-color); }
+        .inv-error { color:#ff6b6b; }
+
+        @media (max-width:768px) {
+            .inv-filter-row { flex-direction:column; align-items:stretch; }
+            .search-input, .inv-select { width:100%; min-width:0; }
+            .inv-btn-group { justify-content:center; flex-wrap:wrap; }
+        }
+    </style>
+
+    <script src="js/main.js"></script>
+    <script src="js/inventory.js"></script>
+</body>
+</html>
