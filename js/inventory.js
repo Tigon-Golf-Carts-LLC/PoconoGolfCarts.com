@@ -19,9 +19,22 @@
   const S3_CARTS_URL = "https://s3.amazonaws.com/prod.docs.s3/carts/";
   const COMING_SOON_IMAGE =
     "https://tigongolfcarts.com/wp-content/uploads/2024/11/TIGON-GOLF-CARTS-IMAGES-COMING-SOON.jpg";
+
+  // Live DMS API (imported directly in the browser when CORS allows).
+  const DMS_BASE_URL = "https://api.tigondms.com/wp-website";
+  const DMS_PAGE_SIZE = 100;
+  const DMS_MAX_CARTS = 2000;
+  // Static snapshot written by the nightly "Sync Active Inventory" Action.
   const INVENTORY_URL = "data/inventory.json";
 
   const CURRENT_YEAR = new Date().getFullYear();
+
+  // A cart counts as ACTIVE inventory when its status is "Available"
+  // (or has no status). Anything explicitly sold/archived is hidden.
+  function isActiveCart(cart) {
+    var status = (cart && cart.status ? String(cart.status) : "").trim().toLowerCase();
+    return !status || status === "available";
+  }
 
   // ---- Display helpers -----------------------------------------------------
 
@@ -338,51 +351,127 @@
     }
   }
 
+  // ---- Data sources --------------------------------------------------------
+
+  // POST helper against the live DMS API.
+  async function dmsPost(endpoint, body) {
+    const res = await fetch(DMS_BASE_URL + endpoint, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    if (!res.ok) throw new Error("DMS " + endpoint + " -> HTTP " + res.status);
+    return res.json();
+  }
+
+  // Pull every cart from the DMS, page by page.
+  async function dmsFetchAllCarts() {
+    const all = [];
+    let pageNumber = 0;
+    let total = Infinity;
+    while (all.length < total && all.length < DMS_MAX_CARTS) {
+      const data = await dmsPost("/get-carts", { pageNumber: pageNumber, pageSize: DMS_PAGE_SIZE });
+      const carts = data && Array.isArray(data.carts) ? data.carts : [];
+      total = data && typeof data.totalCarts === "number" ? data.totalCarts : carts.length;
+      all.push.apply(all, carts);
+      if (carts.length === 0) break;
+      pageNumber += 1;
+    }
+    return all;
+  }
+
+  // Import inventory live from the DMS API (works when the API allows CORS).
+  async function loadFromDMS() {
+    const carts = await dmsFetchAllCarts();
+    let stores = [];
+    try {
+      const res = await fetch(DMS_BASE_URL + "/tigon-stores");
+      if (res.ok) stores = await res.json();
+    } catch (e) {
+      /* stores are optional for location labels */
+    }
+    return {
+      carts: carts.filter(isActiveCart),
+      stores: Array.isArray(stores) ? stores : [],
+      generatedAt: new Date().toISOString(),
+      live: true,
+    };
+  }
+
+  // Load the committed snapshot (reliable fallback, refreshed nightly).
+  async function loadFromSnapshot() {
+    const res = await fetch(INVENTORY_URL, { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    return {
+      carts: (Array.isArray(data.carts) ? data.carts : []).filter(isActiveCart),
+      stores: Array.isArray(data.stores) ? data.stores : [],
+      generatedAt: data.generatedAt,
+      live: false,
+    };
+  }
+
+  function applyData(data) {
+    state.carts = data.carts || [];
+    state.storeMap = new Map();
+    (data.stores || []).forEach(function (s) {
+      if (s && s.storeId) state.storeMap.set(s.storeId, s);
+    });
+
+    const updated = document.getElementById("inventoryUpdated");
+    if (updated) {
+      if (data.live) {
+        updated.textContent = "Showing live inventory direct from our DMS";
+      } else if (data.generatedAt) {
+        const d = new Date(data.generatedAt);
+        updated.textContent =
+          "Inventory updated " +
+          d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+      }
+    }
+  }
+
   async function load() {
     setStatus("Loading live inventory…", false);
+    wireControls();
+
+    let data = null;
+
+    // 1) Try importing live from the DMS API first.
     try {
-      const res = await fetch(INVENTORY_URL, { cache: "no-cache" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      const data = await res.json();
+      data = await loadFromDMS();
+      if (!data.carts.length) data = null; // fall through to snapshot
+    } catch (err) {
+      console.warn("Live DMS import unavailable, using snapshot:", err.message);
+    }
 
-      state.carts = Array.isArray(data.carts) ? data.carts : [];
-      state.slugMap = data.slugMap || {};
-      state.storeMap = new Map();
-      (data.stores || []).forEach(function (s) {
-        if (s.storeId) state.storeMap.set(s.storeId, s);
-      });
-
-      buildBrandOptions();
-      wireControls();
-
-      if (state.carts.length === 0) {
-        setStatus(
-          "Our live inventory is syncing. Please check back shortly or call " +
-            PHONE_NUMBER +
-            " for current availability.",
-          false
-        );
-        const count = document.getElementById("inventoryCount");
-        if (count) count.textContent = "";
+    // 2) Fall back to the committed snapshot.
+    if (!data) {
+      try {
+        data = await loadFromSnapshot();
+      } catch (err) {
+        console.error("Failed to load inventory:", err);
+        setStatus("We couldn't load live inventory right now.", true);
         return;
       }
-
-      // Show when the snapshot was last refreshed.
-      const updated = document.getElementById("inventoryUpdated");
-      if (updated && data.generatedAt) {
-        const d = new Date(data.generatedAt);
-        updated.textContent = "Inventory updated " + d.toLocaleDateString("en-US", {
-          year: "numeric",
-          month: "short",
-          day: "numeric",
-        });
-      }
-
-      render();
-    } catch (err) {
-      console.error("Failed to load inventory:", err);
-      setStatus("We couldn't load live inventory right now.", true);
     }
+
+    applyData(data);
+    buildBrandOptions();
+
+    if (state.carts.length === 0) {
+      setStatus(
+        "Our live inventory is syncing. Please check back shortly or call " +
+          PHONE_NUMBER +
+          " for current availability.",
+        false
+      );
+      const count = document.getElementById("inventoryCount");
+      if (count) count.textContent = "";
+      return;
+    }
+
+    render();
   }
 
   if (document.readyState === "loading") {
