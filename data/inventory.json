@@ -1,11 +1,395 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-06-22T14:27:04.452Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 0,
-  "totalFetched": 0,
+  "totalActive": 8,
+  "totalFetched": 1138,
   "storeIds": [],
-  "brands": [],
-  "stores": [],
-  "slugMap": {},
-  "carts": []
+  "brands": [
+    {
+      "key": "club_car",
+      "label": "Club Car"
+    },
+    {
+      "key": "denago",
+      "label": "Denago"
+    },
+    {
+      "key": "teko_ev",
+      "label": "TEKO EV"
+    }
+  ],
+  "stores": [
+    {
+      "storeId": "T1",
+      "name": "Tigon Hatfield",
+      "address": {
+        "city": "Hatfield",
+        "state": "Pennsylvania",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T2",
+      "name": "Tigon Ocean View",
+      "address": {
+        "city": "Ocean View",
+        "state": "New Jersey",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T3",
+      "name": "Tigon Long Pond",
+      "address": {
+        "city": "Long Pond",
+        "state": "Pennsylvania",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T4",
+      "name": "Tigon Dover",
+      "address": {
+        "city": "Dover",
+        "state": "Delaware",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T5",
+      "name": "Tigon Scranton",
+      "address": {
+        "city": "Scranton",
+        "state": "Pennsylvania",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T6",
+      "name": "Tigon Raleigh",
+      "address": {
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T7",
+      "name": "Tigon South Bend",
+      "address": {
+        "city": "South Bend",
+        "state": "Indiana",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T8",
+      "name": "Tigon Gloucester Point",
+      "address": {
+        "city": "Gloucester Point",
+        "state": "Virginia",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T9",
+      "name": "Tigon Bayville",
+      "address": {
+        "city": "Bayville",
+        "state": "New Jersey",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T10",
+      "name": "Tigon Waretown",
+      "address": {
+        "city": "Waretown",
+        "state": "New Jersey",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T11",
+      "name": "Tigon Orangeburg",
+      "address": {
+        "city": "Orangeburg",
+        "state": "South Carolina",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T12",
+      "name": "Tigon Lecanto",
+      "address": {
+        "city": "Lecanto",
+        "state": "Florida",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T13",
+      "name": "Tigon Swanton",
+      "address": {
+        "city": "Swanton",
+        "state": "Ohio",
+        "country": "USA"
+      }
+    },
+    {
+      "storeId": "T14",
+      "name": "Tigon Rio Grande",
+      "address": {
+        "city": "Rio Grande",
+        "state": "New Jersey",
+        "country": "USA"
+      }
+    }
+  ],
+  "slugMap": {
+    "6a049cbbdce0d24e4acc2422": "teko-ev-turbo-metallic-black-ocean-view-new-jersey-usa",
+    "69fa4a0b2c51f6d6f6cc497e": "denago-rover-xl6-scarlet-dover-delaware-usa",
+    "69fa45a52c51f6d6f6ca73ab": "denago-rover-xl6-white-dover-delaware-usa",
+    "69f8eec4aef26a12b97cad99": "denago-city-white-hatfield-pennsylvania-usa",
+    "69e658489974629827fa57b9": "denago-nomad-xl-matte-black-raleigh-north-carolina-usa",
+    "69aa0b2adf4a03d2eacac6c1": "denago-nomad-xl-aqua-ocean-view-new-jersey-usa",
+    "696bd9c4076a83b2ce4f3f89": "club-car-precedent-gray-hatfield-pennsylvania-usa",
+    "68921419b4001ad2cc726ea5": "club-car-precedent-beige-dover-delaware-usa"
+  },
+  "carts": [
+    {
+      "_id": "6a049cbbdce0d24e4acc2422",
+      "cartType": {
+        "make": "TEKO EV",
+        "model": "TURBO",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Metallic Black",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T2",
+        "latestStoreId": "T2",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c498e418-0071-7091-5f45-35e32b257174-1781277554711.jpg",
+        "c498e418-0071-7091-5f45-35e32b257174-1781277554716.jpg",
+        "c498e418-0071-7091-5f45-35e32b257174-1781277554719.jpg",
+        "c498e418-0071-7091-5f45-35e32b257174-1781277554723.jpg"
+      ],
+      "status": null
+    },
+    {
+      "_id": "69fa4a0b2c51f6d6f6cc497e",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL6",
+        "year": "2026"
+      },
+      "retailPrice": 12995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Scarlet",
+        "seatColor": "Stone",
+        "passengers": "6 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T4",
+        "latestStoreId": "T4",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": null
+    },
+    {
+      "_id": "69fa45a52c51f6d6f6ca73ab",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL6",
+        "year": "2026"
+      },
+      "retailPrice": 12995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Stone",
+        "passengers": "6 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T4",
+        "latestStoreId": "T4",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": null
+    },
+    {
+      "_id": "69f8eec4aef26a12b97cad99",
+      "cartType": {
+        "make": "Denago",
+        "model": "City",
+        "year": "2026"
+      },
+      "retailPrice": 16500,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Stone",
+        "passengers": "6 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": null
+    },
+    {
+      "_id": "69e658489974629827fa57b9",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Matte Black",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T6",
+        "latestStoreId": "T6",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": null
+    },
+    {
+      "_id": "69aa0b2adf4a03d2eacac6c1",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T2",
+        "latestStoreId": "T2",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": null
+    },
+    {
+      "_id": "696bd9c4076a83b2ce4f3f89",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2018"
+      },
+      "retailPrice": 3800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": null
+    },
+    {
+      "_id": "68921419b4001ad2cc726ea5",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2019"
+      },
+      "retailPrice": 4200,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T4",
+        "latestStoreId": "T4",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758810137092.jpg",
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758810137096.jpg",
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758810137099.jpg",
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758810137102.jpg"
+      ],
+      "status": null
+    }
+  ]
 }
