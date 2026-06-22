@@ -466,18 +466,19 @@
 
     let data = null;
 
-    // 1) Try importing live from the DMS API first.
+    // 1) Use the committed snapshot first — it is refreshed nightly and is
+    //    already scoped to our store locations.
     try {
-      data = await loadFromDMS();
-      if (!data.carts.length) data = null; // fall through to snapshot
+      data = await loadFromSnapshot();
+      if (!data.carts.length) data = null; // empty -> try live as a fallback
     } catch (err) {
-      console.warn("Live DMS import unavailable, using snapshot:", err.message);
+      console.warn("Snapshot unavailable, trying live DMS:", err.message);
     }
 
-    // 2) Fall back to the committed snapshot.
+    // 2) Fall back to importing live from the DMS API directly.
     if (!data) {
       try {
-        data = await loadFromSnapshot();
+        data = await loadFromDMS();
       } catch (err) {
         console.error("Failed to load inventory:", err);
         setStatus("We couldn't load live inventory right now.", true);
