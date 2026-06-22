@@ -9,13 +9,13 @@
  *   - Money:        "$1,234.56"  (commas + 2 decimals); else "Call for Price"
  *   - Condition:    USED if isUsed === true OR year < current year; else NEW
  *   - Images:       S3 base + imageUrls[0]; fall back to "Coming Soon"
- *   - Phone:        1-844-844-6638  (every Call Now button)
+ *   - Phone:        570-643-0152  (every Call Now button)
  */
 (function () {
   "use strict";
 
-  const PHONE_NUMBER = "1-844-844-6638";
-  const PHONE_TEL = "tel:1-844-844-6638";
+  const PHONE_NUMBER = "570-643-0152";
+  const PHONE_TEL = "tel:570-643-0152";
   const S3_CARTS_URL = "https://s3.amazonaws.com/prod.docs.s3/carts/";
   const COMING_SOON_IMAGE =
     "https://tigongolfcarts.com/wp-content/uploads/2024/11/TIGON-GOLF-CARTS-IMAGES-COMING-SOON.jpg";
