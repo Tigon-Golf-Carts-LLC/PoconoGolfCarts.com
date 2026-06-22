@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-22T15:41:00.648Z",
+  "generatedAt": "2026-06-22T16:41:34.846Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 403,
-  "totalFetched": 457,
+  "totalActive": 401,
+  "totalFetched": 455,
   "statusCounts": {
-    "retail": 401,
+    "retail": 399,
     "work_in_progress": 33,
     "(none)": 2,
     "boneyard": 19,
@@ -12,8 +12,8 @@
   },
   "storeActiveCounts": {
     "T3 Tigon Long Pond": 80,
-    "T1 Tigon Hatfield": 267,
-    "T5 Tigon Scranton": 56
+    "T1 Tigon Hatfield": 266,
+    "T5 Tigon Scranton": 55
   },
   "storeIds": [
     "T1",
@@ -472,14 +472,12 @@
     "68bf2523bd4229e7087116d6": "club-car-precedent-blue-hatfield-pennsylvania-usa-06",
     "68bf17b6bd4229e70870447d": "denago-nomad-xl-champagne-scranton-pennsylvania-usa",
     "68bf1720bd4229e708703e3a": "denago-nomad-xl-champagne-scranton-pennsylvania-usa-01",
-    "68bf15f1bd4229e708703368": "denago-rover-xl6-white-scranton-pennsylvania-usa-02",
     "68bef3e1bd4229e7086e12bc": "club-car-precedent-beige-scranton-pennsylvania-usa-01",
     "68bee88fbd4229e7086d9558": "denago-nomad-xl-red-long-pond-pennsylvania-usa",
     "68b8ab9dbd4229e7084153ef": "cricket-sx3-blue-hatfield-pennsylvania-usa",
     "68b894ecbd4229e70840f087": "club-car-ds-beige-hatfield-pennsylvania-usa-02",
     "68b86530bd4229e7083fb356": "ezgo-txt-black-hatfield-pennsylvania-usa-01",
     "68b85c08bd4229e7083f7bb8": "yamaha-g29-blue-hatfield-pennsylvania-usa",
-    "68b737a41101d55c5d89d7a4": "denago-rover-xl6-verdant-hatfield-pennsylvania-usa-02",
     "68b730541101d55c5d896df3": "denago-nomad-xl-black-hatfield-pennsylvania-usa",
     "68b72fc61101d55c5d896b94": "denago-nomad-xl-black-hatfield-pennsylvania-usa-01",
     "68b72e001101d55c5d89629e": "denago-nomad-xl-white-hatfield-pennsylvania-usa-05",
@@ -510,7 +508,8 @@
     "689e35e9972d0fd09d0f3a35": "denago-rover-xl-lava-long-pond-pennsylvania-usa",
     "689de843972d0fd09d09c994": "evolution-d-max-gt4-flamenco-red-hatfield-pennsylvania-usa",
     "689b4cff32e3057b145491b7": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
-    "6894c6a63d00226c366eadb5": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-01",
+    "6894f87d3d00226c36716417": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-01",
+    "6894c6a63d00226c366eadb5": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-02",
     "68937cf1b4001ad2cc7a6863": "evolution-d-max-gt6-black-hatfield-pennsylvania-usa",
     "68935930b4001ad2cc77586e": "club-car-precedent-beige-long-pond-pennsylvania-usa-05",
     "68920f5ab4001ad2cc724051": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
@@ -532,7 +531,6 @@
     "68792e77bc1d8712b43a5feb": "club-car-ds-green-hatfield-pennsylvania-usa",
     "6878090faaf8ac54e79509eb": "club-car-tempo-blue-hatfield-pennsylvania-usa-05",
     "687674fcaaf8ac54e78aa5f5": "club-car-precedent-blue-hatfield-pennsylvania-usa-08",
-    "686e81e3f476ae608839df35": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-02",
     "686d343b5a12aa24d69f0f2e": "denago-rover-xl-white-scranton-pennsylvania-usa-05",
     "686d2efc5a12aa24d69e75c2": "denago-rover-xl-white-scranton-pennsylvania-usa-06",
     "686d2e315a12aa24d69e704b": "denago-rover-xl-blue-scranton-pennsylvania-usa",
@@ -2591,7 +2589,7 @@
         "seatColor": "Black",
         "passengers": "4 Passenger",
         "driveTrain": "2X4",
-        "isLifted": false
+        "isLifted": true
       },
       "cartLocation": {
         "locationId": "T1",
@@ -8948,39 +8946,6 @@
       "status": "retail"
     },
     {
-      "_id": "68bf15f1bd4229e708703368",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XL6",
-        "year": "2026"
-      },
-      "retailPrice": 12995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Stone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1757353454523.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1757353454527.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1757353454531.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1757353454534.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "68bef3e1bd4229e7086e12bc",
       "cartType": {
         "make": "Club Car",
@@ -9161,34 +9126,6 @@
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1756912648294.jpg",
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1756912648297.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "68b737a41101d55c5d89d7a4",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XL6",
-        "year": "2026"
-      },
-      "retailPrice": 12995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Verdant",
-        "seatColor": "Stone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -10117,6 +10054,39 @@
       "status": "retail"
     },
     {
+      "_id": "6894f87d3d00226c36716417",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D-Max XT6",
+        "year": "2025"
+      },
+      "retailPrice": 17595,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Flamenco Red",
+        "seatColor": "Brown",
+        "passengers": "6 Passenger",
+        "driveTrain": "4X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "2488b458-0071-70b4-3e37-b9f796d9a29f-1781293182012.jpg",
+        "2488b458-0071-70b4-3e37-b9f796d9a29f-1781293182017.jpg",
+        "2488b458-0071-70b4-3e37-b9f796d9a29f-1781293182021.jpg",
+        "2488b458-0071-70b4-3e37-b9f796d9a29f-1781293182025.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6894c6a63d00226c366eadb5",
       "cartType": {
         "make": "Evolution",
@@ -10797,34 +10767,6 @@
       },
       "title": {
         "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "686e81e3f476ae608839df35",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max XT6",
-        "year": "2025"
-      },
-      "retailPrice": 17595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Flamenco Red",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "4X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
       },
       "imageUrls": [],
       "status": "retail"
