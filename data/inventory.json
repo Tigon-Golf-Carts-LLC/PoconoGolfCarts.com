@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:35:22.204Z",
+  "generatedAt": "2026-06-23T07:50:24.110Z",
   "source": "https://api.tigondms.com/wp-website",
   "totalActive": 401,
   "totalFetched": 455,
@@ -11,9 +11,9 @@
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
+    "T1 Tigon Hatfield": 265,
     "T3 Tigon Long Pond": 80,
-    "T1 Tigon Hatfield": 266,
-    "T5 Tigon Scranton": 55
+    "T5 Tigon Scranton": 56
   },
   "storeIds": [
     "T1",
@@ -203,6 +203,7 @@
     }
   ],
   "slugMap": {
+    "6a395dab87950d30a00a6b3b": "ezgo-txt-silver-hatfield-pennsylvania-usa",
     "6a3955b787950d30a0079f86": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa",
     "6a39538b87950d30a005793a": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-01",
     "6a39506b87950d30a0041619": "denago-rover-xl-aqua-long-pond-pennsylvania-usa",
@@ -319,7 +320,6 @@
     "6a0e11bec7931014519a024a": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-01",
     "6a0de695c7931014518aac45": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-06",
     "6a0de5d1c7931014518a965d": "denago-rover-xl-gray-hatfield-pennsylvania-usa",
-    "6a0ceb5ec7931014517d8c16": "ezgo-rxv-white-hatfield-pennsylvania-usa",
     "6a0cb4d3c793101451770e0b": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-07",
     "6a0cb323c79310145176dab7": "denago-rover-xl-matte-black-long-pond-pennsylvania-usa-01",
     "6a0c9cc5c793101451744e81": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-08",
@@ -342,6 +342,7 @@
     "69f8e793aef26a12b97bca03": "denago-rover-xl6-verdant-hatfield-pennsylvania-usa-01",
     "69f8e748aef26a12b97bc650": "denago-rover-xl6-lava-hatfield-pennsylvania-usa",
     "69f8e694aef26a12b97bb9bd": "denago-rover-xl6-lava-hatfield-pennsylvania-usa-01",
+    "69f65a54e700519e4b69aab7": "star-ev-sirius-2-2-white-scranton-pennsylvania-usa",
     "69f4e67be700519e4b5cf052": "cushman-cushman-titan-flatbed-gray-long-pond-pennsylvania-usa",
     "69f4dac0e700519e4b5c1ef8": "cushman-other-black-hatfield-pennsylvania-usa",
     "69f0bbb1fd1f4d07e7a50514": "cushman-other-blue-hatfield-pennsylvania-usa",
@@ -359,7 +360,6 @@
     "69e8cc9799746298273639c2": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-03",
     "69e7e001997462982733e999": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-04",
     "69e7a66b99746298272c7024": "denago-nomad-xl-white-hatfield-pennsylvania-usa",
-    "69e7964b99746298272bba7f": "denago-nomad-xl-matte-white-hatfield-pennsylvania-usa-01",
     "69e78be0997462982715cd2c": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-04",
     "69e77df8997462982709ce95": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-05",
     "69e77bc39974629827097bc4": "denago-nomad-xl-white-hatfield-pennsylvania-usa-01",
@@ -509,7 +509,6 @@
     "689de843972d0fd09d09c994": "evolution-d-max-gt4-flamenco-red-hatfield-pennsylvania-usa",
     "689b4cff32e3057b145491b7": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
     "6894f87d3d00226c36716417": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-01",
-    "6894c6a63d00226c366eadb5": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-02",
     "68937cf1b4001ad2cc7a6863": "evolution-d-max-gt6-black-hatfield-pennsylvania-usa",
     "68935930b4001ad2cc77586e": "club-car-precedent-beige-long-pond-pennsylvania-usa-05",
     "68920f5ab4001ad2cc724051": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
@@ -531,6 +530,7 @@
     "68792e77bc1d8712b43a5feb": "club-car-ds-green-hatfield-pennsylvania-usa",
     "6878090faaf8ac54e79509eb": "club-car-tempo-blue-hatfield-pennsylvania-usa-05",
     "687674fcaaf8ac54e78aa5f5": "club-car-precedent-blue-hatfield-pennsylvania-usa-08",
+    "686e81e3f476ae608839df35": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-02",
     "686d343b5a12aa24d69f0f2e": "denago-rover-xl-white-scranton-pennsylvania-usa-05",
     "686d2efc5a12aa24d69e75c2": "denago-rover-xl-white-scranton-pennsylvania-usa-06",
     "686d2e315a12aa24d69e704b": "denago-rover-xl-blue-scranton-pennsylvania-usa",
@@ -606,6 +606,34 @@
     "66faf912e2a685c5a27c87f9": "icon-i40-lime-long-pond-pennsylvania-usa"
   },
   "carts": [
+    {
+      "_id": "6a395dab87950d30a00a6b3b",
+      "cartType": {
+        "make": "EZGO",
+        "model": "TXT",
+        "year": "2022"
+      },
+      "retailPrice": 4995,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Silver",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
     {
       "_id": "6a3955b787950d30a0079f86",
       "cartType": {
@@ -4155,39 +4183,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a0ceb5ec7931014517d8c16",
-      "cartType": {
-        "make": "EZGO",
-        "model": "RXV",
-        "year": "2020"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "2 Tone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779286373717.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779286373722.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779286373726.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779286373729.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a0cb4d3c793101451770e0b",
       "cartType": {
         "make": "Denago",
@@ -4873,6 +4868,39 @@
       "status": "retail"
     },
     {
+      "_id": "69f65a54e700519e4b69aab7",
+      "cartType": {
+        "make": "Star EV",
+        "model": "SIRIUS 2+2",
+        "year": "2022"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Beige",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T5",
+        "latestStoreId": "T5",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1777901055502.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1777901055516.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1777901055520.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1777901055525.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "69f4e67be700519e4b5cf052",
       "cartType": {
         "make": "Cushman",
@@ -5416,39 +5444,6 @@
         "94d8f438-40f1-703d-fb2b-fc81715c3a61-1776801413947.jpg",
         "94d8f438-40f1-703d-fb2b-fc81715c3a61-1776801413952.jpg",
         "94d8f438-40f1-703d-fb2b-fc81715c3a61-1776801413955.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "69e7964b99746298272bba7f",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Matte White",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776786895763.jpg",
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776786895766.jpg",
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776786895770.jpg",
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776786895773.jpg"
       ],
       "status": "retail"
     },
@@ -10087,39 +10082,6 @@
       "status": "retail"
     },
     {
-      "_id": "6894c6a63d00226c366eadb5",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max XT6",
-        "year": "2025"
-      },
-      "retailPrice": 17595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Flamenco Red",
-        "seatColor": "Brown",
-        "passengers": "6 Passenger",
-        "driveTrain": "4X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "24484418-b081-7022-3700-ba4cd4fbe2c7-1775063543218.jpg",
-        "24484418-b081-7022-3700-ba4cd4fbe2c7-1775063543223.jpg",
-        "24484418-b081-7022-3700-ba4cd4fbe2c7-1775063543227.jpg",
-        "24484418-b081-7022-3700-ba4cd4fbe2c7-1775063543230.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "68937cf1b4001ad2cc7a6863",
       "cartType": {
         "make": "Evolution",
@@ -10767,6 +10729,34 @@
       },
       "title": {
         "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "686e81e3f476ae608839df35",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D-Max XT6",
+        "year": "2025"
+      },
+      "retailPrice": 17595,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Flamenco Red",
+        "seatColor": "2 Tone",
+        "passengers": "6 Passenger",
+        "driveTrain": "4X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
       },
       "imageUrls": [],
       "status": "retail"
