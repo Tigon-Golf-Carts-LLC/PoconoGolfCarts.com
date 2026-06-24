@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Cart Rentals in the Poconos - Pocono Golf Carts</title>
+    <link rel="canonical" href="https://poconogolfcarts.com/rentals.html">
+    <meta name="description" content="Rent a golf cart in the Pocono Mountains. Daily, weekly and monthly rates on 4 seater, 6 seater and utility golf carts. Delivery &amp; pickup available. Call 570-643-0152.">
+    <meta name="keywords" content="golf cart rentals, Pocono golf cart rental, rent golf cart, 4 seater rental, 6 seater rental, utility cart rental, daily weekly monthly golf cart">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/Pocono Golf Carts logo.png">
+    <link rel="shortcut icon" type="image/png" href="images/Pocono Golf Carts logo.png">
+
+    <!-- Open Graph Meta -->
+    <meta property="og:title" content="Golf Cart Rentals in the Poconos - Pocono Golf Carts">
+    <meta property="og:description" content="Rent a golf cart in the Pocono Mountains. Daily, weekly and monthly rates with delivery &amp; pickup available.">
+    <meta property="og:image" content="images/Pocono Golf Carts logo.png">
+    <meta property="og:url" content="https://poconogolfcarts.com/rentals.html">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Meta -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Golf Cart Rentals in the Poconos - Pocono Golf Carts">
+    <meta name="twitter:description" content="Rent a golf cart in the Pocono Mountains. Daily, weekly and monthly rates with delivery &amp; pickup available.">
+    <meta name="twitter:image" content="images/Pocono Golf Carts logo.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        /* ─── Rentals page styles ───────────────────────────────────────── */
+        .rentals-hero { background: var(--gradient-primary); padding: 90px 20px 70px; text-align: center; position: relative; overflow: hidden; }
+        .rentals-hero::before { content: ''; position: absolute; inset: 0; background: url('../images/pic13.jpg') center/cover; opacity: 0.08; z-index: 0; }
+        .rentals-hero .hero-inner { position: relative; z-index: 1; max-width: 820px; margin: 0 auto; }
+        .rentals-hero .eyebrow { color: var(--accent-color); font-size: 0.85rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 14px; }
+        .rentals-hero h1 { font-size: 3rem; font-weight: 800; margin-bottom: 16px; background: var(--gradient-accent); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .rentals-hero p { font-size: 1.2rem; color: var(--text-secondary); margin-bottom: 32px; }
+
+        .phone-btn { display: inline-flex; align-items: center; gap: 10px; background: var(--gradient-accent); color: #fff; padding: 15px 34px; text-decoration: none; border-radius: 50px; font-weight: 700; font-size: 1.1rem; transition: all 0.3s ease; box-shadow: var(--shadow-light); }
+        .phone-btn:hover { transform: translateY(-2px); box-shadow: var(--shadow-medium); }
+        .phone-btn svg { width: 18px; height: 18px; }
+
+        /* Why choose */
+        .why-section { background: var(--secondary-color); padding: 60px 20px; border-bottom: 1px solid var(--border-color); }
+        .why-section h2 { text-align: center; font-size: 1.9rem; font-weight: 800; margin-bottom: 38px; }
+        .why-grid { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: repeat(6, 1fr); gap: 18px; }
+        .why-card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 14px; padding: 22px 14px; text-align: center; transition: all 0.3s ease; }
+        .why-card:hover { border-color: var(--accent-color); transform: translateY(-4px); }
+        .why-icon { width: 46px; height: 46px; margin: 0 auto 12px; border-radius: 50%; background: rgba(74,158,255,0.12); display: flex; align-items: center; justify-content: center; }
+        .why-icon svg { width: 22px; height: 22px; stroke: var(--accent-color); }
+        .why-card span { font-size: 0.82rem; font-weight: 600; color: var(--text-primary); line-height: 1.4; }
+
+        /* Sticky jump nav */
+        .jump-nav { position: sticky; top: 0; z-index: 900; background: rgba(26,26,26,0.97); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border-color); }
+        .jump-nav-inner { max-width: 1100px; margin: 0 auto; display: flex; gap: 8px; padding: 12px 20px; overflow-x: auto; }
+        .jump-nav a { white-space: nowrap; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); text-decoration: none; padding: 8px 16px; border-radius: 50px; transition: all 0.3s ease; }
+        .jump-nav a:hover { color: var(--accent-color); background: rgba(74,158,255,0.1); }
+
+        /* Main */
+        .rentals-main { max-width: 1100px; margin: 0 auto; padding: 60px 20px; }
+        .rentals-intro { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 18px; padding: 30px; margin-bottom: 40px; color: var(--text-secondary); font-size: 1.05rem; line-height: 1.8; }
+
+        .pricing-section { scroll-margin-top: 90px; background: var(--secondary-color); border: 1px solid var(--border-color); border-radius: 20px; padding: 36px 28px; margin-bottom: 40px; }
+        .pricing-head { display: flex; align-items: center; gap: 14px; margin-bottom: 6px; }
+        .pricing-head .sec-icon { width: 42px; height: 42px; border-radius: 50%; background: rgba(74,158,255,0.12); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+        .pricing-head .sec-icon svg { width: 22px; height: 22px; stroke: var(--accent-color); }
+        .pricing-head h2 { font-size: 1.55rem; font-weight: 800; }
+        .pricing-section .sec-sub { color: var(--text-muted); font-size: 0.95rem; margin: 0 0 28px 56px; }
+
+        .plans-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+        .plan-card { display: flex; flex-direction: column; background: var(--card-bg); border: 2px solid rgba(74,158,255,0.3); border-radius: 16px; overflow: hidden; box-shadow: var(--shadow-light); }
+        .plan-banner { background: var(--gradient-accent); color: #fff; font-size: 0.65rem; font-weight: 800; letter-spacing: 2px; text-align: center; padding: 6px; text-transform: uppercase; }
+        .plan-body { display: flex; flex-direction: column; gap: 12px; padding: 20px; flex: 1; }
+        .plan-label { color: var(--accent-color); font-weight: 700; font-size: 1.05rem; }
+        .plan-tagline { font-size: 0.78rem; color: var(--text-muted); margin-top: 2px; line-height: 1.4; }
+        .plan-badge { align-self: flex-start; font-size: 0.7rem; font-weight: 700; padding: 3px 11px; border-radius: 50px; }
+        .plan-badge.save { background: rgba(34,197,94,0.15); color: #22c55e; border: 1px solid rgba(34,197,94,0.3); }
+        .plan-badge.best { background: rgba(176,176,176,0.15); color: var(--text-secondary); border: 1px solid var(--border-color); }
+        .plan-price { display: flex; align-items: baseline; gap: 5px; }
+        .plan-price .amt { font-size: 1.9rem; font-weight: 800; color: var(--text-primary); }
+        .plan-price .per { font-size: 0.78rem; color: var(--text-muted); font-weight: 500; }
+        .plan-meta { font-size: 0.76rem; color: var(--text-muted); line-height: 1.6; }
+        .plan-cta { margin-top: auto; display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: var(--gradient-accent); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.78rem; letter-spacing: 1.5px; padding: 11px; border-radius: 10px; transition: all 0.3s ease; }
+        .plan-cta:hover { transform: translateY(-2px); box-shadow: var(--shadow-medium); }
+        .plan-cta svg { width: 14px; height: 14px; }
+
+        /* Help */
+        .help-section { scroll-margin-top: 90px; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 20px; padding: 50px 30px; text-align: center; }
+        .help-section h2 { font-size: 1.7rem; font-weight: 800; margin-bottom: 14px; }
+        .help-section p { color: var(--text-secondary); max-width: 560px; margin: 0 auto 28px; line-height: 1.7; }
+
+        .fine-print { font-size: 0.75rem; color: var(--text-muted); text-align: center; margin-top: 36px; line-height: 1.6; }
+
+        @media (max-width: 900px) {
+            .why-grid { grid-template-columns: repeat(3, 1fr); }
+            .plans-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 560px) {
+            .rentals-hero h1 { font-size: 2.2rem; }
+            .why-grid { grid-template-columns: repeat(2, 1fr); }
+            .plans-grid { grid-template-columns: 1fr; }
+            .pricing-section .sec-sub { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="index.html" class="logo">Pocono Golf Carts</a>
+
+            <!-- Desktop Menu -->
+            <div class="nav-center">
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="inventory.html">Inventory</a></li>
+                    <li><a href="denago.html">DENAGO</a></li>
+                    <li><a href="evolution.html">EVOLUTION</a></li>
+                    <li><a href="rentals.html">Rentals</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Mobile Menu Toggle -->
+            <div class="mobile-menu-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main-content">
+
+        <!-- Hero -->
+        <section class="rentals-hero">
+            <div class="hero-inner">
+                <p class="eyebrow">Pocono Golf Carts &middot; Golf Cart Rentals</p>
+                <h1>Golf Cart Rentals</h1>
+                <p>Delivery &amp; Pickup Available, with Daily, Weekly and Monthly Rates!</p>
+                <a href="tel:570-643-0152" class="phone-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    570-643-0152
+                </a>
+            </div>
+        </section>
+
+        <!-- Why Choose -->
+        <section class="why-section">
+            <h2>Why Choose Our Golf Cart Rentals?</h2>
+            <div class="why-grid">
+                <div class="why-card">
+                    <div class="why-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg></div>
+                    <span>Street legal carts available</span>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg></div>
+                    <span>Flexible pickup and delivery</span>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></div>
+                    <span>Fully charged and ready to go</span>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+                    <span>Free insurance coverage</span>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg></div>
+                    <span>24/7 customer support</span>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div>
+                    <span>No hidden fees</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sticky jump nav -->
+        <div class="jump-nav">
+            <div class="jump-nav-inner">
+                <a href="#four-seater">4 Seater Plans</a>
+                <a href="#six-seater">6 Seater Plans</a>
+                <a href="#utility">Utility Plans</a>
+                <a href="#help">Need Help?</a>
+            </div>
+        </div>
+
+        <!-- Main content -->
+        <div class="rentals-main">
+
+            <div class="rentals-intro">
+                Explore the Pocono Mountains in style. Whether you're here for a weekend getaway, a family vacation, a special
+                event, or you need a reliable cart for the season, we have the perfect rental at the right price. All of our
+                rentals come fully charged, fully insured, and ready to go &mdash; with convenient delivery and pickup right to
+                your door. Choose the duration that fits your plans below and reserve today.
+            </div>
+
+            <!-- 4 Seater -->
+            <section id="four-seater" class="pricing-section">
+                <div class="pricing-head">
+                    <div class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+                    <h2>4 Seater Golf Cart Rental Plans</h2>
+                </div>
+                <p class="sec-sub">Choose the perfect rental duration for your needs.</p>
+                <div class="plans-grid">
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Daily Rental</div><div class="plan-tagline">When you just need one day.</div></div>
+                            <span class="plan-badge best">Best Value</span>
+                            <div class="plan-price"><span class="amt">$245</span><span class="per">/1 day*</span></div>
+                            <div class="plan-meta">Renews at $245/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">3 Day Rental</div><div class="plan-tagline">When you need a few days.</div></div>
+                            <span class="plan-badge save">SAVE 6.8%</span>
+                            <div class="plan-price"><span class="amt">$685</span><span class="per">/3 days*</span></div>
+                            <div class="plan-meta">Renews at $228.34/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Weekly Rental</div><div class="plan-tagline">When you need a week of fun.</div></div>
+                            <span class="plan-badge save">SAVE 38.7%</span>
+                            <div class="plan-price"><span class="amt">$1,050</span><span class="per">/7 days*</span></div>
+                            <div class="plan-meta">Renews at $150/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Monthly Rental</div><div class="plan-tagline">When you need a month to explore.</div></div>
+                            <span class="plan-badge save">SAVE 61.9%</span>
+                            <div class="plan-price"><span class="amt">$2,800</span><span class="per">/30 days*</span></div>
+                            <div class="plan-meta">Renews at $94/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 6 Seater -->
+            <section id="six-seater" class="pricing-section">
+                <div class="pricing-head">
+                    <div class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+                    <h2>6 Seater Golf Cart Rental Plans</h2>
+                </div>
+                <p class="sec-sub">Choose the perfect rental duration for your needs.</p>
+                <div class="plans-grid">
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Daily Rental</div><div class="plan-tagline">When you just need one day.</div></div>
+                            <span class="plan-badge best">Best Value</span>
+                            <div class="plan-price"><span class="amt">$295</span><span class="per">/1 day*</span></div>
+                            <div class="plan-meta">Renews at $295/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">3 Day Rental</div><div class="plan-tagline">When you need a few days.</div></div>
+                            <span class="plan-badge save">SAVE 16.9%</span>
+                            <div class="plan-price"><span class="amt">$735</span><span class="per">/3 days*</span></div>
+                            <div class="plan-meta">Renews at $245/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Weekly Rental</div><div class="plan-tagline">When you need a week of fun.</div></div>
+                            <span class="plan-badge save">SAVE 32.2%</span>
+                            <div class="plan-price"><span class="amt">$1,400</span><span class="per">/7 days*</span></div>
+                            <div class="plan-meta">Renews at $200/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Monthly Rental</div><div class="plan-tagline">When you need a month to explore.</div></div>
+                            <span class="plan-badge save">SAVE 60.4%</span>
+                            <div class="plan-price"><span class="amt">$3,500</span><span class="per">/30 days*</span></div>
+                            <div class="plan-meta">Renews at $116.67/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Utility -->
+            <section id="utility" class="pricing-section">
+                <div class="pricing-head">
+                    <div class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg></div>
+                    <h2>Utility Golf Cart Rental Plans</h2>
+                </div>
+                <p class="sec-sub">Choose the perfect rental duration for your needs.</p>
+                <div class="plans-grid">
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Daily Rental</div><div class="plan-tagline">When you just need one day.</div></div>
+                            <span class="plan-badge best">Best Value</span>
+                            <div class="plan-price"><span class="amt">$245</span><span class="per">/1 day*</span></div>
+                            <div class="plan-meta">Renews at $245/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">3 Day Rental</div><div class="plan-tagline">When you need a few days.</div></div>
+                            <span class="plan-badge save">SAVE 6.8%</span>
+                            <div class="plan-price"><span class="amt">$685</span><span class="per">/3 days*</span></div>
+                            <div class="plan-meta">Renews at $228.34/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Weekly Rental</div><div class="plan-tagline">When you need a week of fun.</div></div>
+                            <span class="plan-badge save">SAVE 38.7%</span>
+                            <div class="plan-price"><span class="amt">$1,050</span><span class="per">/7 days*</span></div>
+                            <div class="plan-meta">Renews at $150/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                    <div class="plan-card">
+                        <div class="plan-banner">Recommended</div>
+                        <div class="plan-body">
+                            <div><div class="plan-label">Monthly Rental</div><div class="plan-tagline">When you need a month to explore.</div></div>
+                            <span class="plan-badge save">SAVE 61.9%</span>
+                            <div class="plan-price"><span class="amt">$2,800</span><span class="per">/30 days*</span></div>
+                            <div class="plan-meta">Renews at $94/daily term*<br>Delivery Fee $6/mile term*</div>
+                            <a href="tel:570-643-0152" class="plan-cta"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>RESERVE TODAY</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Need Help -->
+            <section id="help" class="help-section">
+                <h2>Need Help Choosing?</h2>
+                <p>Our friendly team is here to help you select the perfect golf cart rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.</p>
+                <a href="tel:570-643-0152" class="phone-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    Call 570-643-0152
+                </a>
+            </section>
+
+            <p class="fine-print">
+                * Prices subject to change. Delivery fee of $6/mile applies from nearest Pocono Golf Carts location.
+                All rentals subject to availability. Call for details.
+            </p>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Information</h3>
+                <p>Phone:<a href="tel:570-643-0152">570-643-0152</a></p>
+                <p>Email: info@poconogolfcarts.com</p>
+                <p>Address: 1712 PA-940, Pocono Pines, PA 18350</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <p><a href="vehicles.html">Our Vehicles</a></p>
+                <p><a href="golf-carts-for-sale-pocono-pa.html">Golf Carts for Sale in Pocono, PA</a></p>
+                <p><a href="rentals.html">Golf Cart Rentals</a></p>
+                <p><a href="resources/index.html">Resources &amp; Guides</a></p>
+                <p><a href="about.html">About Us</a></p>
+                <p><a href="contact.html">Contact</a></p>
+                <p><a href="privacy-policy.html">Privacy Policy</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>Vehicle Series</h3>
+                <p><a href="denago.html">DENAGO Series</a></p>
+                <p><a href="evolution.html">EVOLUTION Series</a></p>
+                <p><a href="vehicles.html">All Vehicles</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <p><a href="https://www.facebook.com/TigonGolfCartsPoconos/">Facebook</a></p>
+                <p><a href="https://www.facebook.com/TigonGolfCartsPoconos/#">X</a></p>
+                <p><a href="https://www.instagram.com/tigongolfcarts/">Instagram</a></p>
+                <p><a href="https://www.youtube.com/@TIGONGolfCartsPoconosPA">YouTube</a></p>
+                <p><a href="https://www.pinterest.com/tigongolfcarts/">Pinterest</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Pocono Golf Carts. All rights reserved. | Premium Low Speed Neighborhood Golf Carts</p>
+            <p><a href="https://tigongolfcarts.com/pocono/">Pocono Golf Cart Source</a></p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Golf Cart Rental",
+      "name": "Golf Cart Rentals - Pocono Golf Carts",
+      "description": "Daily, weekly and monthly golf cart rentals in the Pocono Mountains. 4 seater, 6 seater and utility carts with delivery and pickup available.",
+      "url": "https://poconogolfcarts.com/rentals.html",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Pocono Mountains, PA"
+      },
+      "provider": {
+        "@type": "AutoDealer",
+        "name": "Pocono Golf Carts",
+        "telephone": "+1-570-643-0152",
+        "email": "info@poconogolfcarts.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1712 PA-940",
+          "addressLocality": "Pocono Pines",
+          "addressRegion": "PA",
+          "postalCode": "18350",
+          "addressCountry": "US"
+        }
+      }
+    }
+    </script>
+</body>
+</html>
