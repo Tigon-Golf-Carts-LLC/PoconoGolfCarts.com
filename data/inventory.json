@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-25T07:42:33.574Z",
+  "generatedAt": "2026-06-26T07:53:26.096Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 409,
-  "totalFetched": 459,
+  "totalActive": 407,
+  "totalFetched": 458,
   "statusCounts": {
-    "retail": 407,
+    "retail": 405,
     "work_in_progress": 28,
     "(none)": 2,
-    "boneyard": 20,
+    "boneyard": 21,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
     "T5 Tigon Scranton": 71,
-    "T1 Tigon Hatfield": 261,
-    "T3 Tigon Long Pond": 77
+    "T1 Tigon Hatfield": 260,
+    "T3 Tigon Long Pond": 76
   },
   "storeIds": [
     "T1",
@@ -236,7 +236,6 @@
     "6a32c730500a181187b992b7": "ezgo-rxv-gray-long-pond-pennsylvania-usa-02",
     "6a32c60d500a181187b962d6": "ezgo-rxv-red-long-pond-pennsylvania-usa",
     "6a32c495500a181187b91812": "ezgo-rxv-red-long-pond-pennsylvania-usa-01",
-    "6a32c015500a181187b8d0bc": "ezgo-rxv-beige-long-pond-pennsylvania-usa",
     "6a32b85f500a181187b7fb65": "cushman-other-green-hatfield-pennsylvania-usa",
     "6a329d20500a181187b333a6": "club-car-tempo-black-hatfield-pennsylvania-usa-04",
     "6a3015978221bed0f743ebba": "cushman-other-green-hatfield-pennsylvania-usa-01",
@@ -414,9 +413,7 @@
     "69b8328bb75dd0263dfde357": "denago-rover-xl-gray-scranton-pennsylvania-usa-03",
     "69b1ae3b2f2f7297f6b0bdc8": "yamaha-drive-2-beige-scranton-pennsylvania-usa",
     "69aee3a2966101fff829516a": "yamaha-drive-2-green-hatfield-pennsylvania-usa",
-    "69aedef8966101fff8291869": "yamaha-drive-2-green-hatfield-pennsylvania-usa-01",
     "69aed787966101fff828893d": "yamaha-drive-2-green-long-pond-pennsylvania-usa",
-    "69aed6bf966101fff828614f": "yamaha-drive-2-green-hatfield-pennsylvania-usa-02",
     "69a882dbdf4a03d2eab532c8": "denago-nomad-xl-white-hatfield-pennsylvania-usa-04",
     "698decce42bc93bf9f4d2c29": "club-car-precedent-sea-blue-hatfield-pennsylvania-usa",
     "6984aef0266ae7d997f62005": "denago-nomad-black-hatfield-pennsylvania-usa",
@@ -611,7 +608,8 @@
     "66fb0655e2a685c5a27c8887": "club-car-precedent-blue-hatfield-pennsylvania-usa-09",
     "66fb03fee2a685c5a27c886f": "star-ev-capella-2-2-black-hatfield-pennsylvania-usa",
     "66fafb17e2a685c5a27c8813": "yamaha-drive-2-blue-long-pond-pennsylvania-usa",
-    "66faf912e2a685c5a27c87f9": "icon-i40-lime-long-pond-pennsylvania-usa"
+    "66faf912e2a685c5a27c87f9": "icon-i40-lime-long-pond-pennsylvania-usa",
+    "66f422a00f4b93de4a9ed4c6": "club-car-precedent-white-hatfield-pennsylvania-usa-02"
   },
   "carts": [
     {
@@ -1634,39 +1632,6 @@
         "64283408-70d1-702c-89f5-3c92ff566622-1781712018458.jpg",
         "64283408-70d1-702c-89f5-3c92ff566622-1781712018463.jpg",
         "64283408-70d1-702c-89f5-3c92ff566622-1781712018467.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a32c015500a181187b8d0bc",
-      "cartType": {
-        "make": "EZGO",
-        "model": "RXV",
-        "year": "2020"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "64283408-70d1-702c-89f5-3c92ff566622-1781710865971.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1781710865976.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1781710865980.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1781710865984.jpg"
       ],
       "status": "retail"
     },
@@ -7141,39 +7106,6 @@
       "status": "retail"
     },
     {
-      "_id": "69aedef8966101fff8291869",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "Drive 2",
-        "year": "2017"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "Utility",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689090652.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689090656.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689090660.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689090663.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "69aed787966101fff828893d",
       "cartType": {
         "make": "Yamaha",
@@ -7199,39 +7131,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "69aed6bf966101fff828614f",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "Drive 2",
-        "year": "2017"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "Utility",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689465797.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689465802.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689465806.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773689465810.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -13255,6 +13154,39 @@
         "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1738958640610.jpg",
         "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1738958640620.jpg",
         "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1738958640631.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "66f422a00f4b93de4a9ed4c6",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2011"
+      },
+      "retailPrice": 6800,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Black",
+        "passengers": null,
+        "driveTrain": null,
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727275679669.jpg",
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727275679681.jpg",
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727275679693.jpg",
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727275679703.jpg"
       ],
       "status": "retail"
     }
