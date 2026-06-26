@@ -1,19 +1,13 @@
 name: Sync Active Inventory from DMS
 
 on:
-  # Refresh on every push to main (production) and Claude working branches,
-  # so the snapshot is populated without a manual run. paths-ignore stops the
-  # snapshot commit from re-triggering the workflow.
-  push:
-    branches:
-      - main
-      - "claude/**"
-    paths-ignore:
-      - "data/inventory.json"
-  # Refresh nightly at 11:00 PM EST (04:00 UTC), matching the DMS daily refresh.
+  # Refresh nightly at 11:00 PM EST (04:00 UTC), matching the DMS daily
+  # refresh. We intentionally do NOT sync on push: regenerating the snapshot
+  # on every push/merge produced competing data/inventory.json commits and
+  # constant merge conflicts. Nightly + manual keeps it fresh without churn.
   schedule:
     - cron: "0 4 * * *"
-  # Allow manual runs from the Actions tab.
+  # Allow manual runs from the Actions tab (e.g. after new stock arrives).
   workflow_dispatch:
 
 # Allow the job to commit the refreshed snapshot back to the repo.
