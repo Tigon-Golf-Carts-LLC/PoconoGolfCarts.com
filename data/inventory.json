@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-04T06:47:07.716Z",
+  "generatedAt": "2026-07-05T07:25:55.783Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 376,
-  "totalFetched": 427,
+  "totalActive": 367,
+  "totalFetched": 418,
   "statusCounts": {
-    "retail": 374,
+    "retail": 365,
     "work_in_progress": 28,
     "(none)": 2,
     "boneyard": 21,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 265,
+    "T1 Tigon Hatfield": 257,
     "T5 Tigon Scranton": 53,
-    "T3 Tigon Long Pond": 58
+    "T3 Tigon Long Pond": 57
   },
   "storeIds": [
     "T1",
@@ -214,8 +214,7 @@
     "6a3eb5a66639bb670bc332a2": "denago-nomad-xl-glacier-hatfield-pennsylvania-usa",
     "6a3eb5726639bb670bc331c7": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa",
     "6a3eb5446639bb670bc330e2": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-01",
-    "6a3eb5136639bb670bc32adb": "denago-nomad-xl-gray-hatfield-pennsylvania-usa",
-    "6a3eb4dc6639bb670bc32919": "denago-nomad-xl-gray-hatfield-pennsylvania-usa-01",
+    "6a3eb4dc6639bb670bc32919": "denago-nomad-xl-gray-hatfield-pennsylvania-usa",
     "6a3c2b5a9918e86cfa72664e": "yamaha-g29-white-hatfield-pennsylvania-usa",
     "6a3aede2483d19b1ef96b07a": "denago-rover-xl-black-scranton-pennsylvania-usa",
     "6a3aed78483d19b1ef96a6a4": "denago-rover-xl-gray-scranton-pennsylvania-usa",
@@ -232,7 +231,6 @@
     "6a39506b87950d30a0041619": "denago-rover-xl-aqua-long-pond-pennsylvania-usa",
     "6a394f9d87950d30a003ef70": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-01",
     "6a3943f187950d30a0ff4047": "denago-nomad-xl-lava-long-pond-pennsylvania-usa",
-    "6a393cbe87950d30a0fdadc5": "denago-nomad-xl-aqua-long-pond-pennsylvania-usa",
     "6a34190044cb5d2a083cc534": "ezgo-rxv-white-long-pond-pennsylvania-usa",
     "6a340fab2932856acdeb57ee": "club-car-other-green-hatfield-pennsylvania-usa",
     "6a340f5d2932856acdeb53ad": "club-car-other-green-hatfield-pennsylvania-usa-01",
@@ -280,8 +278,7 @@
     "6a1d9157dfca37b4fc232b98": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-02",
     "6a1d900cdfca37b4fc230dd8": "denago-rover-xl-white-hatfield-pennsylvania-usa-01",
     "6a1d87b0dfca37b4fc22414f": "denago-rover-xl-matte-white-hatfield-pennsylvania-usa-01",
-    "6a1d82dbdfca37b4fc21c0bc": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
-    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-03",
+    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
     "6a18a3987f6a2f131758e8c9": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-01",
     "6a18a2fd7f6a2f131758ddfd": "denago-rover-xl-glacier-long-pond-pennsylvania-usa",
     "6a189c614565d34f03e59561": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa",
@@ -296,7 +293,6 @@
     "6a15a95006916db77397e593": "club-car-tempo-beige-hatfield-pennsylvania-usa-01",
     "6a14ac0d06916db77389a1cd": "denago-rover-xl-matte-black-scranton-pennsylvania-usa",
     "6a14ab7706916db773899ee2": "denago-rover-xl-white-scranton-pennsylvania-usa",
-    "6a1477a106916db773836bd7": "club-car-tempo-white-hatfield-pennsylvania-usa-03",
     "6a146aeb06916db77382949e": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-03",
     "6a146a9606916db7738237ca": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-04",
     "6a146a1b06916db773822da8": "denago-rover-xl-white-hatfield-pennsylvania-usa-02",
@@ -320,13 +316,12 @@
     "6a10b6dd06916db7733df7c4": "denago-rover-xl-white-hatfield-pennsylvania-usa-03",
     "6a10b6a406916db7733dec30": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-04",
     "6a10b66306916db7733dea46": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-05",
-    "6a1099b306916db7733b6037": "club-car-tempo-white-hatfield-pennsylvania-usa-04",
+    "6a1099b306916db7733b6037": "club-car-tempo-white-hatfield-pennsylvania-usa-03",
     "6a108c0706916db773397af5": "club-car-tempo-beige-hatfield-pennsylvania-usa-04",
     "6a108adb06916db77339639d": "club-car-tempo-beige-hatfield-pennsylvania-usa-05",
     "6a0e13ecc7931014519a1c3d": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-06",
     "6a0e1259c7931014519a104a": "denago-nomad-xl-glacier-hatfield-pennsylvania-usa-07",
     "6a0e11f3c7931014519a05cf": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa",
-    "6a0e11bec7931014519a024a": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-01",
     "6a0de695c7931014518aac45": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-06",
     "6a0de5d1c7931014518a965d": "denago-rover-xl-gray-hatfield-pennsylvania-usa-02",
     "6a0cb4d3c793101451770e0b": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-07",
@@ -340,7 +335,6 @@
     "6a0889e510157207617330e7": "ezgo-other-green-hatfield-pennsylvania-usa",
     "6a0889641015720761732c36": "ezgo-other-green-hatfield-pennsylvania-usa-01",
     "6a088873101572076173265c": "cushman-other-green-hatfield-pennsylvania-usa-03",
-    "6a0887cd1015720761731a41": "cushman-other-green-hatfield-pennsylvania-usa-04",
     "6a08878a1015720761731042": "cushman-other-red-hatfield-pennsylvania-usa",
     "69f8eec4aef26a12b97cad99": "denago-city-white-hatfield-pennsylvania-usa",
     "69f8ee8aaef26a12b97ca7b5": "denago-city-white-hatfield-pennsylvania-usa-01",
@@ -358,26 +352,25 @@
     "69eb98c899746298271c2ba4": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-09",
     "69eb918d9974629827146195": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa",
     "69ea61f69974629827e860c4": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-07",
-    "69e9157899746298275c6ea5": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-02",
+    "69e9157899746298275c6ea5": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-01",
     "69e8ed089974629827448747": "denago-rover-xl-gray-hatfield-pennsylvania-usa-03",
     "69e8d9c89974629827379d60": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-01",
-    "69e8d8a89974629827376c8b": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-03",
+    "69e8d8a89974629827376c8b": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-02",
     "69e8d1bd997462982736b27c": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-02",
     "69e8cc9799746298273639c2": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-03",
     "69e7e001997462982733e999": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-04",
-    "69e78be0997462982715cd2c": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-04",
-    "69e77df8997462982709ce95": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-05",
+    "69e78be0997462982715cd2c": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-03",
+    "69e77df8997462982709ce95": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-04",
     "69e77bc39974629827097bc4": "denago-nomad-xl-white-hatfield-pennsylvania-usa",
-    "69e68b459974629827057b19": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-06",
+    "69e68b459974629827057b19": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-05",
     "69e673c99974629827011e4c": "denago-nomad-xl-white-hatfield-pennsylvania-usa-01",
     "69e6663e9974629827fb816d": "denago-nomad-xl-white-hatfield-pennsylvania-usa-02",
-    "69e65ffd9974629827fb1def": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-07",
+    "69e65ffd9974629827fb1def": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-06",
     "69e24cbd997462982725c0de": "denago-nomad-xl-white-scranton-pennsylvania-usa",
     "69e24c8a997462982725bcec": "denago-nomad-xl-matte-white-scranton-pennsylvania-usa-01",
     "69e24c51997462982725b875": "denago-nomad-xl-matte-white-scranton-pennsylvania-usa-02",
     "69dfa4a299746298270b62e0": "ezgo-txt-green-long-pond-pennsylvania-usa",
-    "69d95d3c22860ae9e9336217": "cushman-other-green-hatfield-pennsylvania-usa-05",
-    "69d95b5522860ae9e92a5914": "cushman-other-red-hatfield-pennsylvania-usa-01",
+    "69d95d3c22860ae9e9336217": "cushman-other-green-hatfield-pennsylvania-usa-04",
     "69d808a022860ae9e9ee3143": "ezgo-txt-white-hatfield-pennsylvania-usa",
     "69d1243d62b9eb8a273ddcfe": "ezgo-txt-champane-scranton-pennsylvania-usa",
     "69d122da62b9eb8a273dc88d": "ezgo-txt-champane-hatfield-pennsylvania-usa-01",
@@ -446,7 +439,6 @@
     "68d3f7ea6de7ecc645aae175": "denago-nomad-xl-white-long-pond-pennsylvania-usa-01",
     "68cf0b00c618efe29da7b497": "denago-rover-xl6-scarlet-scranton-pennsylvania-usa-01",
     "68cf013dc618efe29da77af0": "denago-rover-xl6-white-scranton-pennsylvania-usa",
-    "68ceffeac618efe29da773cf": "club-car-tempo-black-hatfield-pennsylvania-usa-04",
     "68cee583c618efe29da6b984": "denago-rover-xl6-scarlet-long-pond-pennsylvania-usa",
     "68cc40a5c618efe29d9ac4dc": "club-car-precedent-beige-hatfield-pennsylvania-usa-06",
     "68c5b1b4bf550abf6260b6af": "star-ev-classic-black-hatfield-pennsylvania-usa",
@@ -488,7 +480,6 @@
     "68a4d72f064c00dc874ed255": "evolution-d-max-gt6-arctic-gray-hatfield-pennsylvania-usa",
     "68a4d680064c00dc874ec833": "evolution-d-max-gt6-flamenco-red-hatfield-pennsylvania-usa",
     "68a4d1e9064c00dc874e93a4": "evolution-d-max-gt6-flamenco-red-hatfield-pennsylvania-usa-01",
-    "68a4c5d6064c00dc874e266f": "denago-rover-xxl-black-hatfield-pennsylvania-usa",
     "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
     "689f90b4972d0fd09d16a740": "club-car-precedent-beige-long-pond-pennsylvania-usa-02",
     "689f8170972d0fd09d15ea70": "club-car-precedent-beige-long-pond-pennsylvania-usa-03",
@@ -878,34 +869,6 @@
       "isUsed": false,
       "cartAttributes": {
         "cartColor": "Aqua",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a3eb5136639bb670bc32adb",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Gray",
         "seatColor": "Stone",
         "passengers": "4 Passenger",
         "driveTrain": "2X4",
@@ -1445,39 +1408,6 @@
         "64283408-70d1-702c-89f5-3c92ff566622-1782137839427.jpg",
         "64283408-70d1-702c-89f5-3c92ff566622-1782137839431.jpg",
         "64283408-70d1-702c-89f5-3c92ff566622-1782137839434.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a393cbe87950d30a0fdadc5",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Aqua",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "64283408-70d1-702c-89f5-3c92ff566622-1782135994595.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1782135994599.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1782135994602.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1782135994606.jpg"
       ],
       "status": "retail"
     },
@@ -2908,34 +2838,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a1d82dbdfca37b4fc21c0bc",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6a19abe757a11a3caeb3306a",
       "cartType": {
         "make": "Club Car",
@@ -3386,34 +3288,6 @@
       },
       "title": {
         "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a1477a106916db773836bd7",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2018"
-      },
-      "retailPrice": 4000,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
       },
       "imageUrls": [],
       "status": "retail"
@@ -4313,39 +4187,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a0e11bec7931014519a024a",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Matte Black",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779805903655.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779805903660.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779805903664.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779805903667.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a0de695c7931014518aac45",
       "cartType": {
         "make": "Denago",
@@ -4756,38 +4597,6 @@
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781365880078.jpg",
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781365880082.jpg",
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781365880085.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a0887cd1015720761731a41",
-      "cartType": {
-        "make": "Cushman",
-        "model": "Other",
-        "year": "2019"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781382108566.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781382108571.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781382108575.jpg"
       ],
       "status": "retail"
     },
@@ -5922,39 +5731,6 @@
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1775852859489.jpg",
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1775852859493.jpg",
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1775852859495.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "69d95b5522860ae9e92a5914",
-      "cartType": {
-        "make": "Cushman",
-        "model": "Other",
-        "year": "2022"
-      },
-      "retailPrice": 5995,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "RED",
-        "seatColor": "Stone",
-        "passengers": "Utility",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1780415989380.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1780415989386.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1780415989391.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1780415989395.jpg"
       ],
       "status": "retail"
     },
@@ -8038,36 +7814,6 @@
       "status": "retail"
     },
     {
-      "_id": "68ceffeac618efe29da773cf",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2018"
-      },
-      "retailPrice": 5000,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Black",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1780152889014.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "68cee583c618efe29da6b984",
       "cartType": {
         "make": "Denago",
@@ -9353,39 +9099,6 @@
         "isStreetLegal": true
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "68a4c5d6064c00dc874e266f",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XXL",
-        "year": "2026"
-      },
-      "retailPrice": 12995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Black",
-        "seatColor": "Stone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773244224224.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773244224229.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773244224233.jpg",
-        "94d8f438-40f1-703d-fb2b-fc81715c3a61-1773244224236.jpg"
-      ],
       "status": "retail"
     },
     {
