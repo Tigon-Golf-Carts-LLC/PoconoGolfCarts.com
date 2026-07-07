@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-06T08:21:05.208Z",
+  "generatedAt": "2026-07-07T07:38:31.848Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 367,
-  "totalFetched": 418,
+  "totalActive": 378,
+  "totalFetched": 428,
   "statusCounts": {
-    "retail": 365,
+    "retail": 376,
     "work_in_progress": 28,
     "(none)": 2,
-    "boneyard": 21,
+    "boneyard": 20,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 257,
-    "T5 Tigon Scranton": 53,
-    "T3 Tigon Long Pond": 57
+    "T3 Tigon Long Pond": 79,
+    "T1 Tigon Hatfield": 248,
+    "T5 Tigon Scranton": 51
   },
   "storeIds": [
     "T1",
@@ -203,6 +203,26 @@
     }
   ],
   "slugMap": {
+    "6a4c1821d74c62e682101882": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
+    "6a4c17e6d74c62e6820fc6cb": "denago-rover-xl-glacier-long-pond-pennsylvania-usa",
+    "6a4c17b7d74c62e6820f8847": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-01",
+    "6a4c1783d74c62e6820f40b4": "denago-rover-xl-aqua-long-pond-pennsylvania-usa",
+    "6a4c162dd74c62e6820d5f58": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-01",
+    "6a4c15f2d74c62e6820d0706": "denago-nomad-xl-gray-long-pond-pennsylvania-usa",
+    "6a4c15bfd74c62e6820cc1cd": "denago-nomad-xl-glacier-long-pond-pennsylvania-usa",
+    "6a4c158dd74c62e6820c5d52": "denago-nomad-xl-glacier-long-pond-pennsylvania-usa-01",
+    "6a4c146ad74c62e6820a3b1f": "denago-nomad-xl-aqua-long-pond-pennsylvania-usa",
+    "6a4c142bd74c62e68209bebf": "denago-nomad-xl-aqua-long-pond-pennsylvania-usa-01",
+    "6a4bd2f8d74c62e6827fe84d": "denago-rover-xl-gray-long-pond-pennsylvania-usa-01",
+    "6a4bd2c2d74c62e6827f862d": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-02",
+    "6a4bd271d74c62e6827eed05": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-03",
+    "6a4bd233d74c62e6827ed87c": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-02",
+    "6a4bd200d74c62e6827ed5b9": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-03",
+    "6a4bd1cbd74c62e6827ed358": "denago-nomad-xl-gray-long-pond-pennsylvania-usa-01",
+    "6a4bd194d74c62e6827ecdc3": "denago-nomad-xl-glacier-long-pond-pennsylvania-usa-02",
+    "6a4bd157d74c62e6827ec576": "denago-nomad-xl-glacier-long-pond-pennsylvania-usa-03",
+    "6a4bd126d74c62e6827ebb18": "denago-nomad-xl-aqua-long-pond-pennsylvania-usa-02",
+    "6a4bd0e6d74c62e6827eb21b": "denago-nomad-xl-aqua-long-pond-pennsylvania-usa-03",
     "6a4809f6d74c62e68206cc19": "club-car-tempo-white-hatfield-pennsylvania-usa",
     "6a47fa49d74c62e682fe879c": "club-car-tempo-white-hatfield-pennsylvania-usa-01",
     "6a453d05d74c62e682a59cfc": "cushman-other-gray-hatfield-pennsylvania-usa",
@@ -222,14 +242,13 @@
     "6a3aec53483d19b1ef9669a6": "denago-rover-xl-black-scranton-pennsylvania-usa-01",
     "6a3aeb9f483d19b1ef963b1f": "denago-rover-xl-aqua-scranton-pennsylvania-usa",
     "6a3aeacb483d19b1ef962c0e": "denago-rover-xl-aqua-scranton-pennsylvania-usa-01",
-    "6a3ae94e483d19b1ef960e14": "denago-nomad-xl-glacier-scranton-pennsylvania-usa",
     "6a3ae82f483d19b1ef95f5a2": "denago-nomad-xl-lava-scranton-pennsylvania-usa",
     "6a3abeab87950d30a029948d": "club-car-ds-green-scranton-pennsylvania-usa",
     "6a3ab1c487950d30a0277901": "club-car-tempo-black-hatfield-pennsylvania-usa",
     "6a395dab87950d30a00a6b3b": "ezgo-txt-silver-hatfield-pennsylvania-usa",
     "6a39538b87950d30a005793a": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa",
-    "6a39506b87950d30a0041619": "denago-rover-xl-aqua-long-pond-pennsylvania-usa",
-    "6a394f9d87950d30a003ef70": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-01",
+    "6a39506b87950d30a0041619": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-04",
+    "6a394f9d87950d30a003ef70": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-05",
     "6a3943f187950d30a0ff4047": "denago-nomad-xl-lava-long-pond-pennsylvania-usa",
     "6a34190044cb5d2a083cc534": "ezgo-rxv-white-long-pond-pennsylvania-usa",
     "6a340fab2932856acdeb57ee": "club-car-other-green-hatfield-pennsylvania-usa",
@@ -247,7 +266,6 @@
     "6a2ac55ef9da9a89b80fcbdc": "ezgo-txt-white-scranton-pennsylvania-usa-04",
     "6a2ac32cf9da9a89b80f5d4b": "ezgo-txt-green-scranton-pennsylvania-usa",
     "6a2ac1ebf9da9a89b80e8fee": "cushman-other-gray-hatfield-pennsylvania-usa-01",
-    "6a28598321c44fc65701cf4d": "club-car-tempo-white-hatfield-pennsylvania-usa-02",
     "6a26fc8749521a8063d04cce": "cushman-other-green-and-black-hatfield-pennsylvania-usa",
     "6a26eb9b49521a8063c76413": "cushman-cushman-titan-flatbed-green-hatfield-pennsylvania-usa",
     "6a26d47549521a8063c28cf6": "club-car-precedent-green-scranton-pennsylvania-usa",
@@ -280,7 +298,7 @@
     "6a1d87b0dfca37b4fc22414f": "denago-rover-xl-matte-white-hatfield-pennsylvania-usa-01",
     "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
     "6a18a3987f6a2f131758e8c9": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-01",
-    "6a18a2fd7f6a2f131758ddfd": "denago-rover-xl-glacier-long-pond-pennsylvania-usa",
+    "6a18a2fd7f6a2f131758ddfd": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-04",
     "6a189c614565d34f03e59561": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa",
     "6a189bcf4565d34f03e58d35": "denago-rover-xl-glacier-hatfield-pennsylvania-usa",
     "6a189b5d4565d34f03e589c1": "denago-nomad-xl-champagne-hatfield-pennsylvania-usa",
@@ -288,7 +306,7 @@
     "6a188b674565d34f03e3957f": "club-car-precedent-beige-hatfield-pennsylvania-usa",
     "6a15ee968b2b73012d8ccc4a": "ezgo-txt-green-hatfield-pennsylvania-usa",
     "6a15d85c8b2b73012d8ae273": "club-car-tempo-beige-hatfield-pennsylvania-usa",
-    "6a15baf806916db7739a39a7": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-02",
+    "6a15baf806916db7739a39a7": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-06",
     "6a15aa8506916db773980b6e": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-02",
     "6a15a95006916db77397e593": "club-car-tempo-beige-hatfield-pennsylvania-usa-01",
     "6a14ac0d06916db77389a1cd": "denago-rover-xl-matte-black-scranton-pennsylvania-usa",
@@ -316,7 +334,7 @@
     "6a10b6dd06916db7733df7c4": "denago-rover-xl-white-hatfield-pennsylvania-usa-03",
     "6a10b6a406916db7733dec30": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-04",
     "6a10b66306916db7733dea46": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-05",
-    "6a1099b306916db7733b6037": "club-car-tempo-white-hatfield-pennsylvania-usa-03",
+    "6a1099b306916db7733b6037": "club-car-tempo-white-hatfield-pennsylvania-usa-02",
     "6a108c0706916db773397af5": "club-car-tempo-beige-hatfield-pennsylvania-usa-04",
     "6a108adb06916db77339639d": "club-car-tempo-beige-hatfield-pennsylvania-usa-05",
     "6a0e13ecc7931014519a1c3d": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-06",
@@ -382,8 +400,8 @@
     "69bd79eb99e3ff4b2d2d37f3": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-02",
     "69bd78fa99e3ff4b2d2d2d73": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-03",
     "69bd770199e3ff4b2d2d22a1": "denago-rover-xl-white-long-pond-pennsylvania-usa",
-    "69bd74c699e3ff4b2d2d0067": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
-    "69bd725899e3ff4b2d2cb9cb": "denago-rover-xl-gray-long-pond-pennsylvania-usa-01",
+    "69bd74c699e3ff4b2d2d0067": "denago-rover-xl-gray-long-pond-pennsylvania-usa-02",
+    "69bd725899e3ff4b2d2cb9cb": "denago-rover-xl-gray-long-pond-pennsylvania-usa-03",
     "69b83482b75dd0263dfdf09d": "denago-rover-xl-lava-scranton-pennsylvania-usa",
     "69b83418b75dd0263dfdefa1": "denago-rover-xl-scarlet-scranton-pennsylvania-usa",
     "69b833dfb75dd0263dfdeeb8": "denago-rover-xl-scarlet-scranton-pennsylvania-usa-01",
@@ -395,11 +413,10 @@
     "69b1ae3b2f2f7297f6b0bdc8": "yamaha-drive-2-beige-scranton-pennsylvania-usa",
     "69b187bd2f2f7297f6acc97d": "yamaha-drive-2-beige-hatfield-pennsylvania-usa",
     "69aee3a2966101fff829516a": "yamaha-drive-2-green-hatfield-pennsylvania-usa",
-    "69aee354966101fff8294ea4": "yamaha-drive-2-green-hatfield-pennsylvania-usa-01",
-    "69aedd0d966101fff828fb44": "yamaha-drive-2-green-hatfield-pennsylvania-usa-02",
-    "69aed888966101fff828c027": "yamaha-drive-2-green-hatfield-pennsylvania-usa-03",
+    "69aedd0d966101fff828fb44": "yamaha-drive-2-green-hatfield-pennsylvania-usa-01",
+    "69aed888966101fff828c027": "yamaha-drive-2-green-hatfield-pennsylvania-usa-02",
     "69aed787966101fff828893d": "yamaha-drive-2-green-long-pond-pennsylvania-usa",
-    "69aed5f1966101fff8284b6d": "yamaha-drive-2-green-hatfield-pennsylvania-usa-04",
+    "69aed5f1966101fff8284b6d": "yamaha-drive-2-green-hatfield-pennsylvania-usa-03",
     "69a882dbdf4a03d2eab532c8": "denago-nomad-xl-white-hatfield-pennsylvania-usa-03",
     "698decce42bc93bf9f4d2c29": "club-car-precedent-sea-blue-hatfield-pennsylvania-usa",
     "6984aef0266ae7d997f62005": "denago-nomad-black-hatfield-pennsylvania-usa",
@@ -453,7 +470,6 @@
     "68bf2523bd4229e7087116d6": "club-car-precedent-blue-hatfield-pennsylvania-usa-05",
     "68bf17b6bd4229e70870447d": "denago-nomad-xl-champagne-scranton-pennsylvania-usa",
     "68bf1720bd4229e708703e3a": "denago-nomad-xl-champagne-scranton-pennsylvania-usa-01",
-    "68bef3e1bd4229e7086e12bc": "club-car-precedent-beige-scranton-pennsylvania-usa-01",
     "68bee88fbd4229e7086d9558": "denago-nomad-xl-red-long-pond-pennsylvania-usa",
     "68b8ab9dbd4229e7084153ef": "cricket-sx3-blue-hatfield-pennsylvania-usa",
     "68b894ecbd4229e70840f087": "club-car-ds-beige-hatfield-pennsylvania-usa-01",
@@ -477,9 +493,6 @@
     "68a4de6c064c00dc874f2d2b": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa",
     "68a4da19064c00dc874ee00d": "evolution-d-max-gt6-white-hatfield-pennsylvania-usa",
     "68a4d997064c00dc874edfd6": "evolution-d-max-gt6-white-hatfield-pennsylvania-usa-01",
-    "68a4d72f064c00dc874ed255": "evolution-d-max-gt6-arctic-gray-hatfield-pennsylvania-usa",
-    "68a4d680064c00dc874ec833": "evolution-d-max-gt6-flamenco-red-hatfield-pennsylvania-usa",
-    "68a4d1e9064c00dc874e93a4": "evolution-d-max-gt6-flamenco-red-hatfield-pennsylvania-usa-01",
     "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
     "689f90b4972d0fd09d16a740": "club-car-precedent-beige-long-pond-pennsylvania-usa-02",
     "689f8170972d0fd09d15ea70": "club-car-precedent-beige-long-pond-pennsylvania-usa-03",
@@ -488,7 +501,6 @@
     "689de843972d0fd09d09c994": "evolution-d-max-gt4-flamenco-red-hatfield-pennsylvania-usa",
     "689b4cff32e3057b145491b7": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
     "6894f87d3d00226c36716417": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-01",
-    "68937cf1b4001ad2cc7a6863": "evolution-d-max-gt6-black-hatfield-pennsylvania-usa",
     "68935930b4001ad2cc77586e": "club-car-precedent-beige-long-pond-pennsylvania-usa-05",
     "68920f5ab4001ad2cc724051": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
     "6890f03780f0b5e9cc7607fd": "denago-rover-xl-gray-hatfield-pennsylvania-usa-04",
@@ -496,7 +508,7 @@
     "688b9900a5850d1aabce17c1": "club-car-tempo-blue-hatfield-pennsylvania-usa-04",
     "6887bca84c6bccbabe0d9df5": "club-car-precedent-blue-hatfield-pennsylvania-usa-06",
     "6887ae8d4c6bccbabe0cd7e0": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
-    "6887ad504c6bccbabe0cba93": "denago-rover-xl-gray-long-pond-pennsylvania-usa-02",
+    "6887ad504c6bccbabe0cba93": "denago-rover-xl-gray-long-pond-pennsylvania-usa-04",
     "6887aadd4c6bccbabe0c82a8": "denago-rover-xl-red-long-pond-pennsylvania-usa",
     "6887a1394c6bccbabe0be8e3": "club-car-precedent-white-hatfield-pennsylvania-usa-01",
     "68878ddc4c6bccbabe0a08d5": "club-car-precedent-beige-long-pond-pennsylvania-usa-07",
@@ -508,21 +520,19 @@
     "686e81e3f476ae608839df35": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-02",
     "686d343b5a12aa24d69f0f2e": "denago-rover-xl-white-scranton-pennsylvania-usa-05",
     "686c0082670fe0177ae8d6ee": "evolution-d5-maverick-6-plus-mediterranean-blue-hatfield-pennsylvania-usa",
-    "686bd2f4670fe0177ae5f5e4": "evolution-d-max-gt6-mineral-white-hatfield-pennsylvania-usa",
-    "686bd257670fe0177ae5f3a6": "evolution-d-max-gt6-mineral-white-hatfield-pennsylvania-usa-01",
-    "68681a8b0b1d35517aa5829e": "evolution-d-max-gt6-sky-blue-hatfield-pennsylvania-usa",
     "685eebd137227aa631015fa4": "club-car-tempo-blue-hatfield-pennsylvania-usa-06",
     "685b0df3190fa1f3d6593085": "club-car-tempo-blue-hatfield-pennsylvania-usa-07",
     "685ad35c190fa1f3d656d89b": "club-car-tempo-blue-scranton-pennsylvania-usa-01",
     "6854697b3567dc3c70aa7464": "club-car-precedent-black-hatfield-pennsylvania-usa",
     "685306e285986cdd6dcf68e7": "denago-nomad-xl-red-hatfield-pennsylvania-usa-04",
+    "685303b085986cdd6dcf30a4": "denago-rover-xl-lava-hatfield-pennsylvania-usa",
     "685199df2cb3cf7381229277": "club-car-ds-black-hatfield-pennsylvania-usa",
     "684c82de81052a519b66be03": "club-car-precedent-hatfield-pennsylvania-usa",
     "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-11",
     "684af32b70890276509223ab": "club-car-ds-orange-hatfield-pennsylvania-usa",
     "68474625b0a622e788a91431": "club-car-precedent-beige-long-pond-pennsylvania-usa-08",
     "6841bcb05e5256dce683893e": "club-car-precedent-beige-hatfield-pennsylvania-usa-12",
-    "683daec9e3f1cd836771cd03": "denago-rover-xxl-gray-hatfield-pennsylvania-usa",
+    "683daec9e3f1cd836771cd03": "denago-rover-xxl-gray-long-pond-pennsylvania-usa",
     "683b2234e75074647871778d": "denago-rover-xl-red-hatfield-pennsylvania-usa",
     "683b21e2e7507464787175e1": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-01",
     "683b0e4de75074647870e871": "denago-rover-xl-blue-hatfield-pennsylvania-usa",
@@ -536,6 +546,7 @@
     "680fd6990a3b46e532d1fddb": "club-car-tempo-green-hatfield-pennsylvania-usa-01",
     "680f981a230782a4053e6cf6": "denago-rover-xl-verdant-hatfield-pennsylvania-usa",
     "680f892ff174d631aa0cb3ce": "denago-rover-xl-red-hatfield-pennsylvania-usa-01",
+    "680958c73ceea9e25d002f6b": "yamaha-drive-2-white-long-pond-pennsylvania-usa",
     "6803d5480b686dc77ea317fb": "swift-ev-mach-4-white-hatfield-pennsylvania-usa",
     "67ad1518bf482b16f83c9ef2": "cushman-cushman-titan-flatbed-yellow-hatfield-pennsylvania-usa",
     "67ad0ac7bf482b16f83c9705": "yamaha-drive-2-beige-long-pond-pennsylvania-usa-02",
@@ -572,6 +583,566 @@
     "66f422a00f4b93de4a9ed4c6": "club-car-precedent-white-hatfield-pennsylvania-usa-02"
   },
   "carts": [
+    {
+      "_id": "6a4c1821d74c62e682101882",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c17e6d74c62e6820fc6cb",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c17b7d74c62e6820f8847",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c1783d74c62e6820f40b4",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c162dd74c62e6820d5f58",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c15f2d74c62e6820d0706",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c15bfd74c62e6820cc1cd",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c158dd74c62e6820c5d52",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c146ad74c62e6820a3b1f",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4c142bd74c62e68209bebf",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd2f8d74c62e6827fe84d",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd2c2d74c62e6827f862d",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd271d74c62e6827eed05",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd233d74c62e6827ed87c",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd200d74c62e6827ed5b9",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd1cbd74c62e6827ed358",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd194d74c62e6827ecdc3",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd157d74c62e6827ec576",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Glacier",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd126d74c62e6827ebb18",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a4bd0e6d74c62e6827eb21b",
+      "cartType": {
+        "make": "Denago",
+        "model": "Nomad XL",
+        "year": "2026"
+      },
+      "retailPrice": 9995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Aqua",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
     {
       "_id": "6a4809f6d74c62e68206cc19",
       "cartType": {
@@ -1126,39 +1697,6 @@
         "94c85418-f041-7083-4fce-c4440dcf50b8-1782246091123.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1782246091127.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1782246091131.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a3ae94e483d19b1ef960e14",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Glacier",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092065026.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092065032.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092065036.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092065040.jpg"
       ],
       "status": "retail"
     },
@@ -1890,34 +2428,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1781799305314.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1781799305322.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a28598321c44fc65701cf4d",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -6492,39 +7002,6 @@
       "status": "retail"
     },
     {
-      "_id": "69aee354966101fff8294ea4",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "Drive 2",
-        "year": "2017"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1779121497688.jpg",
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1779121497693.jpg",
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1779121497696.jpg",
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1779121497699.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "69aedd0d966101fff828fb44",
       "cartType": {
         "make": "Yamaha",
@@ -8266,34 +8743,6 @@
       "status": "retail"
     },
     {
-      "_id": "68bef3e1bd4229e7086e12bc",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2015"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "68bee88fbd4229e7086d9558",
       "cartType": {
         "make": "Denago",
@@ -9018,90 +9467,6 @@
       "status": "retail"
     },
     {
-      "_id": "68a4d72f064c00dc874ed255",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Arctic Gray",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "4X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "68a4d680064c00dc874ec833",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Flamenco Red",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "4X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "68a4d1e9064c00dc874e93a4",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Flamenco Red",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "4X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "68a4bd3e5e5f0ec9356b7e1f",
       "cartType": {
         "make": "Club Car",
@@ -9338,34 +9703,6 @@
         "2488b458-0071-70b4-3e37-b9f796d9a29f-1781293182021.jpg",
         "2488b458-0071-70b4-3e37-b9f796d9a29f-1781293182025.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "68937cf1b4001ad2cc7a6863",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Black",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "4X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -9955,90 +10292,6 @@
       "status": "retail"
     },
     {
-      "_id": "686bd2f4670fe0177ae5f5e4",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Mineral White",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "686bd257670fe0177ae5f3a6",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Mineral White",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "68681a8b0b1d35517aa5829e",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D-Max GT6",
-        "year": "2025"
-      },
-      "retailPrice": 15595,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Sky Blue",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "685eebd137227aa631015fa4",
       "cartType": {
         "make": "Club Car",
@@ -10186,6 +10439,39 @@
         "isStreetLegal": true
       },
       "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "685303b085986cdd6dcf30a4",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Lava",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "44880478-2051-70d9-1275-489577f8d737-1773168172376.jpg",
+        "44880478-2051-70d9-1275-489577f8d737-1773168172380.jpg",
+        "44880478-2051-70d9-1275-489577f8d737-1773168172384.jpg",
+        "44880478-2051-70d9-1275-489577f8d737-1773168172386.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -10379,8 +10665,8 @@
         "isLifted": true
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T3",
+        "latestStoreId": "T3",
         "locationDescription": ""
       },
       "title": {
@@ -10796,6 +11082,38 @@
         "isStreetLegal": true
       },
       "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "680958c73ceea9e25d002f6b",
+      "cartType": {
+        "make": "Yamaha",
+        "model": "Drive 2",
+        "year": "2015"
+      },
+      "retailPrice": 4800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "04381448-a001-7011-b8df-d1e37bc33f04-1745443014848.jpg",
+        "04381448-a001-7011-b8df-d1e37bc33f04-1745443014853.jpg",
+        "04381448-a001-7011-b8df-d1e37bc33f04-1745443014857.jpg"
+      ],
       "status": "retail"
     },
     {
