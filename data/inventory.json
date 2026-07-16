@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-15T06:14:02.943Z",
+  "generatedAt": "2026-07-16T06:18:08.491Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 371,
-  "totalFetched": 441,
+  "totalActive": 364,
+  "totalFetched": 429,
   "statusCounts": {
-    "retail": 369,
-    "work_in_progress": 48,
+    "retail": 362,
+    "work_in_progress": 42,
+    "boneyard": 21,
     "(none)": 2,
-    "boneyard": 20,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 218,
-    "T3 Tigon Long Pond": 94,
-    "T5 Tigon Scranton": 59
+    "T1 Tigon Hatfield": 208,
+    "T5 Tigon Scranton": 64,
+    "T3 Tigon Long Pond": 92
   },
   "storeIds": [
     "T1",
@@ -204,22 +204,21 @@
   ],
   "slugMap": {
     "6a5698a5cb80c0ee9666ccd2": "yamaha-g29-white-hatfield-pennsylvania-usa",
-    "6a5653b3dcae91aabab621c4": "yamaha-g29-white-hatfield-pennsylvania-usa-01",
-    "6a563ee9dcae91aabab47ae0": "yamaha-g29-white-hatfield-pennsylvania-usa-02",
-    "6a5625d3dcae91aabab22aa5": "yamaha-g29-white-hatfield-pennsylvania-usa-03",
-    "6a55330aa52952f411e5369f": "yamaha-g29-white-hatfield-pennsylvania-usa-04",
-    "6a54f467a52952f411df2972": "yamaha-g29-white-hatfield-pennsylvania-usa-05",
-    "6a511d1a5732b1aa14552fe5": "yamaha-g29-white-hatfield-pennsylvania-usa-06",
-    "6a5117c95732b1aa1453065c": "yamaha-g29-white-long-pond-pennsylvania-usa",
-    "6a511561fffd88f30567d9d2": "yamaha-g29-white-long-pond-pennsylvania-usa-01",
-    "6a51133efffd88f305667ff1": "yamaha-g29-white-hatfield-pennsylvania-usa-07",
+    "6a5653b3dcae91aabab621c4": "yamaha-g29-white-scranton-pennsylvania-usa",
+    "6a5625d3dcae91aabab22aa5": "yamaha-g29-white-scranton-pennsylvania-usa-01",
+    "6a511ddc5732b1aa1455aa52": "yamaha-g29-white-long-pond-pennsylvania-usa",
+    "6a5117c95732b1aa1453065c": "yamaha-g29-white-long-pond-pennsylvania-usa-01",
+    "6a511561fffd88f30567d9d2": "yamaha-g29-white-long-pond-pennsylvania-usa-02",
+    "6a51133efffd88f305667ff1": "yamaha-g29-white-scranton-pennsylvania-usa-02",
+    "6a510cfafffd88f305658ea4": "yamaha-g29-white-hatfield-pennsylvania-usa-01",
     "6a510b55fffd88f305656aad": "ezgo-other-green-hatfield-pennsylvania-usa",
-    "6a4fe736fffd88f30553b5dd": "yamaha-g29-white-hatfield-pennsylvania-usa-08",
-    "6a4f912fb20949c467edc6ed": "yamaha-g29-white-long-pond-pennsylvania-usa-02",
-    "6a4e9cb8032e7a2654c0cdc3": "yamaha-g29-white-hatfield-pennsylvania-usa-09",
+    "6a50f40efffd88f30563a709": "yamaha-g29-white-long-pond-pennsylvania-usa-03",
+    "6a4fe736fffd88f30553b5dd": "yamaha-g29-white-scranton-pennsylvania-usa-03",
+    "6a4f912fb20949c467edc6ed": "yamaha-g29-white-long-pond-pennsylvania-usa-04",
+    "6a4e9cb8032e7a2654c0cdc3": "yamaha-g29-white-scranton-pennsylvania-usa-04",
     "6a4d3e45032e7a2654931b55": "denago-nomad-xl-glacier-long-pond-pennsylvania-usa",
-    "6a4d39e8032e7a26549287f9": "yamaha-g29-white-long-pond-pennsylvania-usa-03",
-    "6a4d3531032e7a265491ae5d": "yamaha-g29-white-long-pond-pennsylvania-usa-04",
+    "6a4d39e8032e7a26549287f9": "yamaha-g29-white-long-pond-pennsylvania-usa-05",
+    "6a4d3531032e7a265491ae5d": "yamaha-g29-white-long-pond-pennsylvania-usa-06",
     "6a4c1821d74c62e682101882": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
     "6a4c17e6d74c62e6820fc6cb": "denago-rover-xl-glacier-long-pond-pennsylvania-usa",
     "6a4c17b7d74c62e6820f8847": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-01",
@@ -249,7 +248,7 @@
     "6a3eb5726639bb670bc331c7": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa",
     "6a3eb5446639bb670bc330e2": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-01",
     "6a3eb4dc6639bb670bc32919": "denago-nomad-xl-gray-hatfield-pennsylvania-usa",
-    "6a3c2b5a9918e86cfa72664e": "yamaha-g29-white-hatfield-pennsylvania-usa-10",
+    "6a3c2b5a9918e86cfa72664e": "yamaha-g29-white-scranton-pennsylvania-usa-05",
     "6a3aede2483d19b1ef96b07a": "denago-rover-xl-black-scranton-pennsylvania-usa",
     "6a3aed78483d19b1ef96a6a4": "denago-rover-xl-gray-scranton-pennsylvania-usa",
     "6a3aecdb483d19b1ef967f0a": "denago-rover-xl-gray-scranton-pennsylvania-usa-01",
@@ -262,7 +261,6 @@
     "6a395dab87950d30a00a6b3b": "ezgo-txt-silver-hatfield-pennsylvania-usa",
     "6a39538b87950d30a005793a": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa",
     "6a39506b87950d30a0041619": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-04",
-    "6a394f9d87950d30a003ef70": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-05",
     "6a3943f187950d30a0ff4047": "denago-nomad-xl-lava-long-pond-pennsylvania-usa",
     "6a342f4b44cb5d2a084f263e": "club-car-tempo-black-long-pond-pennsylvania-usa",
     "6a34190044cb5d2a083cc534": "ezgo-rxv-white-long-pond-pennsylvania-usa",
@@ -318,7 +316,7 @@
     "6a188b674565d34f03e3957f": "club-car-precedent-beige-hatfield-pennsylvania-usa",
     "6a15ee968b2b73012d8ccc4a": "ezgo-txt-green-hatfield-pennsylvania-usa",
     "6a15d85c8b2b73012d8ae273": "club-car-tempo-beige-long-pond-pennsylvania-usa",
-    "6a15baf806916db7739a39a7": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-06",
+    "6a15baf806916db7739a39a7": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-05",
     "6a15aa8506916db773980b6e": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-02",
     "6a15a95006916db77397e593": "club-car-tempo-beige-scranton-pennsylvania-usa",
     "6a14ab7706916db773899ee2": "denago-rover-xl-white-scranton-pennsylvania-usa",
@@ -347,7 +345,6 @@
     "6a108c0706916db773397af5": "club-car-tempo-beige-scranton-pennsylvania-usa-01",
     "6a108adb06916db77339639d": "club-car-tempo-beige-scranton-pennsylvania-usa-02",
     "6a0e13ecc7931014519a1c3d": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-06",
-    "6a0e1259c7931014519a104a": "denago-nomad-xl-glacier-hatfield-pennsylvania-usa-06",
     "6a0de695c7931014518aac45": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-06",
     "6a0de5d1c7931014518a965d": "denago-rover-xl-gray-hatfield-pennsylvania-usa-02",
     "6a0cb4d3c793101451770e0b": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-07",
@@ -391,13 +388,11 @@
     "69e65ffd9974629827fb1def": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa-05",
     "69e24cbd997462982725c0de": "denago-nomad-xl-white-scranton-pennsylvania-usa",
     "69e24c8a997462982725bcec": "denago-nomad-xl-matte-white-scranton-pennsylvania-usa-01",
-    "69e24c51997462982725b875": "denago-nomad-xl-matte-white-scranton-pennsylvania-usa-02",
     "69dfa4a299746298270b62e0": "ezgo-txt-green-long-pond-pennsylvania-usa",
     "69d95d3c22860ae9e9336217": "cushman-other-green-hatfield-pennsylvania-usa-04",
     "69d808a022860ae9e9ee3143": "ezgo-txt-white-hatfield-pennsylvania-usa",
     "69d1243d62b9eb8a273ddcfe": "ezgo-txt-champane-scranton-pennsylvania-usa",
     "69d122da62b9eb8a273dc88d": "ezgo-txt-champane-hatfield-pennsylvania-usa-01",
-    "69d122af62b9eb8a273dc727": "ezgo-txt-champane-long-pond-pennsylvania-usa",
     "69bed8ece15dd3c0e11e5e27": "denago-rover-xl6-gray-long-pond-pennsylvania-usa",
     "69bdb844e15dd3c0e11b8648": "denago-rover-xl6-lava-scranton-pennsylvania-usa",
     "69bd79eb99e3ff4b2d2d37f3": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-02",
@@ -491,21 +486,20 @@
     "68a4de6c064c00dc874f2d2b": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa",
     "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-05",
     "689f90b4972d0fd09d16a740": "club-car-precedent-beige-long-pond-pennsylvania-usa-02",
-    "689f8170972d0fd09d15ea70": "club-car-precedent-beige-long-pond-pennsylvania-usa-03",
-    "689f804a972d0fd09d15d5bc": "club-car-precedent-beige-long-pond-pennsylvania-usa-04",
+    "689f804a972d0fd09d15d5bc": "club-car-precedent-beige-long-pond-pennsylvania-usa-03",
     "689e35e9972d0fd09d0f3a35": "denago-rover-xl-lava-long-pond-pennsylvania-usa",
     "689b4cff32e3057b145491b7": "club-car-precedent-beige-hatfield-pennsylvania-usa-06",
     "6894f87d3d00226c36716417": "evolution-d-max-xt6-flamenco-red-hatfield-pennsylvania-usa-01",
-    "68935930b4001ad2cc77586e": "club-car-precedent-beige-long-pond-pennsylvania-usa-05",
+    "68935930b4001ad2cc77586e": "club-car-precedent-beige-long-pond-pennsylvania-usa-04",
     "68920f5ab4001ad2cc724051": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
     "6890f03780f0b5e9cc7607fd": "denago-rover-xl-gray-hatfield-pennsylvania-usa-04",
-    "688cf07280f0b5e9cc673dfe": "club-car-precedent-beige-long-pond-pennsylvania-usa-06",
+    "688cf07280f0b5e9cc673dfe": "club-car-precedent-beige-long-pond-pennsylvania-usa-05",
     "6887bca84c6bccbabe0d9df5": "club-car-precedent-blue-scranton-pennsylvania-usa",
-    "6887ae8d4c6bccbabe0cd7e0": "club-car-precedent-beige-long-pond-pennsylvania-usa-07",
+    "6887ae8d4c6bccbabe0cd7e0": "club-car-precedent-beige-long-pond-pennsylvania-usa-06",
     "6887ad504c6bccbabe0cba93": "denago-rover-xl-gray-long-pond-pennsylvania-usa-04",
     "6887aadd4c6bccbabe0c82a8": "denago-rover-xl-red-long-pond-pennsylvania-usa",
     "6887a1394c6bccbabe0be8e3": "club-car-precedent-white-long-pond-pennsylvania-usa",
-    "68878ddc4c6bccbabe0a08d5": "club-car-precedent-beige-long-pond-pennsylvania-usa-08",
+    "68878ddc4c6bccbabe0a08d5": "club-car-precedent-beige-long-pond-pennsylvania-usa-07",
     "6883a0f1d8966b61d787c9de": "yamaha-g22-white-long-pond-pennsylvania-usa",
     "68838029d8966b61d785f2a4": "club-car-precedent-white-long-pond-pennsylvania-usa-01",
     "687c05e1bc1d8712b451448c": "club-car-tempo-blue-scranton-pennsylvania-usa-01",
@@ -522,7 +516,7 @@
     "684c82de81052a519b66be03": "club-car-precedent-long-pond-pennsylvania-usa",
     "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
     "684af32b70890276509223ab": "club-car-ds-orange-hatfield-pennsylvania-usa",
-    "68474625b0a622e788a91431": "club-car-precedent-beige-long-pond-pennsylvania-usa-09",
+    "68474625b0a622e788a91431": "club-car-precedent-beige-long-pond-pennsylvania-usa-08",
     "6841bcb05e5256dce683893e": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
     "683daec9e3f1cd836771cd03": "denago-rover-xxl-gray-long-pond-pennsylvania-usa",
     "683b2234e75074647871778d": "denago-rover-xl-red-hatfield-pennsylvania-usa",
@@ -543,7 +537,7 @@
     "67ad1518bf482b16f83c9ef2": "cushman-cushman-titan-flatbed-yellow-hatfield-pennsylvania-usa",
     "67ad0ac7bf482b16f83c9705": "yamaha-drive-2-beige-long-pond-pennsylvania-usa-03",
     "67ab9a862caf1b1d27204594": "ezgo-rxv-silver-scranton-pennsylvania-usa",
-    "67a660972b8650f7ed63097d": "yamaha-g29-white-hatfield-pennsylvania-usa-11",
+    "67a660972b8650f7ed63097d": "yamaha-g29-white-hatfield-pennsylvania-usa-02",
     "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
     "67a655f82b8650f7ed630384": "yamaha-g29-green-scranton-pennsylvania-usa",
     "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa",
@@ -554,7 +548,6 @@
     "6707fd111b57c1930ea1bac0": "swift-ev-mach-4e-white-long-pond-pennsylvania-usa",
     "6707fbc91b57c1930ea1ba36": "swift-ev-mach-6e-blue-long-pond-pennsylvania-usa",
     "670580aa1b57c1930ea1ac32": "icon-g60-white-long-pond-pennsylvania-usa",
-    "670578aa1b57c1930ea1aa65": "evolution-d3-black-sapphire-long-pond-pennsylvania-usa",
     "67056f881b57c1930ea1a97c": "icon-g60l-indigo-long-pond-pennsylvania-usa",
     "6705425c7a35d9a5db55b8ce": "evolution-forester-6-plus-arctic-gray-hatfield-pennsylvania-usa",
     "67053dc47a35d9a5db55b858": "icon-i40-white-hatfield-pennsylvania-usa",
@@ -622,36 +615,8 @@
         "isLifted": true
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a563ee9dcae91aabab47ae0",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "G29",
-        "year": "2013"
-      },
-      "retailPrice": 6000,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T5",
+        "latestStoreId": "T5",
         "locationDescription": ""
       },
       "title": {
@@ -678,8 +643,8 @@
         "isLifted": true
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T5",
+        "latestStoreId": "T5",
         "locationDescription": ""
       },
       "title": {
@@ -694,7 +659,7 @@
       "status": "retail"
     },
     {
-      "_id": "6a55330aa52952f411e5369f",
+      "_id": "6a511ddc5732b1aa1455aa52",
       "cartType": {
         "make": "Yamaha",
         "model": "G29",
@@ -711,70 +676,19 @@
         "isLifted": true
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T3",
+        "latestStoreId": "T3",
         "locationDescription": ""
       },
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a54f467a52952f411df2972",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "G29",
-        "year": "2013"
-      },
-      "retailPrice": 6000,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a511d1a5732b1aa14552fe5",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "G29",
-        "year": "2013"
-      },
-      "retailPrice": 6000,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
+      "imageUrls": [
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784119635947.jpg",
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784119635953.jpg",
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784119664723.jpg",
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784119664728.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -856,6 +770,34 @@
         "isLifted": true
       },
       "cartLocation": {
+        "locationId": "T5",
+        "latestStoreId": "T5",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a510cfafffd88f305658ea4",
+      "cartType": {
+        "make": "Yamaha",
+        "model": "G29",
+        "year": "2019"
+      },
+      "retailPrice": 6000,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
         "locationId": "T1",
         "latestStoreId": "T1",
         "locationDescription": ""
@@ -895,6 +837,39 @@
       "status": "retail"
     },
     {
+      "_id": "6a50f40efffd88f30563a709",
+      "cartType": {
+        "make": "Yamaha",
+        "model": "G29",
+        "year": "2013"
+      },
+      "retailPrice": 6000,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T3",
+        "latestStoreId": "T3",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784121794916.jpg",
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784121794921.jpg",
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784121814108.jpg",
+        "54d834c8-0051-70a1-d199-d7a43f35baf8-1784121814113.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6a4fe736fffd88f30553b5dd",
       "cartType": {
         "make": "Yamaha",
@@ -912,8 +887,8 @@
         "isLifted": true
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T5",
+        "latestStoreId": "T5",
         "locationDescription": ""
       },
       "title": {
@@ -968,8 +943,8 @@
         "isLifted": true
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T5",
+        "latestStoreId": "T5",
         "locationDescription": ""
       },
       "title": {
@@ -1907,8 +1882,8 @@
         "isLifted": false
       },
       "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
+        "locationId": "T5",
+        "latestStoreId": "T5",
         "locationDescription": ""
       },
       "title": {
@@ -2285,39 +2260,6 @@
         "64283408-70d1-702c-89f5-3c92ff566622-1782141020228.jpg",
         "64283408-70d1-702c-89f5-3c92ff566622-1782141020231.jpg",
         "64283408-70d1-702c-89f5-3c92ff566622-1782141020235.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a394f9d87950d30a003ef70",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XL",
-        "year": "2026"
-      },
-      "retailPrice": 10995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Aqua",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "64283408-70d1-702c-89f5-3c92ff566622-1782140827029.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1782140827034.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1782140827037.jpg",
-        "64283408-70d1-702c-89f5-3c92ff566622-1782140827040.jpg"
       ],
       "status": "retail"
     },
@@ -4871,39 +4813,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a0e1259c7931014519a104a",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Glacier",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779734718532.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779734718537.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779734718541.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1779734718544.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a0de695c7931014518aac45",
       "cartType": {
         "make": "Denago",
@@ -6264,39 +6173,6 @@
       "status": "retail"
     },
     {
-      "_id": "69e24c51997462982725b875",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Matte White",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092247716.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092247721.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092247725.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1783092247728.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "69dfa4a299746298270b62e0",
       "cartType": {
         "make": "EZGO",
@@ -6443,39 +6319,6 @@
         "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776794716841.jpg",
         "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776794716844.jpg",
         "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776794716848.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "69d122af62b9eb8a273dc727",
-      "cartType": {
-        "make": "EZGO",
-        "model": "TXT",
-        "year": "2021"
-      },
-      "retailPrice": 4995,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Champane",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776885682924.jpg",
-        "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776885682928.jpg",
-        "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776885682931.jpg",
-        "3468e448-d0b1-70a0-7da3-03a9e85b4154-1776885682935.jpg"
       ],
       "status": "retail"
     },
@@ -9359,34 +9202,6 @@
       "status": "retail"
     },
     {
-      "_id": "689f8170972d0fd09d15ea70",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2019"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "689f804a972d0fd09d15d5bc",
       "cartType": {
         "make": "Club Car",
@@ -11291,34 +11106,6 @@
         "7458b428-90d1-708b-58ba-4ba07dcbeaf3-1775069269448.jpg",
         "7458b428-90d1-708b-58ba-4ba07dcbeaf3-1775069269451.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "670578aa1b57c1930ea1aa65",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D3",
-        "year": "2023"
-      },
-      "retailPrice": 17500,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Black Sapphire",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": null,
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
