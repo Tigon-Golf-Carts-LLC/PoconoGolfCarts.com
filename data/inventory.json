@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-22T06:27:37.940Z",
+  "generatedAt": "2026-07-23T06:30:02.100Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 365,
-  "totalFetched": 434,
+  "totalActive": 377,
+  "totalFetched": 446,
   "statusCounts": {
-    "retail": 363,
+    "retail": 375,
     "work_in_progress": 45,
     "boneyard": 22,
     "(none)": 2,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 215,
+    "T1 Tigon Hatfield": 227,
     "T3 Tigon Long Pond": 92,
     "T5 Tigon Scranton": 58
   },
@@ -199,10 +199,21 @@
     }
   ],
   "slugMap": {
+    "6a60e6b4d591c155c971e71a": "ezgo-rxv-red-hatfield-pennsylvania-usa",
+    "6a60e53ed591c155c971bdaf": "ezgo-rxv-blue-hatfield-pennsylvania-usa",
+    "6a60e2e2d591c155c9719aee": "ezgo-rxv-gray-hatfield-pennsylvania-usa",
+    "6a60e18ed591c155c9718ffb": "club-car-tempo-gray-hatfield-pennsylvania-usa",
+    "6a60e09bd591c155c9718757": "ezgo-rxv-red-hatfield-pennsylvania-usa-01",
+    "6a60bcd6d591c155c96eb588": "club-car-tempo-gray-hatfield-pennsylvania-usa-01",
+    "6a5f835208b1230b3be864d6": "ezgo-rxv-blue-hatfield-pennsylvania-usa-01",
     "6a5f7d5a08b1230b3be7d1eb": "ezgo-rxv-glacier-hatfield-pennsylvania-usa",
-    "6a5e82c908b1230b3be3213b": "ezgo-rxv-gray-hatfield-pennsylvania-usa",
+    "6a5e83b708b1230b3be3348e": "ezgo-rxv-red-hatfield-pennsylvania-usa-02",
+    "6a5e82c908b1230b3be3213b": "ezgo-rxv-gray-hatfield-pennsylvania-usa-01",
     "6a5e823808b1230b3be30f75": "ezgo-rxv-white-hatfield-pennsylvania-usa",
-    "6a5e7ce808b1230b3be1c43a": "ezgo-rxv-red-hatfield-pennsylvania-usa",
+    "6a5e81b408b1230b3be30769": "ezgo-rxv-green-hatfield-pennsylvania-usa",
+    "6a5e7f7508b1230b3be1e91f": "ezgo-rxv-glacier-and-silver-hatfield-pennsylvania-usa",
+    "6a5e7ce808b1230b3be1c43a": "ezgo-rxv-red-hatfield-pennsylvania-usa-03",
+    "6a5e7b3608b1230b3be13137": "ezgo-rxv-charcoal-black-hatfield-pennsylvania-usa",
     "6a5e242708b1230b3bd14619": "ezgo-rxv-black-hatfield-pennsylvania-usa",
     "6a5bdd5c8d635981da30f988": "yamaha-g29-white-hatfield-pennsylvania-usa",
     "6a5b7f958d635981da2c9f99": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
@@ -275,6 +286,7 @@
     "6a340ebc2932856acdeb2e77": "club-car-other-green-hatfield-pennsylvania-usa-02",
     "6a32b85f500a181187b7fb65": "cushman-other-green-hatfield-pennsylvania-usa",
     "6a3015978221bed0f743ebba": "cushman-other-green-hatfield-pennsylvania-usa-01",
+    "6a2b1698f9da9a89b823ef89": "ezgo-txt-silver-hatfield-pennsylvania-usa-01",
     "6a2ae800f9da9a89b81804ce": "cushman-other-green-black-long-pond-pennsylvania-usa",
     "6a2acaa6f9da9a89b81031a7": "ezgo-txt-white-scranton-pennsylvania-usa",
     "6a2ac966f9da9a89b81015c9": "ezgo-txt-white-scranton-pennsylvania-usa-01",
@@ -305,12 +317,12 @@
     "6a1db063dfca37b4fc26f173": "denago-nomad-xl-glacier-hatfield-pennsylvania-usa-03",
     "6a1da072dfca37b4fc249e20": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-04",
     "6a1d9196dfca37b4fc233897": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-01",
-    "6a1d9173dfca37b4fc232d88": "club-car-tempo-gray-hatfield-pennsylvania-usa",
+    "6a1d9173dfca37b4fc232d88": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
     "6a1d9157dfca37b4fc232b98": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-02",
     "6a1d900cdfca37b4fc230dd8": "denago-rover-xl-white-hatfield-pennsylvania-usa",
     "6a1d87b0dfca37b4fc22414f": "denago-rover-xl-matte-white-hatfield-pennsylvania-usa",
-    "6a1d82dbdfca37b4fc21c0bc": "club-car-tempo-gray-hatfield-pennsylvania-usa-01",
-    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
+    "6a1d82dbdfca37b4fc21c0bc": "club-car-tempo-gray-hatfield-pennsylvania-usa-03",
+    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-04",
     "6a18a3987f6a2f131758e8c9": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-01",
     "6a18a2fd7f6a2f131758ddfd": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-04",
     "6a189c614565d34f03e59561": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa",
@@ -327,7 +339,7 @@
     "6a146aeb06916db77382949e": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-03",
     "6a146a9606916db7738237ca": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-04",
     "6a146a1b06916db773822da8": "denago-rover-xl-white-hatfield-pennsylvania-usa-01",
-    "6a14599b06916db7736ebc82": "ezgo-rxv-blue-hatfield-pennsylvania-usa",
+    "6a14599b06916db7736ebc82": "ezgo-rxv-blue-hatfield-pennsylvania-usa-02",
     "6a144f7b06916db7736d6dff": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-03",
     "6a120c0306916db77366561f": "club-car-tempo-beige-hatfield-pennsylvania-usa",
     "6a12008b06916db7734c7504": "denago-nomad-xl-matte-white-scranton-pennsylvania-usa",
@@ -407,6 +419,7 @@
     "69b8328bb75dd0263dfde357": "denago-rover-xl-gray-scranton-pennsylvania-usa-03",
     "69b1ae3b2f2f7297f6b0bdc8": "yamaha-drive-2-beige-scranton-pennsylvania-usa",
     "69b187bd2f2f7297f6acc97d": "yamaha-drive-2-beige-hatfield-pennsylvania-usa",
+    "69aefdd9966101fff82a3cff": "club-car-precedent-silver-hatfield-pennsylvania-usa",
     "69aee3a2966101fff829516a": "yamaha-drive-2-green-hatfield-pennsylvania-usa",
     "69aedd0d966101fff828fb44": "yamaha-drive-2-green-scranton-pennsylvania-usa",
     "69aed888966101fff828c027": "yamaha-drive-2-green-scranton-pennsylvania-usa-01",
@@ -515,7 +528,6 @@
     "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
     "684af32b70890276509223ab": "club-car-ds-orange-hatfield-pennsylvania-usa",
     "68474625b0a622e788a91431": "club-car-precedent-beige-long-pond-pennsylvania-usa-08",
-    "6841bcb05e5256dce683893e": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
     "683b2234e75074647871778d": "denago-rover-xl-red-hatfield-pennsylvania-usa",
     "683b21e2e7507464787175e1": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-01",
     "683b0e4de75074647870e871": "denago-rover-xl-blue-hatfield-pennsylvania-usa",
@@ -535,7 +547,7 @@
     "67ad0ac7bf482b16f83c9705": "yamaha-drive-2-beige-long-pond-pennsylvania-usa-03",
     "67ab9a862caf1b1d27204594": "ezgo-rxv-silver-scranton-pennsylvania-usa",
     "67a660972b8650f7ed63097d": "yamaha-g29-white-hatfield-pennsylvania-usa-05",
-    "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
+    "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
     "67a655f82b8650f7ed630384": "yamaha-g29-green-scranton-pennsylvania-usa",
     "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa",
     "6734c986555ba477a98303ab": "epic-e60l-light-blue-hatfield-pennsylvania-usa",
@@ -567,6 +579,222 @@
   },
   "carts": [
     {
+      "_id": "6a60e6b4d591c155c971e71a",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Red",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740768051.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740768056.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740768059.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740768062.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6a60e53ed591c155c971bdaf",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Blue",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784739580241.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784739580247.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784739580250.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784739580254.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6a60e2e2d591c155c9719aee",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740067610.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740067615.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740067618.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784740067621.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6a60e18ed591c155c9718ffb",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Tempo",
+        "year": "2020"
+      },
+      "retailPrice": 5800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a60e09bd591c155c9718757",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Red",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a60bcd6d591c155c96eb588",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Tempo",
+        "year": "2020"
+      },
+      "retailPrice": 5800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a5f835208b1230b3be864d6",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2019"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Blue",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784751122442.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784751122476.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784751122499.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784751122506.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6a5f7d5a08b1230b3be7d1eb",
       "cartType": {
         "make": "EZGO",
@@ -578,6 +806,34 @@
       "isUsed": true,
       "cartAttributes": {
         "cartColor": "Glacier",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a5e83b708b1230b3be3348e",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Red",
         "seatColor": "Black",
         "passengers": "4 Passenger",
         "driveTrain": "2X4",
@@ -661,6 +917,72 @@
       "status": "retail"
     },
     {
+      "_id": "6a5e81b408b1230b3be30769",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2020"
+      },
+      "retailPrice": 6800,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Green",
+        "seatColor": "Brown",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784737560962.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784737560968.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784737560972.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784737560975.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6a5e7f7508b1230b3be1e91f",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Glacier and Silver ",
+        "seatColor": "Brown",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784746772933.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784746772937.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784746772940.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784746772943.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6a5e7ce808b1230b3be1c43a",
       "cartType": {
         "make": "EZGO",
@@ -694,6 +1016,39 @@
       "status": "retail"
     },
     {
+      "_id": "6a5e7b3608b1230b3be13137",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Charcoal Black",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784735014782.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784735014787.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784735014791.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784735014794.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6a5e242708b1230b3bd14619",
       "cartType": {
         "make": "EZGO",
@@ -718,7 +1073,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784734586051.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784734586057.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784734586061.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784734586065.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -774,7 +1134,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733575913.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733575919.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733575923.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733575927.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -802,7 +1167,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730428554.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730428563.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730428567.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730428571.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -830,7 +1200,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784728662255.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784728662268.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784728662272.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784728662276.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -914,7 +1289,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729589227.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729589237.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729589241.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729589245.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -942,7 +1322,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784734004098.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784734004104.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784734004108.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784734004111.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -970,7 +1355,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729393497.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729393510.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729393515.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784729393519.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -998,7 +1388,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733358980.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733358989.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733358993.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784733358997.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -1026,7 +1421,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730673536.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730673542.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730673546.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784730673549.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -1438,7 +1838,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784737380595.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784737380601.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784737380605.jpg",
+        "f41844f8-a051-70ad-9948-4d0b97a27924-1784737380609.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -2787,6 +3192,39 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a2b1698f9da9a89b823ef89",
+      "cartType": {
+        "make": "EZGO",
+        "model": "TXT",
+        "year": "2021"
+      },
+      "retailPrice": 5000,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Silver",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784749876646.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784749876650.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784749876652.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784749876655.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4263,7 +4701,7 @@
         "model": "Tempo",
         "year": "2018"
       },
-      "retailPrice": 4000,
+      "retailPrice": 5800,
       "isElectric": true,
       "isUsed": true,
       "cartAttributes": {
@@ -6889,6 +7327,34 @@
       "status": "retail"
     },
     {
+      "_id": "69aefdd9966101fff82a3cff",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2013"
+      },
+      "retailPrice": 5800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Silver",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
       "_id": "69aee3a2966101fff829516a",
       "cartType": {
         "make": "Yamaha",
@@ -7574,7 +8040,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784754069471.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784754069476.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784754069480.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784754069483.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -10192,34 +10663,6 @@
       "status": "retail"
     },
     {
-      "_id": "6841bcb05e5256dce683893e",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2015"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "683b2234e75074647871778d",
       "cartType": {
         "make": "Denago",
@@ -11688,11 +12131,7 @@
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892570.jpg",
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892589.jpg",
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892608.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892630.jpg",
-        "54b80448-f0e1-7089-7d3f-760a9f2bf114-1776174920802.jpg",
-        "54b80448-f0e1-7089-7d3f-760a9f2bf114-1776180587247.jpg",
-        "54b80448-f0e1-7089-7d3f-760a9f2bf114-1776180587256.jpg",
-        "54b80448-f0e1-7089-7d3f-760a9f2bf114-1776180587260.jpg"
+        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892630.jpg"
       ],
       "status": "retail"
     },
