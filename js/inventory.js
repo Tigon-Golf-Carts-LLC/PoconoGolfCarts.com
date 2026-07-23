@@ -142,9 +142,17 @@
     if (passengers) meta.push(escapeHtml(passengers) + " Passenger");
     if (location) meta.push(escapeHtml(location));
 
+    const slug = state.slugMap && state.slugMap[cart._id];
+    const detailUrl =
+      "cart.html?" + (slug ? "slug=" + encodeURIComponent(slug) : "id=" + encodeURIComponent(cart._id));
+
     return (
       '<article class="vehicle-card inv-card">' +
-      '<div class="inv-image-wrap">' +
+      '<a class="inv-image-wrap" href="' +
+      detailUrl +
+      '" aria-label="View ' +
+      escapeHtml(title) +
+      '">' +
       '<img src="' +
       escapeHtml(img) +
       '" alt="' +
@@ -153,20 +161,27 @@
       "onerror=\"this.onerror=null;this.src='" +
       COMING_SOON_IMAGE +
       "';\">" +
-      "</div>" +
+      "</a>" +
       '<div class="vehicle-info">' +
       '<div class="inv-badges">' +
       badges.join("") +
       "</div>" +
-      '<h3 class="vehicle-title">' +
+      '<h3 class="vehicle-title"><a class="inv-title-link" href="' +
+      detailUrl +
+      '">' +
       escapeHtml(title) +
-      "</h3>" +
+      "</a></h3>" +
       (meta.length ? '<p class="inv-meta">' + meta.join(" &middot; ") + "</p>" : "") +
       '<p class="inv-price">' +
       formatPrice(cart.retailPrice) +
       "</p>" +
       '<div class="inv-actions">' +
-      '<a class="cta-button inv-call" href="' +
+      '<a class="cta-button inv-view" href="' +
+      detailUrl +
+      '" data-testid="link-view-' +
+      escapeHtml(cart._id) +
+      '">View Cart</a>' +
+      '<a class="inv-call-link" href="' +
       PHONE_TEL +
       '" data-testid="button-call-' +
       escapeHtml(cart._id) +
