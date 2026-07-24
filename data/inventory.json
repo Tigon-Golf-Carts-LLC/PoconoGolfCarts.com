@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-23T06:30:02.100Z",
+  "generatedAt": "2026-07-24T06:26:05.875Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 377,
-  "totalFetched": 446,
+  "totalActive": 382,
+  "totalFetched": 452,
   "statusCounts": {
-    "retail": 375,
-    "work_in_progress": 45,
+    "retail": 380,
+    "work_in_progress": 46,
     "boneyard": 22,
     "(none)": 2,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 227,
-    "T3 Tigon Long Pond": 92,
-    "T5 Tigon Scranton": 58
+    "T1 Tigon Hatfield": 234,
+    "T3 Tigon Long Pond": 91,
+    "T5 Tigon Scranton": 57
   },
   "storeIds": [
     "T1",
@@ -364,7 +364,6 @@
     "6a0cb4d3c793101451770e0b": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-08",
     "6a0c9cc5c793101451744e81": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-09",
     "6a0c92bac7931014517375d8": "club-car-tempo-black-hatfield-pennsylvania-usa-01",
-    "6a0c7e8cc79310145163d72b": "denago-nomad-xl-lava-long-pond-pennsylvania-usa",
     "6a0c7c3bc79310145163a8b2": "denago-nomad-xl-white-long-pond-pennsylvania-usa",
     "6a0b352e10157207618b8833": "club-car-tempo-beige-scranton-pennsylvania-usa-03",
     "6a0b290c10157207618a5fc4": "cushman-other-camo-scranton-pennsylvania-usa",
@@ -437,16 +436,23 @@
     "691deda7cbf981335b736b2a": "club-car-precedent-beige-hatfield-pennsylvania-usa-01",
     "690f536580febbeade6dbea3": "club-car-precedent-blue-hatfield-pennsylvania-usa",
     "690ba3ac7b8a9714b74872b1": "tara-spirit-plus-beige-long-pond-pennsylvania-usa",
-    "690ba06d7b8a9714b7486165": "tara-spirit-plus-beige-hatfield-pennsylvania-usa",
-    "690b9ee17b8a9714b7485aa1": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-01",
-    "690b99b37b8a9714b7483cb8": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-02",
-    "690b98cc7b8a9714b7483afc": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-03",
-    "690b98517b8a9714b7483a24": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-04",
-    "690b98187b8a9714b7483911": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-05",
-    "690b96ac7b8a9714b7482c13": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-06",
-    "690b87bf7b8a9714b747b0ce": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-07",
-    "690b87357b8a9714b747ad47": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-08",
-    "690b7e8c7b8a9714b74781ea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-09",
+    "690ba3767b8a9714b74871d9": "tara-spirit-plus-beige-hatfield-pennsylvania-usa",
+    "690ba06d7b8a9714b7486165": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-01",
+    "690b9ee17b8a9714b7485aa1": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-02",
+    "690b9ea27b8a9714b7485a16": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-03",
+    "690b99b37b8a9714b7483cb8": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-04",
+    "690b98cc7b8a9714b7483afc": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-05",
+    "690b98517b8a9714b7483a24": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-06",
+    "690b98187b8a9714b7483911": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-07",
+    "690b97947b8a9714b7483643": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-08",
+    "690b96ac7b8a9714b7482c13": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-09",
+    "690b96367b8a9714b7482ad4": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-10",
+    "690b938c7b8a9714b7481377": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-11",
+    "690b93027b8a9714b7480d53": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-12",
+    "690b87bf7b8a9714b747b0ce": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-13",
+    "690b877c7b8a9714b747afea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-14",
+    "690b87357b8a9714b747ad47": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-15",
+    "690b7e8c7b8a9714b74781ea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-16",
     "6903bdffc52387fc9119b4dd": "denago-rover-xl-black-hatfield-pennsylvania-usa",
     "68fbe31ac52387fc91007e67": "cushman-other-blue-hatfield-pennsylvania-usa-01",
     "68fa821cc52387fc91fbaf93": "club-car-precedent-blue-hatfield-pennsylvania-usa-01",
@@ -574,7 +580,6 @@
     "66fb03fee2a685c5a27c886f": "star-ev-capella-2-2-black-hatfield-pennsylvania-usa",
     "66fafb17e2a685c5a27c8813": "yamaha-drive-2-blue-long-pond-pennsylvania-usa",
     "66faf912e2a685c5a27c87f9": "icon-i40-lime-long-pond-pennsylvania-usa",
-    "66f42b440f4b93de4a9ed4ee": "star-ev-sport-lifted-teal-scranton-pennsylvania-usa",
     "66f422a00f4b93de4a9ed4c6": "club-car-precedent-white-hatfield-pennsylvania-usa"
   },
   "carts": [
@@ -5591,39 +5596,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a0c7e8cc79310145163d72b",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Lava",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1782578473421.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1782578473425.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1782578473429.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1782578473432.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a0c7c3bc79310145163a8b2",
       "cartType": {
         "make": "Denago",
@@ -7866,6 +7838,39 @@
       "status": "retail"
     },
     {
+      "_id": "690ba3767b8a9714b74871d9",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822388977.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822388981.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822388984.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822388987.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "690ba06d7b8a9714b7486165",
       "cartType": {
         "make": "Tara",
@@ -7890,7 +7895,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822820936.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822820941.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822820945.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784822820948.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -7923,6 +7933,39 @@
         "84a8d478-9021-7063-1c32-55e975aed618-1777495730084.jpg",
         "84a8d478-9021-7063-1c32-55e975aed618-1777495730087.jpg",
         "84a8d478-9021-7063-1c32-55e975aed618-1777495730090.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "690b9ea27b8a9714b7485a16",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784834908377.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784834908382.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784834908385.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784834908388.jpg"
       ],
       "status": "retail"
     },
@@ -8049,7 +8092,134 @@
       "status": "retail"
     },
     {
+      "_id": "690b97947b8a9714b7483643",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784823897425.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784823897430.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784823897433.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784823897436.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "690b96ac7b8a9714b7482c13",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "690b96367b8a9714b7482ad4",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784839361750.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784839361755.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784839361759.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784839361762.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "690b938c7b8a9714b7481377",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784841609272.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784841609281.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784841609287.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784841609292.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "690b93027b8a9714b7480d53",
       "cartType": {
         "make": "Tara",
         "model": "Spirit Plus",
@@ -8102,6 +8272,39 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "690b877c7b8a9714b747afea",
+      "cartType": {
+        "make": "Tara",
+        "model": "Spirit Plus",
+        "year": "2025"
+      },
+      "retailPrice": 9000,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Brown",
+        "passengers": "2 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784832411168.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784832411173.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784832411176.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1784832411181.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -12099,39 +12302,6 @@
         "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1738958640610.jpg",
         "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1738958640620.jpg",
         "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1738958640631.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "66f42b440f4b93de4a9ed4ee",
-      "cartType": {
-        "make": "STAR EV",
-        "model": "SPORT LIFTED",
-        "year": "2016"
-      },
-      "retailPrice": 7500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Teal",
-        "seatColor": "2 Tone",
-        "passengers": "6 Passenger",
-        "driveTrain": null,
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892570.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892589.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892608.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892630.jpg"
       ],
       "status": "retail"
     },
