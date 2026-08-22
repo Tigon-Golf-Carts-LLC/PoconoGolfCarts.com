@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Golf Cart Details | Pocono Golf Carts</title>
+    <meta name="description" id="pageDesc" content="View details, pricing, and specifications for this in-stock golf cart at Pocono Golf Carts.">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/Pocono Golf Carts logo.png">
+    <link rel="shortcut icon" type="image/png" href="images/Pocono Golf Carts logo.png">
+
+    <meta property="og:type" content="product">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="index.html" class="logo">Pocono Golf Carts</a>
+            <div class="nav-center">
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="inventory.html">Inventory</a></li>
+                    <li><a href="golf-carts-for-sale-pocono-pa.html">For Sale</a></li>
+                    <li><a href="denago.html">DENAGO</a></li>
+                    <li><a href="evolution.html">EVOLUTION</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="resources/index.html">Resources</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="mobile-menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <div class="container cart-detail-container">
+            <p class="cart-breadcrumb"><a href="inventory.html">&larr; Back to Inventory</a></p>
+            <div id="cartDetail">
+                <div class="inv-empty"><p>Loading cart details…</p></div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Information</h3>
+                <p>Phone:<a href="tel:570-643-0152">570-643-0152</a></p>
+                <p>Email: info@poconogolfcarts.com</p>
+                <p>Address: 1712 PA-940, Pocono Pines, PA 18350</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <p><a href="inventory.html">Live Inventory</a></p>
+                <p><a href="vehicles.html">Our Vehicles</a></p>
+                <p><a href="golf-carts-for-sale-pocono-pa.html">Golf Carts for Sale in Pocono, PA</a></p>
+                <p><a href="about.html">About Us</a></p>
+                <p><a href="contact.html">Contact</a></p>
+                <p><a href="privacy-policy.html">Privacy Policy</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>Vehicle Series</h3>
+                <p><a href="denago.html">DENAGO Series</a></p>
+                <p><a href="evolution.html">EVOLUTION Series</a></p>
+                <p><a href="vehicles.html">All Vehicles</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <p><a href="https://www.facebook.com/TigonGolfCartsPoconos/">Facebook</a></p>
+                <p><a href="https://www.instagram.com/tigongolfcarts/">Instagram</a></p>
+                <p><a href="https://www.youtube.com/@TIGONGolfCartsPoconosPA">YouTube</a></p>
+                <p><a href="https://www.pinterest.com/tigongolfcarts/">Pinterest</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Pocono Golf Carts. All rights reserved. | Premium Low Speed Neighborhood Golf Carts</p>
+            <p><a href="https://tigongolfcarts.com/pocono/">Pocono Golf Cart Source</a></p>
+        </div>
+    </footer>
+
+    <style>
+        .cart-detail-container { padding:40px 20px 80px; }
+        .cart-breadcrumb { margin-bottom:24px; }
+        .cart-breadcrumb a { color:var(--accent-color); text-decoration:none; font-weight:600; }
+        .cart-layout { display:grid; grid-template-columns:1.1fr 1fr; gap:40px; align-items:start; }
+        .cart-gallery-main { width:100%; background:var(--secondary-color); border-radius:15px; overflow:hidden; border:1px solid var(--border-color); }
+        .cart-gallery-main img { width:100%; height:420px; object-fit:cover; display:block; }
+        .cart-thumbs { display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; }
+        .cart-thumb { width:90px; height:66px; object-fit:cover; border-radius:8px; border:2px solid var(--border-color); cursor:pointer; transition:border-color .2s ease; background:var(--secondary-color); }
+        .cart-thumb:hover, .cart-thumb.active { border-color:var(--accent-color); }
+        .cart-info h1 { font-size:2rem; margin-bottom:8px; line-height:1.2; }
+        .cart-sub { color:var(--text-muted); margin-bottom:16px; }
+        .cart-badges { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:20px; }
+        .inv-badge { font-size:.78rem; font-weight:600; padding:5px 12px; border-radius:20px; background:var(--secondary-color); color:var(--text-secondary); border:1px solid var(--border-color); }
+        .inv-badge-new { background:rgba(74,158,255,0.15); color:var(--accent-color); border-color:var(--accent-color); }
+        .inv-badge-used { background:rgba(176,176,176,0.12); color:var(--text-secondary); }
+        .inv-badge-legal { background:rgba(40,180,99,0.15); color:#37c46f; border-color:#37c46f; }
+        .cart-price { font-size:2.4rem; font-weight:bold; color:var(--accent-color); margin-bottom:4px; }
+        .cart-finance { color:var(--text-secondary); margin-bottom:24px; }
+        .cart-ctas { display:flex; flex-wrap:wrap; gap:14px; margin-bottom:30px; }
+        .cart-ctas .cta-button { font-size:1.05rem; }
+        .cta-secondary { display:inline-block; background:transparent; color:var(--accent-color); padding:15px 30px; border:2px solid var(--accent-color); border-radius:50px; font-weight:600; text-decoration:none; transition:all .3s ease; }
+        .cta-secondary:hover { background:rgba(74,158,255,0.1); }
+        .cart-specs { margin-top:10px; }
+        .cart-specs h2 { font-size:1.3rem; margin-bottom:16px; }
+        .spec-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:0 30px; }
+        .spec-row { display:flex; justify-content:space-between; gap:16px; padding:12px 0; border-bottom:1px solid var(--border-color); }
+        .spec-row span:first-child { color:var(--text-muted); }
+        .spec-row span:last-child { color:var(--text-primary); font-weight:600; text-align:right; }
+        .inv-empty { text-align:center; padding:60px 20px; color:var(--text-secondary); font-size:1.15rem; line-height:1.8; }
+        .inv-empty a { color:var(--accent-color); }
+        @media (max-width:860px) {
+            .cart-layout { grid-template-columns:1fr; gap:28px; }
+            .cart-gallery-main img { height:300px; }
+        }
+    </style>
+
+    <script src="js/main.js"></script>
+    <script src="js/cart.js"></script>
+</body>
+</html>
