@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-21T04:37:18.637Z",
+  "generatedAt": "2026-08-22T04:31:37.421Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 442,
-  "totalFetched": 529,
+  "totalActive": 443,
+  "totalFetched": 530,
   "statusCounts": {
-    "retail": 441,
+    "retail": 442,
     "work_in_progress": 58,
     "boneyard": 27,
     "(none)": 1,
     "permanent_boneyard": 2
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 280,
-    "T3 Tigon Long Pond": 94,
-    "T5 Tigon Scranton": 68
+    "T1 Tigon Hatfield": 283,
+    "T3 Tigon Long Pond": 93,
+    "T5 Tigon Scranton": 67
   },
   "storeIds": [
     "T1",
@@ -216,6 +216,9 @@
     }
   ],
   "slugMap": {
+    "6a88bdf0d7d238bfb54a0bb6": "ezgo-rxv-red-hatfield-pennsylvania-usa",
+    "6a885ebc4e87b7d27080eed0": "club-car-precedent-green-hatfield-pennsylvania-usa",
+    "6a8710583fc0ce21a8c3b2e0": "club-car-precedent-green-hatfield-pennsylvania-usa-01",
     "6a86fe343fc0ce21a8c0a641": "club-car-tempo-gray-hatfield-pennsylvania-usa",
     "6a8611958a635ce533760e65": "club-car-tempo-gray-hatfield-pennsylvania-usa-01",
     "6a860c498a635ce53375af7b": "semmc-ev-f8-mini-white-hatfield-pennsylvania-usa",
@@ -225,8 +228,9 @@
     "6a85fa628a635ce53374c924": "club-car-tempo-gray-hatfield-pennsylvania-usa-05",
     "6a85f9bd8a635ce53374c0bf": "club-car-tempo-gray-hatfield-pennsylvania-usa-06",
     "6a85c9c7b243c569f1a351a5": "club-car-tempo-gray-hatfield-pennsylvania-usa-07",
-    "6a848938378715fcdef16d39": "club-car-tempo-gray-hatfield-pennsylvania-usa-08",
-    "6a848676378715fcdef14c04": "club-car-tempo-gray-hatfield-pennsylvania-usa-09",
+    "6a85bbb5b243c569f1a220eb": "club-car-tempo-gray-hatfield-pennsylvania-usa-08",
+    "6a848938378715fcdef16d39": "club-car-tempo-gray-hatfield-pennsylvania-usa-09",
+    "6a848676378715fcdef14c04": "club-car-tempo-gray-hatfield-pennsylvania-usa-10",
     "6a8468c8f8c4f6e3d534b589": "denago-rover-xl6-scarlet-long-pond-pennsylvania-usa",
     "6a846890f8c4f6e3d534a620": "denago-rover-xl6-white-long-pond-pennsylvania-usa",
     "6a846851f8c4f6e3d53497fd": "denago-rover-xl6-aqua-long-pond-pennsylvania-usa",
@@ -236,10 +240,10 @@
     "6a846769f8c4f6e3d534795e": "denago-rover-xl6-lava-long-pond-pennsylvania-usa",
     "6a846733f8c4f6e3d5347500": "denago-rover-xl6-matte-white-long-pond-pennsylvania-usa",
     "6a8463f9f8c4f6e3d5343dad": "denago-rover-xl6-scarlet-long-pond-pennsylvania-usa-01",
-    "6a835e7f1a88e70ff17d89b9": "club-car-tempo-gray-hatfield-pennsylvania-usa-10",
+    "6a835e7f1a88e70ff17d89b9": "club-car-tempo-gray-hatfield-pennsylvania-usa-11",
     "6a8356871a88e70ff17cf465": "club-car-tempo-black-hatfield-pennsylvania-usa",
-    "6a833a8c1a88e70ff17a3074": "club-car-tempo-gray-hatfield-pennsylvania-usa-11",
-    "6a8329de1a88e70ff1778f4d": "club-car-tempo-gray-hatfield-pennsylvania-usa-12",
+    "6a833a8c1a88e70ff17a3074": "club-car-tempo-gray-hatfield-pennsylvania-usa-12",
+    "6a8329de1a88e70ff1778f4d": "club-car-tempo-gray-hatfield-pennsylvania-usa-13",
     "6a8324c61a88e70ff1768ffe": "denago-nomad-xl-glacier-scranton-pennsylvania-usa",
     "6a83245e1a88e70ff1768495": "denago-nomad-xl-glacier-scranton-pennsylvania-usa-01",
     "6a8324031a88e70ff17681f2": "denago-nomad-xl-aqua-scranton-pennsylvania-usa",
@@ -247,13 +251,11 @@
     "6a83231b1a88e70ff1766d83": "denago-nomad-xl-gray-scranton-pennsylvania-usa",
     "6a8322bf1a88e70ff1766530": "denago-nomad-xl-gray-scranton-pennsylvania-usa-01",
     "6a8322561a88e70ff1765cac": "denago-nomad-xl-matte-white-scranton-pennsylvania-usa",
-    "6a8321f21a88e70ff176565c": "denago-nomad-xl-matte-black-scranton-pennsylvania-usa",
     "6a83216b374cbf80d2fa6d76": "denago-rover-xl6-aqua-scranton-pennsylvania-usa",
     "6a831d06374cbf80d2f86a23": "denago-rover-xl6-gray-scranton-pennsylvania-usa",
-    "6a8314bd374cbf80d2f70432": "club-car-tempo-gray-hatfield-pennsylvania-usa-13",
+    "6a8314bd374cbf80d2f70432": "club-car-tempo-gray-hatfield-pennsylvania-usa-14",
     "6a809da176764567dfb90fa8": "yamaha-drive-2-beige-hatfield-pennsylvania-usa",
-    "6a80857776764567dfb7abac": "club-car-tempo-gray-hatfield-pennsylvania-usa-14",
-    "6a7f5c7e172e91c0d6cadfea": "club-car-tempo-gray-hatfield-pennsylvania-usa-15",
+    "6a80857776764567dfb7abac": "club-car-tempo-gray-hatfield-pennsylvania-usa-15",
     "6a7f4da7172e91c0d6c9eff0": "club-car-tempo-gray-hatfield-pennsylvania-usa-16",
     "6a7f2b7bbaefb95418e12ce0": "club-car-tempo-gray-hatfield-pennsylvania-usa-17",
     "6a7e222ca5615f3710f18c4a": "club-car-tempo-gray-hatfield-pennsylvania-usa-18",
@@ -332,12 +334,12 @@
     "6a63a8d1dceb49c8bf2a77d6": "denago-rover-xl6-gray-hatfield-pennsylvania-usa-02",
     "6a63a821dceb49c8bf2a6b51": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa",
     "6a63a7ecdceb49c8bf2a6a40": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa-01",
-    "6a5f97fde1de10da68fadeaa": "club-car-tempo-gray-hatfield-pennsylvania-usa-55",
+    "6a5fca0ce1de10da68fe9dea": "club-car-tempo-gray-hatfield-pennsylvania-usa-55",
+    "6a5f97fde1de10da68fadeaa": "club-car-tempo-gray-hatfield-pennsylvania-usa-56",
     "6a5e83e808b1230b3be337aa": "ezgo-rxv-gray-hatfield-pennsylvania-usa",
-    "6a5e83b708b1230b3be3348e": "ezgo-rxv-red-hatfield-pennsylvania-usa",
+    "6a5e83b708b1230b3be3348e": "ezgo-rxv-red-hatfield-pennsylvania-usa-01",
     "6a5e823808b1230b3be30f75": "ezgo-rxv-white-hatfield-pennsylvania-usa",
-    "6a5e7ce808b1230b3be1c43a": "ezgo-rxv-red-hatfield-pennsylvania-usa-01",
-    "6a5e373c08b1230b3bd364ab": "club-car-tempo-gray-hatfield-pennsylvania-usa-56",
+    "6a5e373c08b1230b3bd364ab": "club-car-tempo-gray-hatfield-pennsylvania-usa-57",
     "6a5e242708b1230b3bd14619": "ezgo-rxv-black-hatfield-pennsylvania-usa-01",
     "6a5e131c08b1230b3bd05944": "ezgo-txt-white-hatfield-pennsylvania-usa",
     "6a5b7f958d635981da2c9f99": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
@@ -354,7 +356,7 @@
     "6a51160cfffd88f30569238c": "yamaha-g29-white-long-pond-pennsylvania-usa-04",
     "6a511561fffd88f30567d9d2": "yamaha-g29-white-long-pond-pennsylvania-usa-05",
     "6a51133efffd88f305667ff1": "yamaha-g29-white-scranton-pennsylvania-usa-06",
-    "6a510b8afffd88f305656e84": "club-car-tempo-gray-hatfield-pennsylvania-usa-57",
+    "6a510b8afffd88f305656e84": "club-car-tempo-gray-hatfield-pennsylvania-usa-58",
     "6a510b55fffd88f305656aad": "ezgo-other-green-hatfield-pennsylvania-usa",
     "6a50f40efffd88f30563a709": "yamaha-g29-white-long-pond-pennsylvania-usa-06",
     "6a4fe736fffd88f30553b5dd": "yamaha-g29-white-scranton-pennsylvania-usa-07",
@@ -365,7 +367,6 @@
     "6a4d3531032e7a265491ae5d": "yamaha-g29-white-long-pond-pennsylvania-usa-09",
     "6a4c28d1d74c62e6822cd6e0": "ezgo-rxv-gray-long-pond-pennsylvania-usa",
     "6a4c17e6d74c62e6820fc6cb": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-01",
-    "6a4c17b7d74c62e6820f8847": "denago-rover-xl-glacier-long-pond-pennsylvania-usa-02",
     "6a4c1783d74c62e6820f40b4": "denago-rover-xl-aqua-long-pond-pennsylvania-usa",
     "6a4c162dd74c62e6820d5f58": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-01",
     "6a4c158dd74c62e6820c5d52": "denago-nomad-xl-glacier-long-pond-pennsylvania-usa-02",
@@ -377,7 +378,7 @@
     "6a4bd0e6d74c62e6827eb21b": "denago-nomad-xl-aqua-long-pond-pennsylvania-usa-02",
     "6a4809f6d74c62e68206cc19": "club-car-tempo-white-scranton-pennsylvania-usa",
     "6a47fa49d74c62e682fe879c": "club-car-tempo-white-scranton-pennsylvania-usa-01",
-    "6a46b2d6d74c62e682d1649b": "club-car-tempo-gray-hatfield-pennsylvania-usa-58",
+    "6a46b2d6d74c62e682d1649b": "club-car-tempo-gray-hatfield-pennsylvania-usa-59",
     "6a3ee75c6639bb670bca7dec": "yamaha-g29-green-long-pond-pennsylvania-usa-01",
     "6a3eb6766639bb670bc355cb": "denago-rover-xl-gray-hatfield-pennsylvania-usa",
     "6a3eb6076639bb670bc3464d": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa",
@@ -426,10 +427,10 @@
     "6a1db607dfca37b4fc274e23": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-03",
     "6a1db063dfca37b4fc26f173": "denago-nomad-xl-glacier-hatfield-pennsylvania-usa-03",
     "6a1da072dfca37b4fc249e20": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-04",
-    "6a1d9173dfca37b4fc232d88": "club-car-tempo-gray-hatfield-pennsylvania-usa-59",
+    "6a1d9173dfca37b4fc232d88": "club-car-tempo-gray-hatfield-pennsylvania-usa-60",
     "6a1d9157dfca37b4fc232b98": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-01",
     "6a1d87b0dfca37b4fc22414f": "denago-rover-xl-matte-white-hatfield-pennsylvania-usa",
-    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-60",
+    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-61",
     "6a18a3987f6a2f131758e8c9": "denago-rover-xl-scarlet-long-pond-pennsylvania-usa-01",
     "6a189c614565d34f03e59561": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa",
     "6a189acc4565d34f03e57c24": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-05",
@@ -632,7 +633,7 @@
     "67a660972b8650f7ed63097d": "yamaha-g29-white-hatfield-pennsylvania-usa-01",
     "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
     "67a655f82b8650f7ed630384": "yamaha-g29-green-scranton-pennsylvania-usa",
-    "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa",
+    "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa-02",
     "6772fedee45992ee69837cba": "evolution-forester-4-plus-mineral-white-hatfield-pennsylvania-usa",
     "6734c986555ba477a98303ab": "epic-e60l-light-blue-hatfield-pennsylvania-usa",
     "6716946cec7cde2e2ba74b38": "denago-rover-xl-blue-hatfield-pennsylvania-usa-01",
@@ -660,6 +661,90 @@
     "66f422a00f4b93de4a9ed4c6": "club-car-precedent-white-hatfield-pennsylvania-usa-01"
   },
   "carts": [
+    {
+      "_id": "6a88bdf0d7d238bfb54a0bb6",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Red",
+        "seatColor": "Brown",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a885ebc4e87b7d27080eed0",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2010"
+      },
+      "retailPrice": 5800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Green",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a8710583fc0ce21a8c3b2e0",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2010"
+      },
+      "retailPrice": 5800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Green",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
     {
       "_id": "6a86fe343fc0ce21a8c0a641",
       "cartType": {
@@ -898,6 +983,34 @@
     },
     {
       "_id": "6a85c9c7b243c569f1a351a5",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Tempo",
+        "year": "2020"
+      },
+      "retailPrice": 3800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a85bbb5b243c569f1a220eb",
       "cartType": {
         "make": "Club Car",
         "model": "Tempo",
@@ -1606,39 +1719,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a8321f21a88e70ff176565c",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Matte Black",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1786999638736.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1786999638740.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1786999638743.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1786999638747.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a83216b374cbf80d2fa6d76",
       "cartType": {
         "make": "Denago",
@@ -1784,34 +1864,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a7f5c7e172e91c0d6cadfea",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": ""
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6a7f4da7172e91c0d6c9eff0",
       "cartType": {
         "make": "Club Car",
@@ -1892,7 +1944,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787331393939.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787331393952.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787331393956.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787331393959.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -2301,7 +2358,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787326764231.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787326764236.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787326764239.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787326764242.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -3238,7 +3300,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787322576549.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787322576555.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787322576558.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787322576562.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -3294,7 +3361,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787337082318.jpg",
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787337082325.jpg",
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787337082329.jpg",
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787337082332.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -3668,7 +3740,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787336740141.jpg",
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787336740145.jpg",
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787336740149.jpg",
+        "c47814a8-20f1-7048-998e-d33be3e88195-1787336740152.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -3696,7 +3773,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787341240149.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787341240155.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787341240159.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787341240162.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4117,6 +4199,34 @@
       "status": "retail"
     },
     {
+      "_id": "6a5fca0ce1de10da68fe9dea",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Tempo",
+        "year": "2020"
+      },
+      "retailPrice": 5800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
       "_id": "6a5f97fde1de10da68fadeaa",
       "cartType": {
         "make": "Club Car",
@@ -4239,39 +4349,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a5e7ce808b1230b3be1c43a",
-      "cartType": {
-        "make": "EZGO",
-        "model": "RXV",
-        "year": "2021"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Red",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1784647287342.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1784647287346.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1784647287350.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1784647287353.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a5e373c08b1230b3bd364ab",
       "cartType": {
         "make": "Club Car",
@@ -4296,7 +4373,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787332586707.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787332586711.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787332586715.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1787332586718.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -5094,34 +5176,6 @@
     },
     {
       "_id": "6a4c17e6d74c62e6820fc6cb",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XL",
-        "year": "2026"
-      },
-      "retailPrice": 10995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Glacier",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a4c17b7d74c62e6820f8847",
       "cartType": {
         "make": "Denago",
         "model": "Rover XL",
@@ -7471,7 +7525,7 @@
         "model": "Precedent",
         "year": "2018"
       },
-      "retailPrice": 3800,
+      "retailPrice": 5800,
       "isElectric": true,
       "isUsed": true,
       "cartAttributes": {
@@ -7479,7 +7533,7 @@
         "seatColor": "Beige",
         "passengers": "4 Passenger",
         "driveTrain": "2X4",
-        "isLifted": false
+        "isLifted": true
       },
       "cartLocation": {
         "locationId": "T1",
@@ -13788,7 +13842,7 @@
         "model": "Precedent",
         "year": "2004"
       },
-      "retailPrice": 6500,
+      "retailPrice": 5800,
       "isElectric": true,
       "isUsed": true,
       "cartAttributes": {
