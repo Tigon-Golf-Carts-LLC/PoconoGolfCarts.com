@@ -91,9 +91,9 @@ pocono-golf-carts/
 ## Contact Information
 
 **Pocono Golf Carts**
-- Phone: (555) 123-4567
+- Phone: 570-643-0152
 - Email: info@poconogolfcarts.com
-- Address: 123 Electric Ave, Pocono, PA 18301
+- Address: 4738 PA-115, Long Pond, PA 18334
 
 ## License
 
