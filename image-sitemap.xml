@@ -38,18 +38,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://poconogolfcarts.com/images/EVOLUTION_D3_LIFTED.jpg</loc>
-    <image:image>
-      <image:loc>https://poconogolfcarts.com/images/EVOLUTION_D3_LIFTED.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://poconogolfcarts.com/images/EVOLUTION_D3_STANDARD.jpg</loc>
-    <image:image>
-      <image:loc>https://poconogolfcarts.com/images/EVOLUTION_D3_STANDARD.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://poconogolfcarts.com/images/EVOLUTION® CARRIER 8 PLUS.jpg</loc>
     <image:image>
       <image:loc>https://poconogolfcarts.com/images/EVOLUTION® CARRIER 8 PLUS.jpg</image:loc>
@@ -221,12 +209,6 @@
     <loc>https://poconogolfcarts.com/images/EVOLUTION┬« TURFMAN 800.jpg</loc>
     <image:image>
       <image:loc>https://poconogolfcarts.com/images/EVOLUTION┬« TURFMAN 800.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://poconogolfcarts.com/PoconoGolfCarts.com-main/images/{{VEHICLE_IMAGE}}</loc>
-    <image:image>
-      <image:loc>https://poconogolfcarts.com/PoconoGolfCarts.com-main/images/{{VEHICLE_IMAGE}}</image:loc>
     </image:image>
   </url>
 </urlset>

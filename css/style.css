@@ -225,16 +225,23 @@ body {
   background: rgba(26, 26, 26, 0.98);
   backdrop-filter: blur(15px);
   transform: translateY(-100%);
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, visibility 0.3s ease;
   border-bottom: 1px solid var(--border-color);
   max-height: calc(100vh - 100px);
   overflow-y: auto;
   box-shadow: var(--shadow-medium);
-  z-index: 1000;
+  /* Below the fixed header, and inert while closed - the panel is only
+     translated out of view, so without this it would still swallow taps
+     aimed at the header. */
+  z-index: 999;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .mobile-menu.active {
   transform: translateY(0);
+  visibility: visible;
+  pointer-events: auto;
 }
 
 .mobile-menu ul {
@@ -574,6 +581,11 @@ body {
 
   .nav-container {
     height: 60px;
+  }
+
+  .mobile-menu {
+    top: 60px;
+    max-height: calc(100vh - 60px);
   }
 
   .main-content {
