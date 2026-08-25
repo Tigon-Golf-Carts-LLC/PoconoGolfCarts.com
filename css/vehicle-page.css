@@ -58,6 +58,39 @@
     flex-wrap: wrap;
 }
 
+/* Hero "Call Now" action, sits under the other hero buttons */
+.vehicle-call-action {
+    margin-top: 20px;
+}
+
+.vehicle-call-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(135deg, #2e7d32 0%, #256a29 100%);
+    color: #ffffff;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    box-shadow: var(--shadow-light);
+    transition: all 0.3s ease;
+}
+
+.vehicle-call-button:hover {
+    background: linear-gradient(135deg, #35913a 0%, #2e7d32 100%);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-medium);
+}
+
+.vehicle-call-button svg {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    fill: currentColor;
+}
+
 .secondary-button {
     display: inline-block;
     background: transparent;
@@ -297,6 +330,16 @@
     }
     
     .vehicle-actions {
+        justify-content: center;
+    }
+
+    .vehicle-call-action {
+        text-align: center;
+    }
+
+    .vehicle-call-button {
+        width: 100%;
+        max-width: 300px;
         justify-content: center;
     }
     
