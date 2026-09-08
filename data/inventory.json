@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-07T08:58:57.229Z",
+  "generatedAt": "2026-09-08T08:38:37.578Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 369,
-  "totalFetched": 452,
+  "totalActive": 367,
+  "totalFetched": 450,
   "statusCounts": {
     "work_in_progress": 54,
-    "retail": 368,
+    "retail": 366,
     "boneyard": 25,
     "(none)": 1,
     "permanent_boneyard": 4
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 212,
+    "T1 Tigon Hatfield": 211,
     "T5 Tigon Scranton": 66,
-    "T3 Tigon Long Pond": 91
+    "T3 Tigon Long Pond": 90
   },
   "storeIds": [
     "T1",
@@ -242,7 +242,6 @@
     "6a846890f8c4f6e3d534a620": "denago-rover-xl6-white-long-pond-pennsylvania-usa",
     "6a846851f8c4f6e3d53497fd": "denago-rover-xl6-aqua-long-pond-pennsylvania-usa",
     "6a846815f8c4f6e3d5348eb9": "denago-rover-xl6-gray-long-pond-pennsylvania-usa",
-    "6a8467a0f8c4f6e3d5347ca2": "denago-rover-xl6-matte-black-long-pond-pennsylvania-usa",
     "6a846733f8c4f6e3d5347500": "denago-rover-xl6-matte-white-long-pond-pennsylvania-usa",
     "6a8324c61a88e70ff1768ffe": "denago-nomad-xl-glacier-scranton-pennsylvania-usa",
     "6a8324031a88e70ff17681f2": "denago-nomad-xl-aqua-scranton-pennsylvania-usa",
@@ -291,7 +290,6 @@
     "6a64d684dceb49c8bf3469cb": "yamaha-g29-white-scranton-pennsylvania-usa-01",
     "6a64c06adceb49c8bf33b63f": "club-car-tempo-gray-scranton-pennsylvania-usa-04",
     "6a63ae6ddceb49c8bf2ae12a": "club-car-tempo-gray-hatfield-pennsylvania-usa-09",
-    "6a63a8d1dceb49c8bf2a77d6": "denago-rover-xl6-gray-hatfield-pennsylvania-usa",
     "6a63a821dceb49c8bf2a6b51": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa",
     "6a63a7ecdceb49c8bf2a6a40": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa-01",
     "6a5fca0ce1de10da68fe9dea": "club-car-tempo-gray-long-pond-pennsylvania-usa-04",
@@ -1389,39 +1387,6 @@
         "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318668.jpg",
         "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318672.jpg",
         "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318676.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8467a0f8c4f6e3d5347ca2",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XL6",
-        "year": "2026"
-      },
-      "retailPrice": 12995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Matte Black",
-        "seatColor": "Stone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "54d834c8-0051-70a1-d199-d7a43f35baf8-1787070462732.jpg",
-        "54d834c8-0051-70a1-d199-d7a43f35baf8-1787070462738.jpg",
-        "54d834c8-0051-70a1-d199-d7a43f35baf8-1787070462742.jpg",
-        "54d834c8-0051-70a1-d199-d7a43f35baf8-1787070462746.jpg"
       ],
       "status": "retail"
     },
@@ -2940,34 +2905,6 @@
       },
       "title": {
         "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a63a8d1dceb49c8bf2a77d6",
-      "cartType": {
-        "make": "Denago",
-        "model": "Rover XL6",
-        "year": "2026"
-      },
-      "retailPrice": 12995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Stone",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
       },
       "imageUrls": [],
       "status": "retail"
