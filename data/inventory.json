@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-12T08:23:55.502Z",
+  "generatedAt": "2026-09-14T09:36:50.404Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 369,
-  "totalFetched": 369,
+  "totalActive": 372,
+  "totalFetched": 372,
   "statusCounts": {
-    "retail": 369
+    "retail": 372
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 206,
+    "T1 Tigon Hatfield": 210,
     "T5 Tigon Scranton": 77,
-    "T3 Tigon Long Pond": 86
+    "T3 Tigon Long Pond": 85
   },
   "storeIds": [
     "T1",
@@ -212,6 +212,7 @@
     }
   ],
   "slugMap": {
+    "6aa5950256f482f0fd2c8010": "ezgo-rxv-red-hatfield-pennsylvania-usa",
     "6aa466fc56f482f0fddb9b3c": "swift-ev-mach-6e-black-hatfield-pennsylvania-usa",
     "6aa303d374072e3b36da6eed": "denago-rover-xl-white-scranton-pennsylvania-usa",
     "6aa3004f74072e3b36da408d": "denago-rover-xl6-gray-scranton-pennsylvania-usa",
@@ -231,8 +232,10 @@
     "6a99ab24520eff53236275df": "club-car-precedent-green-hatfield-pennsylvania-usa-04",
     "6a99ab0a520eff5323627144": "club-car-precedent-green-hatfield-pennsylvania-usa-05",
     "6a99aac2520eff5323626ce8": "club-car-precedent-beige-hatfield-pennsylvania-usa",
+    "6a99aa49520eff53236258b9": "club-car-precedent-beige-hatfield-pennsylvania-usa-01",
     "6a999cf8520eff53235fc07f": "club-car-tempo-green-hatfield-pennsylvania-usa",
-    "6a998e97b091f2063ee1fe38": "club-car-precedent-beige-hatfield-pennsylvania-usa-01",
+    "6a998e97b091f2063ee1fe38": "club-car-precedent-beige-hatfield-pennsylvania-usa-02",
+    "6a998e7ab091f2063ee1fdf5": "club-car-precedent-beige-hatfield-pennsylvania-usa-03",
     "6a986b3bc3e4a8b035632f84": "club-car-precedent-green-hatfield-pennsylvania-usa-06",
     "6a984841c3e4a8b0355f46fc": "club-car-tempo-gray-hatfield-pennsylvania-usa",
     "6a9740d224a67a4316f98d17": "club-car-precedent-green-hatfield-pennsylvania-usa-07",
@@ -241,8 +244,9 @@
     "6a91d598a4ea39a625f2b8be": "club-car-precedent-green-hatfield-pennsylvania-usa-08",
     "6a8ede8c8fe24416f6554b22": "club-car-tempo-black-hatfield-pennsylvania-usa",
     "6a89ae7f962340e42a34870b": "club-car-tempo-gray-scranton-pennsylvania-usa",
-    "6a88bdf0d7d238bfb54a0bb6": "ezgo-rxv-red-hatfield-pennsylvania-usa",
-    "6a88991fe6b2668f49b8c78f": "club-car-precedent-beige-hatfield-pennsylvania-usa-02",
+    "6a88bdf0d7d238bfb54a0bb6": "ezgo-rxv-red-hatfield-pennsylvania-usa-01",
+    "6a88991fe6b2668f49b8c78f": "club-car-precedent-beige-hatfield-pennsylvania-usa-04",
+    "6a889815e6b2668f49b8b30e": "club-car-precedent-beige-hatfield-pennsylvania-usa-05",
     "6a88961ee6b2668f49b6dc56": "club-car-tempo-beige-hatfield-pennsylvania-usa",
     "6a860c498a635ce53375af7b": "semmc-ev-f8-mini-white-hatfield-pennsylvania-usa",
     "6a85febf8a635ce53374f01c": "club-car-tempo-gray-hatfield-pennsylvania-usa-03",
@@ -299,7 +303,7 @@
     "6a63a821dceb49c8bf2a6b51": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa",
     "6a63a7ecdceb49c8bf2a6a40": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa-01",
     "6a5fca0ce1de10da68fe9dea": "club-car-tempo-gray-long-pond-pennsylvania-usa-03",
-    "6a5e83b708b1230b3be3348e": "ezgo-rxv-red-hatfield-pennsylvania-usa-01",
+    "6a5e83b708b1230b3be3348e": "ezgo-rxv-red-hatfield-pennsylvania-usa-02",
     "6a5e131c08b1230b3bd05944": "ezgo-txt-white-hatfield-pennsylvania-usa",
     "6a5b7ef98d635981da2c92aa": "denago-rover-xl-glacier-long-pond-pennsylvania-usa",
     "6a5a316ecb80c0ee96efa6cc": "club-car-tempo-gray-hatfield-pennsylvania-usa-06",
@@ -333,7 +337,6 @@
     "6a4809f6d74c62e68206cc19": "club-car-tempo-white-scranton-pennsylvania-usa",
     "6a47fa49d74c62e682fe879c": "club-car-tempo-white-scranton-pennsylvania-usa-01",
     "6a46b2d6d74c62e682d1649b": "club-car-tempo-gray-scranton-pennsylvania-usa-05",
-    "6a3ee75c6639bb670bca7dec": "yamaha-g29-green-long-pond-pennsylvania-usa-01",
     "6a3eb6766639bb670bc355cb": "denago-rover-xl-gray-hatfield-pennsylvania-usa",
     "6a3eb6076639bb670bc3464d": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa",
     "6a3eb5d76639bb670bc33a61": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-01",
@@ -386,7 +389,7 @@
     "6a18a3c97f6a2f131758feaf": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
     "6a189c614565d34f03e59561": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa",
     "6a189acc4565d34f03e57c24": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-05",
-    "6a188b674565d34f03e3957f": "club-car-precedent-beige-hatfield-pennsylvania-usa-03",
+    "6a188b674565d34f03e3957f": "club-car-precedent-beige-hatfield-pennsylvania-usa-06",
     "6a15d85c8b2b73012d8ae273": "club-car-tempo-beige-long-pond-pennsylvania-usa",
     "6a15baf806916db7739a39a7": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-04",
     "6a15aa8506916db773980b6e": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-02",
@@ -479,7 +482,7 @@
     "6903bdffc52387fc9119b4dd": "denago-rover-xl-black-hatfield-pennsylvania-usa",
     "68fbe31ac52387fc91007e67": "cushman-other-blue-hatfield-pennsylvania-usa-01",
     "68fa8c70c52387fc91fc3ab0": "yamaha-drive-2-beige-hatfield-pennsylvania-usa-01",
-    "68fa7c87c52387fc91fb845e": "club-car-precedent-beige-hatfield-pennsylvania-usa-04",
+    "68fa7c87c52387fc91fb845e": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
     "68fa60cbc52387fc91faf27c": "club-car-carryall-green-hatfield-pennsylvania-usa",
     "68fa4f64c52387fc91faa981": "club-car-carryall-green-hatfield-pennsylvania-usa-01",
     "68f28d8ac52387fc91e43419": "ezgo-rxv-green-long-pond-pennsylvania-usa",
@@ -514,7 +517,7 @@
     "68b726531101d55c5d890d38": "denago-nomad-xl-white-hatfield-pennsylvania-usa-05",
     "68b1cd7f1101d55c5d6eb484": "denago-rover-xl6-red-hatfield-pennsylvania-usa",
     "68ac92fc0302697df912efe8": "denago-nomad-xl-black-scranton-pennsylvania-usa-02",
-    "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-05",
+    "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
     "689f90b4972d0fd09d16a740": "club-car-precedent-beige-long-pond-pennsylvania-usa-03",
     "6890f03780f0b5e9cc7607fd": "denago-rover-xl-gray-hatfield-pennsylvania-usa-02",
     "6887ae8d4c6bccbabe0cd7e0": "club-car-precedent-beige-long-pond-pennsylvania-usa-04",
@@ -534,10 +537,10 @@
     "685303b085986cdd6dcf30a4": "denago-rover-xl-lava-hatfield-pennsylvania-usa",
     "6852f69485986cdd6dce94f3": "evolution-d5-ranger-4-mineral-white-hatfield-pennsylvania-usa",
     "684c82de81052a519b66be03": "club-car-precedent-long-pond-pennsylvania-usa",
-    "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-06",
+    "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
     "684af32b70890276509223ab": "club-car-ds-orange-hatfield-pennsylvania-usa",
     "68474625b0a622e788a91431": "club-car-precedent-beige-long-pond-pennsylvania-usa-06",
-    "6841aefd5e5256dce682b562": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
+    "6841aefd5e5256dce682b562": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
     "683daec9e3f1cd836771cd03": "denago-rover-xxl-gray-hatfield-pennsylvania-usa",
     "683b2234e75074647871778d": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-01",
     "683b21e2e7507464787175e1": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-02",
@@ -554,7 +557,7 @@
     "67ad0ac7bf482b16f83c9705": "yamaha-drive-2-beige-long-pond-pennsylvania-usa-02",
     "67ab9a862caf1b1d27204594": "ezgo-rxv-silver-scranton-pennsylvania-usa",
     "67a660972b8650f7ed63097d": "yamaha-g29-white-hatfield-pennsylvania-usa",
-    "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
+    "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-11",
     "67a655f82b8650f7ed630384": "yamaha-g29-green-scranton-pennsylvania-usa",
     "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa-09",
     "6772fedee45992ee69837cba": "evolution-forester-4-plus-mineral-white-hatfield-pennsylvania-usa",
@@ -583,6 +586,34 @@
     "66f422a00f4b93de4a9ed4c6": "club-car-precedent-white-hatfield-pennsylvania-usa"
   },
   "carts": [
+    {
+      "_id": "6aa5950256f482f0fd2c8010",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Red",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
     {
       "_id": "6aa466fc56f482f0fddb9b3c",
       "cartType": {
@@ -1196,6 +1227,39 @@
       "status": "retail"
     },
     {
+      "_id": "6a99aa49520eff53236258b9",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2018"
+      },
+      "retailPrice": 3800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Beige",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789228284351.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789228284356.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789228284360.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789228284363.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6a999cf8520eff53235fc07f",
       "cartType": {
         "make": "Club Car",
@@ -1225,6 +1289,34 @@
     },
     {
       "_id": "6a998e97b091f2063ee1fe38",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2018"
+      },
+      "retailPrice": 3800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Beige",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a998e7ab091f2063ee1fdf5",
       "cartType": {
         "make": "Club Car",
         "model": "Precedent",
@@ -1525,6 +1617,34 @@
     },
     {
       "_id": "6a88991fe6b2668f49b8c78f",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2018"
+      },
+      "retailPrice": 4800,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Beige",
+        "seatColor": "Beige",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6a889815e6b2668f49b8b30e",
       "cartType": {
         "make": "Club Car",
         "model": "Precedent",
@@ -4374,34 +4494,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a3ee75c6639bb670bca7dec",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "G29",
-        "year": "2013"
-      },
-      "retailPrice": 3800,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6a3eb6766639bb670bc355cb",
       "cartType": {
         "make": "Denago",
@@ -4454,7 +4546,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237507595.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237507601.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237507604.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237507608.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4482,7 +4579,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237641890.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237641895.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237641899.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237641902.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -5399,7 +5501,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789231691672.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789231691676.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789231691679.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789231691682.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -5521,7 +5628,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237127987.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237127992.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237127996.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789237127999.jpg"
+      ],
       "status": "retail"
     },
     {
