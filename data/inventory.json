@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T09:39:37.907Z",
+  "generatedAt": "2026-09-22T09:04:26.443Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 369,
-  "totalFetched": 369,
+  "totalActive": 378,
+  "totalFetched": 378,
   "statusCounts": {
-    "retail": 369
+    "retail": 378
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 205,
-    "T5 Tigon Scranton": 77,
+    "T1 Tigon Hatfield": 215,
+    "T5 Tigon Scranton": 76,
     "T3 Tigon Long Pond": 87
   },
   "storeIds": [
@@ -212,7 +212,18 @@
     }
   ],
   "slugMap": {
+    "6aadc12a50a4a540a7172349": "evolution-d5-ranger-4-plus-flamenco-red-hatfield-pennsylvania-usa",
+    "6aadc07a50a4a540a717222a": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa",
+    "6aadbfad50a4a540a7171f55": "evolution-d5-ranger-4-plus-mineral-white-hatfield-pennsylvania-usa",
+    "6aadbeba50a4a540a7171da0": "evolution-d5-ranger-4-plus-mineral-white-hatfield-pennsylvania-usa-01",
+    "6aadbd3c50a4a540a71716da": "evolution-d5-maverick-4-plus-sky-blue-hatfield-pennsylvania-usa",
+    "6aadbc3a50a4a540a717139c": "evolution-d5-maverick-4-plus-flamenco-red-hatfield-pennsylvania-usa",
+    "6aadbb2e50a4a540a7170e30": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-01",
+    "6aadba3e50a4a540a7170b7a": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-02",
+    "6aadb8bc50a4a540a7170657": "evolution-d5-ranger-4-plus-black-sapphire-hatfield-pennsylvania-usa",
+    "6aadb61e50a4a540a717008b": "evolution-d5-maverick-4-plus-mineral-white-hatfield-pennsylvania-usa",
     "6aac7a5bda3e5296cce9e0c4": "yamaha-g29-blue-hatfield-pennsylvania-usa",
+    "6aa81b8356f482f0fd3a0991": "club-car-other-green-hatfield-pennsylvania-usa",
     "6aa8117956f482f0fd3936a5": "club-car-precedent-beige-hatfield-pennsylvania-usa",
     "6aa5950256f482f0fd2c8010": "ezgo-rxv-red-hatfield-pennsylvania-usa",
     "6aa5901256f482f0fd2c4b1a": "ezgo-rxv-blue-hatfield-pennsylvania-usa",
@@ -222,9 +233,8 @@
     "6aa303d374072e3b36da6eed": "denago-rover-xl-white-scranton-pennsylvania-usa",
     "6aa3004f74072e3b36da408d": "denago-rover-xl6-gray-scranton-pennsylvania-usa",
     "6aa2f83974072e3b36d9c349": "denago-rover-xl6-matte-white-scranton-pennsylvania-usa",
-    "6aa2d843a6dd7f038a476044": "denago-nomad-xl-black-scranton-pennsylvania-usa",
     "6aa2d6a0a6dd7f038a473118": "denago-nomad-xl-matte-black-scranton-pennsylvania-usa",
-    "6aa2d548a6dd7f038a47115d": "denago-nomad-xl-black-scranton-pennsylvania-usa-01",
+    "6aa2d548a6dd7f038a47115d": "denago-nomad-xl-black-scranton-pennsylvania-usa",
     "6aa2d3a9a6dd7f038a46e2bc": "denago-nomad-xl-lava-scranton-pennsylvania-usa",
     "6aa2c677a6dd7f038a453a06": "denago-nomad-xl-lava-scranton-pennsylvania-usa-01",
     "6aa2bce1a6dd7f038a43d163": "ezgo-rxv-black-hatfield-pennsylvania-usa",
@@ -276,13 +286,12 @@
     "6a7cd080778c10371231f0b1": "club-car-tempo-green-hatfield-pennsylvania-usa-02",
     "6a7cd021778c10371231ecdf": "club-car-tempo-green-hatfield-pennsylvania-usa-03",
     "6a7ccfff778c10371231e8e2": "club-car-tempo-green-hatfield-pennsylvania-usa-04",
-    "6a7ccfbd778c10371231e612": "club-car-tempo-green-hatfield-pennsylvania-usa-05",
-    "6a7ccf9c778c10371231e40b": "club-car-tempo-green-hatfield-pennsylvania-usa-06",
-    "6a7ccf31778c10371231e26e": "club-car-tempo-green-hatfield-pennsylvania-usa-07",
-    "6a7cce98778c10371231df5c": "club-car-tempo-green-hatfield-pennsylvania-usa-08",
-    "6a7cce75778c10371231de81": "club-car-tempo-green-hatfield-pennsylvania-usa-09",
+    "6a7ccf9c778c10371231e40b": "club-car-tempo-green-hatfield-pennsylvania-usa-05",
+    "6a7ccf31778c10371231e26e": "club-car-tempo-green-hatfield-pennsylvania-usa-06",
+    "6a7cce98778c10371231df5c": "club-car-tempo-green-hatfield-pennsylvania-usa-07",
+    "6a7cce75778c10371231de81": "club-car-tempo-green-hatfield-pennsylvania-usa-08",
     "6a7ccdc2778c10371231d11c": "club-car-tempo-green-long-pond-pennsylvania-usa",
-    "6a7ccc7c778c10371231c99c": "club-car-tempo-green-hatfield-pennsylvania-usa-10",
+    "6a7ccc7c778c10371231c99c": "club-car-tempo-green-hatfield-pennsylvania-usa-09",
     "6a7cb04e414460a9de375dff": "club-car-tempo-gray-long-pond-pennsylvania-usa-01",
     "6a7c902e414460a9de34e149": "club-car-tempo-gray-long-pond-pennsylvania-usa-02",
     "6a7c7cf2414460a9de34241b": "denago-rover-xxl-scarlet-hatfield-pennsylvania-usa",
@@ -353,8 +362,8 @@
     "6a368b88b9f67cbd0097d3c3": "club-car-tempo-black-hatfield-pennsylvania-usa-01",
     "6a34190044cb5d2a083cc534": "ezgo-rxv-white-long-pond-pennsylvania-usa",
     "6a341352d14d3444112c0721": "yamaha-g29-white-hatfield-pennsylvania-usa",
-    "6a340fab2932856acdeb57ee": "club-car-other-green-hatfield-pennsylvania-usa",
-    "6a340ebc2932856acdeb2e77": "club-car-other-green-hatfield-pennsylvania-usa-01",
+    "6a340fab2932856acdeb57ee": "club-car-other-green-hatfield-pennsylvania-usa-01",
+    "6a340ebc2932856acdeb2e77": "club-car-other-green-hatfield-pennsylvania-usa-02",
     "6a319df5500a181187a608fd": "club-car-tempo-black-hatfield-pennsylvania-usa-02",
     "6a3015978221bed0f743ebba": "cushman-other-green-hatfield-pennsylvania-usa",
     "6a2d87228221bed0f71820e8": "ezgo-txt-green-hatfield-pennsylvania-usa",
@@ -516,7 +525,7 @@
     "68b727c81101d55c5d892218": "denago-nomad-xl-white-hatfield-pennsylvania-usa-04",
     "68b726531101d55c5d890d38": "denago-nomad-xl-white-hatfield-pennsylvania-usa-05",
     "68b1cd7f1101d55c5d6eb484": "denago-rover-xl6-red-hatfield-pennsylvania-usa",
-    "68ac92fc0302697df912efe8": "denago-nomad-xl-black-scranton-pennsylvania-usa-02",
+    "68ac92fc0302697df912efe8": "denago-nomad-xl-black-scranton-pennsylvania-usa-01",
     "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
     "689f90b4972d0fd09d16a740": "club-car-precedent-beige-long-pond-pennsylvania-usa-06",
     "6890f03780f0b5e9cc7607fd": "denago-rover-xl-gray-hatfield-pennsylvania-usa-02",
@@ -546,7 +555,7 @@
     "683b0e4de75074647870e871": "denago-rover-xl-blue-hatfield-pennsylvania-usa",
     "683a0017e7507464786cbb9d": "ezgo-txt-black-hatfield-pennsylvania-usa-01",
     "68348703cc2789903c94f906": "denago-rover-xl-red-long-pond-pennsylvania-usa-01",
-    "680fd6990a3b46e532d1fddb": "club-car-tempo-green-hatfield-pennsylvania-usa-11",
+    "680fd6990a3b46e532d1fddb": "club-car-tempo-green-hatfield-pennsylvania-usa-10",
     "680f981a230782a4053e6cf6": "denago-rover-xl-verdant-hatfield-pennsylvania-usa",
     "680f892ff174d631aa0cb3ce": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-03",
     "6803d5480b686dc77ea317fb": "swift-ev-mach-4-white-hatfield-pennsylvania-usa",
@@ -584,6 +593,326 @@
   },
   "carts": [
     {
+      "_id": "6aadc12a50a4a540a7172349",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Flamenco Red",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790020200437.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790020200442.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790020200446.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790020228666.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadc07a50a4a540a717222a",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Mediterranean Blue",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021517281.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021517286.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021517289.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021517293.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadbfad50a4a540a7171f55",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Mineral White",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021753612.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021753617.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021753620.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021753623.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadbeba50a4a540a7171da0",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Mineral White",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790019893736.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790019893741.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790019893744.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790019893747.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadbd3c50a4a540a71716da",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Maverick 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10999,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Sky Blue",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadbc3a50a4a540a717139c",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Maverick 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10999,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Flamenco Red",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790024510149.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790024510155.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790024510159.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790024510163.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadbb2e50a4a540a7170e30",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Mediterranean Blue",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790022019459.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790022019465.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790022019468.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790022019471.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadba3e50a4a540a7170b7a",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Mediterranean Blue",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021214251.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021214255.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021214258.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021214261.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadb8bc50a4a540a7170657",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Ranger 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10699,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Black Sapphire",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021004967.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021004972.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021004975.jpg",
+        "c4b8c428-3071-70c8-426d-1f910414964e-1790021004979.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6aadb61e50a4a540a717008b",
+      "cartType": {
+        "make": "Evolution",
+        "model": "D5 Maverick 4 PLUS",
+        "year": "2027"
+      },
+      "retailPrice": 10999,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "Mineral White",
+        "seatColor": "2 Tone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
       "_id": "6aac7a5bda3e5296cce9e0c4",
       "cartType": {
         "make": "Yamaha",
@@ -609,6 +938,39 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6aa81b8356f482f0fd3a0991",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Other",
+        "year": "1984"
+      },
+      "retailPrice": 4000,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Green",
+        "seatColor": "Beige",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790025117647.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790025117653.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790025117656.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790025117659.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -900,39 +1262,6 @@
         "94c85418-f041-7083-4fce-c4440dcf50b8-1789065272718.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1789065272723.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1789065272727.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6aa2d843a6dd7f038a476044",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Black",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T5",
-        "latestStoreId": "T5",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1789057091128.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1789057091133.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1789057091137.jpg",
-        "94c85418-f041-7083-4fce-c4440dcf50b8-1789057091141.jpg"
       ],
       "status": "retail"
     },
@@ -1840,7 +2169,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790016171940.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790016171945.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790016171948.jpg",
+        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790016171951.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -2615,34 +2949,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1789847263990.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1789847263993.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a7ccfbd778c10371231e612",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -9597,10 +9903,10 @@
         "isStreetLegal": false
       },
       "imageUrls": [
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758309725506.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758309725510.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758309725514.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1758309725517.jpg"
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789999631762.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789999631770.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789999631774.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1789999631777.jpg"
       ],
       "status": "retail"
     },
