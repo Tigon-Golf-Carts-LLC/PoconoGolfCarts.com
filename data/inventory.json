@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T09:19:10.759Z",
+  "generatedAt": "2026-10-15T08:54:37.023Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 609,
-  "totalFetched": 609,
+  "totalActive": 534,
+  "totalFetched": 534,
   "statusCounts": {
-    "retail": 609
+    "retail": 534
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 410,
+    "T1 Tigon Hatfield": 335,
     "T3 Tigon Long Pond": 100,
     "T5 Tigon Scranton": 99
   },
@@ -214,8 +214,8 @@
   "slugMap": {
     "6ace68e70f0d9040d4324208": "club-car-tempo-gray-hatfield-pennsylvania-usa",
     "6ace66650f0d9040d431fed7": "club-car-tempo-gray-hatfield-pennsylvania-usa-01",
-    "6acccbf50407ff965472e259": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
-    "6aca9b160407ff965471e6b3": "club-car-tempo-gray-hatfield-pennsylvania-usa-03",
+    "6acd61080f0d9040d42c2e18": "club-car-tempo-gray-hatfield-pennsylvania-usa-02",
+    "6acccbf50407ff965472e259": "club-car-tempo-gray-hatfield-pennsylvania-usa-03",
     "6aca4b640407ff96546e02b3": "evolution-d5-maverick-4-plus-arctic-gray-long-pond-pennsylvania-usa",
     "6aca4b320407ff96546e0111": "evolution-d5-maverick-4-plus-sky-blue-long-pond-pennsylvania-usa",
     "6aca4aee0407ff96546e001a": "evolution-d5-maverick-4-plus-mediterranean-blue-long-pond-pennsylvania-usa",
@@ -235,46 +235,32 @@
     "6ac826ffa24636b64c1a0ca5": "club-car-tempo-gray-hatfield-pennsylvania-usa-10",
     "6ac81bc5a24636b64c1a0054": "club-car-tempo-gray-hatfield-pennsylvania-usa-11",
     "6ac81679a24636b64c19f9c1": "club-car-tempo-gray-hatfield-pennsylvania-usa-12",
-    "6ac812dca24636b64c19f3c2": "club-car-tempo-gray-hatfield-pennsylvania-usa-13",
-    "6ac80fada24636b64c19f055": "club-car-tempo-gray-hatfield-pennsylvania-usa-14",
-    "6ac80e6da24636b64c19edad": "club-car-tempo-gray-hatfield-pennsylvania-usa-15",
-    "6ac802daa24636b64c19c49d": "club-car-tempo-gray-hatfield-pennsylvania-usa-16",
-    "6ac7faa2a24636b64c1859d6": "club-car-tempo-gray-hatfield-pennsylvania-usa-17",
-    "6ac7e477a24636b64c16caea": "club-car-tempo-gray-hatfield-pennsylvania-usa-18",
-    "6ac7e3d6a24636b64c16c220": "club-car-tempo-gray-hatfield-pennsylvania-usa-19",
+    "6ac80fada24636b64c19f055": "club-car-tempo-gray-hatfield-pennsylvania-usa-13",
+    "6ac802daa24636b64c19c49d": "club-car-tempo-gray-hatfield-pennsylvania-usa-14",
+    "6ac7faa2a24636b64c1859d6": "club-car-tempo-gray-hatfield-pennsylvania-usa-15",
+    "6ac7e477a24636b64c16caea": "club-car-tempo-gray-hatfield-pennsylvania-usa-16",
+    "6ac7e3d6a24636b64c16c220": "club-car-tempo-gray-hatfield-pennsylvania-usa-17",
     "6ac78d5c66733591b07f16f6": "club-car-tempo-white-hatfield-pennsylvania-usa",
-    "6ac6f6f566733591b07ea5d5": "club-car-tempo-gray-hatfield-pennsylvania-usa-20",
-    "6ac6f54a66733591b07ea464": "club-car-tempo-gray-hatfield-pennsylvania-usa-21",
-    "6ac690fc66733591b07bcb26": "club-car-tempo-gray-hatfield-pennsylvania-usa-22",
-    "6ac59f7766733591b076546b": "club-car-tempo-gray-hatfield-pennsylvania-usa-23",
-    "6ac57d6166733591b0763809": "club-car-tempo-gray-hatfield-pennsylvania-usa-24",
-    "6ac569e266733591b075e783": "club-car-tempo-gray-hatfield-pennsylvania-usa-25",
+    "6ac6f6f566733591b07ea5d5": "club-car-tempo-gray-hatfield-pennsylvania-usa-18",
+    "6ac690fc66733591b07bcb26": "club-car-tempo-gray-hatfield-pennsylvania-usa-19",
+    "6ac59f7766733591b076546b": "club-car-tempo-gray-hatfield-pennsylvania-usa-20",
+    "6ac569e266733591b075e783": "club-car-tempo-gray-hatfield-pennsylvania-usa-21",
     "6ac5686466733591b075e241": "club-car-tempo-green-hatfield-pennsylvania-usa",
-    "6ac5662666733591b075dc46": "club-car-tempo-gray-hatfield-pennsylvania-usa-26",
-    "6ac5574c66733591b073f8f5": "club-car-tempo-gray-hatfield-pennsylvania-usa-27",
-    "6ac53f9d1f2a6f549345733b": "club-car-tempo-gray-hatfield-pennsylvania-usa-28",
-    "6ac5394b8dd196e4065349f1": "club-car-tempo-gray-hatfield-pennsylvania-usa-29",
-    "6ac4dff6d435f5bef4208371": "club-car-tempo-gray-hatfield-pennsylvania-usa-30",
-    "6ac424fad435f5bef42037df": "club-car-tempo-gray-hatfield-pennsylvania-usa-31",
+    "6ac5662666733591b075dc46": "club-car-tempo-gray-hatfield-pennsylvania-usa-22",
+    "6ac53f9d1f2a6f549345733b": "club-car-tempo-gray-hatfield-pennsylvania-usa-23",
+    "6ac5394b8dd196e4065349f1": "club-car-tempo-gray-hatfield-pennsylvania-usa-24",
+    "6ac424fad435f5bef42037df": "club-car-tempo-gray-hatfield-pennsylvania-usa-25",
     "6ac421d3d435f5bef4202e8c": "club-car-tempo-black-hatfield-pennsylvania-usa",
-    "6ac3ea81693ae1adaf4af97d": "club-car-tempo-gray-hatfield-pennsylvania-usa-32",
-    "6ac3c8cbac3f11ecbd13132d": "club-car-tempo-red-hatfield-pennsylvania-usa",
-    "6ac3b67eac3f11ecbd0f7655": "club-car-tempo-gray-hatfield-pennsylvania-usa-33",
-    "6ac140c4231b9a3fcf2af479": "club-car-tempo-gray-hatfield-pennsylvania-usa-34",
-    "6ac12f3fb0b64bb86d6ae0b0": "club-car-tempo-gray-hatfield-pennsylvania-usa-35",
-    "6ac10efd681d74445013fb13": "club-car-tempo-gray-hatfield-pennsylvania-usa-36",
-    "6ac0fa046dc688d0f1231898": "club-car-tempo-gray-hatfield-pennsylvania-usa-37",
-    "6ac070eb6dc688d0f122ce2c": "club-car-tempo-gray-hatfield-pennsylvania-usa-38",
-    "6ac0690f6dc688d0f122cb49": "club-car-tempo-gray-hatfield-pennsylvania-usa-39",
-    "6ac063866dc688d0f122c7a9": "club-car-tempo-gray-hatfield-pennsylvania-usa-40",
-    "6ac0272b6dc688d0f122ac17": "club-car-tempo-gray-hatfield-pennsylvania-usa-41",
-    "6abfd5a98d47ff26cb62605d": "club-car-tempo-gray-hatfield-pennsylvania-usa-42",
-    "6abfb1be17ea55c191c46f94": "club-car-tempo-gray-hatfield-pennsylvania-usa-43",
-    "6abfad6a17ea55c191c44162": "club-car-tempo-beige-hatfield-pennsylvania-usa",
-    "6abf9c4cbdd90019d442a1cd": "club-car-tempo-gray-hatfield-pennsylvania-usa-44",
-    "6abef539bdd90019d4422ef9": "club-car-tempo-gray-hatfield-pennsylvania-usa-45",
-    "6abeed3fbdd90019d4422797": "club-car-tempo-gray-hatfield-pennsylvania-usa-46",
-    "6abedbbcbdd90019d4421d95": "club-car-tempo-gray-hatfield-pennsylvania-usa-47",
+    "6ac140c4231b9a3fcf2af479": "club-car-tempo-gray-hatfield-pennsylvania-usa-26",
+    "6ac12f3fb0b64bb86d6ae0b0": "club-car-tempo-gray-hatfield-pennsylvania-usa-27",
+    "6ac10efd681d74445013fb13": "club-car-tempo-gray-hatfield-pennsylvania-usa-28",
+    "6ac0fa046dc688d0f1231898": "club-car-tempo-gray-hatfield-pennsylvania-usa-29",
+    "6ac0690f6dc688d0f122cb49": "club-car-tempo-gray-hatfield-pennsylvania-usa-30",
+    "6abfd5a98d47ff26cb62605d": "club-car-tempo-gray-hatfield-pennsylvania-usa-31",
+    "6abfb1be17ea55c191c46f94": "club-car-tempo-gray-hatfield-pennsylvania-usa-32",
+    "6abf9c4cbdd90019d442a1cd": "club-car-tempo-gray-hatfield-pennsylvania-usa-33",
+    "6abeed3fbdd90019d4422797": "club-car-tempo-gray-hatfield-pennsylvania-usa-34",
+    "6abedbbcbdd90019d4421d95": "club-car-tempo-gray-hatfield-pennsylvania-usa-35",
     "6abeac423a915383ac5c28d3": "evolution-d5-maverick-4-plus-arctic-gray-hatfield-pennsylvania-usa",
     "6abeac053a915383ac5c22bf": "evolution-d5-maverick-4-plus-black-hatfield-pennsylvania-usa",
     "6abeabce3a915383ac5c1f7d": "evolution-d5-maverick-4-plus-mediterranean-blue-hatfield-pennsylvania-usa",
@@ -284,26 +270,22 @@
     "6abeaaf53a915383ac5c1d2e": "evolution-d5-ranger-4-plus-white-hatfield-pennsylvania-usa",
     "6abeaac23a915383ac5c171e": "evolution-d5-ranger-4-plus-white-hatfield-pennsylvania-usa-01",
     "6abeaa8c3a915383ac5c168a": "evolution-d5-ranger-4-plus-white-hatfield-pennsylvania-usa-02",
-    "6abea7de3a915383ac5c0ee9": "club-car-tempo-gray-hatfield-pennsylvania-usa-48",
+    "6abea7de3a915383ac5c0ee9": "club-car-tempo-gray-hatfield-pennsylvania-usa-36",
     "6abea2cd3a915383ac5bc861": "evolution-d5-ranger-4-plus-black-hatfield-pennsylvania-usa",
-    "6abe8bc83a915383ac5b0ed9": "club-car-tempo-gray-hatfield-pennsylvania-usa-49",
-    "6abe753e1ccced576d29ac6d": "club-car-tempo-gray-hatfield-pennsylvania-usa-50",
-    "6abe6a407273d2723201e1fe": "club-car-tempo-gray-hatfield-pennsylvania-usa-51",
+    "6abe8bc83a915383ac5b0ed9": "club-car-tempo-gray-hatfield-pennsylvania-usa-37",
+    "6abe753e1ccced576d29ac6d": "club-car-tempo-gray-hatfield-pennsylvania-usa-38",
+    "6abe6a407273d2723201e1fe": "club-car-tempo-gray-hatfield-pennsylvania-usa-39",
     "6abe5cbd7273d27232015a52": "yamaha-drive-2-beige-hatfield-pennsylvania-usa",
     "6abe4eb97273d2723201072b": "evolution-d5-maverick-4-plus-arctic-gray-hatfield-pennsylvania-usa-01",
-    "6abdc8ab7273d2723200cacf": "club-car-tempo-gray-hatfield-pennsylvania-usa-52",
-    "6abdb9e37273d2723200be4f": "club-car-tempo-beige-hatfield-pennsylvania-usa-01",
-    "6abd57ed7273d27232fe9e7c": "club-car-tempo-gray-hatfield-pennsylvania-usa-53",
-    "6abd13299cd5b5e878a6e483": "club-car-tempo-gray-hatfield-pennsylvania-usa-54",
-    "6abd10d19cd5b5e878a6bfd7": "club-car-tempo-gray-hatfield-pennsylvania-usa-55",
-    "6abc61a2547ea406b2e8eb0d": "club-car-tempo-gray-hatfield-pennsylvania-usa-56",
-    "6abc5ba0547ea406b2e8e600": "club-car-tempo-matte-titanium-gray-hatfield-pennsylvania-usa",
+    "6abdc8ab7273d2723200cacf": "club-car-tempo-gray-hatfield-pennsylvania-usa-40",
+    "6abd57ed7273d27232fe9e7c": "club-car-tempo-gray-hatfield-pennsylvania-usa-41",
+    "6abd13299cd5b5e878a6e483": "club-car-tempo-gray-hatfield-pennsylvania-usa-42",
+    "6abd10d19cd5b5e878a6bfd7": "club-car-tempo-gray-hatfield-pennsylvania-usa-43",
+    "6abc61a2547ea406b2e8eb0d": "club-car-tempo-gray-hatfield-pennsylvania-usa-44",
     "6abc2d33547ea406b2e87ddd": "yamaha-drive-2-beige-hatfield-pennsylvania-usa-01",
-    "6abc1b919ccec93a82c85397": "club-car-tempo-gray-hatfield-pennsylvania-usa-57",
-    "6abbec90afbf3a8004a02aeb": "club-car-tempo-gray-hatfield-pennsylvania-usa-58",
-    "6abbec3aafbf3a8004a0259b": "club-car-tempo-gray-hatfield-pennsylvania-usa-59",
-    "6abbe4d8afbf3a80049ff02b": "club-car-tempo-gray-hatfield-pennsylvania-usa-60",
-    "6abbcbcfafbf3a80049e0691": "club-car-tempo-gray-hatfield-pennsylvania-usa-61",
+    "6abc1b919ccec93a82c85397": "club-car-tempo-gray-hatfield-pennsylvania-usa-45",
+    "6abbec90afbf3a8004a02aeb": "club-car-tempo-gray-hatfield-pennsylvania-usa-46",
+    "6abbcbcfafbf3a80049e0691": "club-car-tempo-gray-hatfield-pennsylvania-usa-47",
     "6abaf2e6929848c0e1cc7730": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-02",
     "6abab599ecf84fcf1fabe88c": "evolution-d5-maverick-4-plus-arctic-gray-hatfield-pennsylvania-usa-02",
     "6abab562ecf84fcf1fabe4b5": "evolution-d5-maverick-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-01",
@@ -336,9 +318,8 @@
     "6ab68d762a0dabe5d45c554b": "denago-nomad-xl-khaki-hatfield-pennsylvania-usa",
     "6ab68d442a0dabe5d45c52c4": "denago-nomad-xl-khaki-hatfield-pennsylvania-usa-01",
     "6ab59bf32a0dabe5d452eccd": "yamaha-drive-2-beige-hatfield-pennsylvania-usa-02",
-    "6ab598ff2a0dabe5d452dfbc": "club-car-tempo-gray-hatfield-pennsylvania-usa-62",
-    "6ab591ed2a0dabe5d452bc77": "club-car-tempo-gray-hatfield-pennsylvania-usa-63",
-    "6ab568de2a0dabe5d44fe55c": "club-car-tempo-gray-hatfield-pennsylvania-usa-64",
+    "6ab598ff2a0dabe5d452dfbc": "club-car-tempo-gray-hatfield-pennsylvania-usa-48",
+    "6ab568de2a0dabe5d44fe55c": "club-car-tempo-gray-hatfield-pennsylvania-usa-49",
     "6ab55afa2a0dabe5d44ee888": "club-car-ds-beige-scranton-pennsylvania-usa",
     "6ab536cc9fac9eaad3d58b02": "club-car-tempo-white-hatfield-pennsylvania-usa-01",
     "6ab530579fac9eaad3d4cd98": "denago-rover-xl6-glacier-hatfield-pennsylvania-usa",
@@ -348,10 +329,8 @@
     "6ab52f479fac9eaad3d4bfe4": "denago-rover-xl6-matte-black-hatfield-pennsylvania-usa-01",
     "6ab52eea9fac9eaad3d4bb0e": "denago-rover-xl6-matte-black-hatfield-pennsylvania-usa-02",
     "6ab52eb19fac9eaad3d4b937": "denago-rover-xl6-matte-black-hatfield-pennsylvania-usa-03",
-    "6ab48c8771f4c44827a67010": "club-car-tempo-white-hatfield-pennsylvania-usa-02",
-    "6ab45a7d71f4c44827a66124": "club-car-tempo-beige-hatfield-pennsylvania-usa-02",
-    "6ab4580a71f4c44827a65f63": "club-car-tempo-gray-hatfield-pennsylvania-usa-65",
-    "6ab2d4893a8ea6cd4d3d7b20": "club-car-precedent-green-hatfield-pennsylvania-usa",
+    "6ab45a7d71f4c44827a66124": "club-car-tempo-beige-hatfield-pennsylvania-usa",
+    "6ab4580a71f4c44827a65f63": "club-car-tempo-gray-hatfield-pennsylvania-usa-50",
     "6ab2acd4006b46384c45038c": "evolution-d5-maverick-4-plus-black-long-pond-pennsylvania-usa",
     "6ab2aca6006b46384c44fd48": "evolution-d5-maverick-4-plus-white-long-pond-pennsylvania-usa",
     "6ab2abef006b46384c44f0b8": "evolution-d5-ranger-4-plus-arctic-gray-long-pond-pennsylvania-usa-01",
@@ -365,9 +344,7 @@
     "6ab297a7006b46384c4218e7": "evolution-d5-ranger-4-plus-white-hatfield-pennsylvania-usa-08",
     "6ab29564006b46384c41dbc4": "evolution-d5-ranger-4-plus-mediterranean-blue-long-pond-pennsylvania-usa-02",
     "6ab2893ba24413e6bf05341d": "evolution-d5-maverick-4-plus-mediterranean-blue-long-pond-pennsylvania-usa-01",
-    "6ab26a6aa24413e6bf037dee": "ezgo-cushman-blue-hatfield-pennsylvania-usa",
     "6ab1d3eba24413e6bf033271": "evolution-d5-maverick-4-plus-mineral-white-hatfield-pennsylvania-usa",
-    "6ab1ca37a24413e6bf032b68": "club-car-precedent-green-hatfield-pennsylvania-usa-01",
     "6ab1c0a0a24413e6bf032050": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-05",
     "6ab1b6dca24413e6bf031cfb": "evolution-d5-ranger-4-plus-black-hatfield-pennsylvania-usa-02",
     "6ab1b620a24413e6bf031c91": "evolution-d5-ranger-4-plus-portimao-blue-hatfield-pennsylvania-usa",
@@ -376,7 +353,7 @@
     "6ab19d9ff5344f7fe8746744": "evolution-d5-ranger-4-plus-arctic-gray-hatfield-pennsylvania-usa-04",
     "6ab19697f5344f7fe873a21e": "evolution-d5-maverick-4-plus-black-sapphire-hatfield-pennsylvania-usa",
     "6ab12ec9085ce3550f2d09d0": "yamaha-g29-white-hatfield-pennsylvania-usa",
-    "6aae98204f8c08bc9fb5ba1a": "club-car-tempo-gray-hatfield-pennsylvania-usa-66",
+    "6aae98204f8c08bc9fb5ba1a": "club-car-tempo-gray-hatfield-pennsylvania-usa-51",
     "6aadc12a50a4a540a7172349": "evolution-d5-ranger-4-plus-flamenco-red-hatfield-pennsylvania-usa-04",
     "6aadc07a50a4a540a717222a": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-07",
     "6aadbfad50a4a540a7171f55": "evolution-d5-ranger-4-plus-mineral-white-hatfield-pennsylvania-usa-01",
@@ -387,18 +364,13 @@
     "6aadba3e50a4a540a7170b7a": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-09",
     "6aadb8bc50a4a540a7170657": "evolution-d5-ranger-4-plus-black-sapphire-hatfield-pennsylvania-usa",
     "6aadb61e50a4a540a717008b": "evolution-d5-maverick-4-plus-mineral-white-hatfield-pennsylvania-usa-01",
-    "6aaca1a1da3e5296ccea0576": "club-car-tempo-gray-hatfield-pennsylvania-usa-67",
-    "6aac8e42da3e5296cce9f81e": "club-car-tempo-gray-hatfield-pennsylvania-usa-68",
-    "6aac7a5bda3e5296cce9e0c4": "yamaha-g29-blue-hatfield-pennsylvania-usa",
-    "6aa9d28ac567f007ec09df9f": "club-car-tempo-gray-hatfield-pennsylvania-usa-69",
+    "6aac8e42da3e5296cce9f81e": "club-car-tempo-gray-hatfield-pennsylvania-usa-52",
     "6aa974a4c567f007ec019c22": "club-car-precedent-green-scranton-pennsylvania-usa",
     "6aa81b8356f482f0fd3a0991": "club-car-other-green-hatfield-pennsylvania-usa",
-    "6aa8117956f482f0fd3936a5": "club-car-precedent-beige-hatfield-pennsylvania-usa",
     "6aa5950256f482f0fd2c8010": "ezgo-rxv-red-hatfield-pennsylvania-usa",
-    "6aa485b056f482f0fdde83ca": "club-car-tempo-gray-hatfield-pennsylvania-usa-70",
     "6aa46a0a56f482f0fddcc857": "club-car-tempo-green-hatfield-pennsylvania-usa-01",
     "6aa466fc56f482f0fddb9b3c": "swift-ev-mach-6e-black-hatfield-pennsylvania-usa",
-    "6aa452e856f482f0fdd64be0": "club-car-tempo-gray-hatfield-pennsylvania-usa-71",
+    "6aa452e856f482f0fdd64be0": "club-car-tempo-gray-hatfield-pennsylvania-usa-53",
     "6aa303d374072e3b36da6eed": "denago-rover-xl-white-scranton-pennsylvania-usa",
     "6aa3004f74072e3b36da408d": "denago-rover-xl6-gray-scranton-pennsylvania-usa",
     "6aa2f83974072e3b36d9c349": "denago-rover-xl6-matte-white-scranton-pennsylvania-usa",
@@ -407,86 +379,53 @@
     "6aa2d3a9a6dd7f038a46e2bc": "denago-nomad-xl-lava-scranton-pennsylvania-usa",
     "6aa2c677a6dd7f038a453a06": "denago-nomad-xl-lava-scranton-pennsylvania-usa-01",
     "6aa2bce1a6dd7f038a43d163": "ezgo-rxv-black-hatfield-pennsylvania-usa",
-    "6aa2b242a6dd7f038a42dd95": "club-car-precedent-green-hatfield-pennsylvania-usa-02",
-    "6aa1b0af95fb59350676bf5d": "club-car-precedent-green-hatfield-pennsylvania-usa-03",
+    "6aa1b0af95fb59350676bf5d": "club-car-precedent-green-hatfield-pennsylvania-usa",
     "6aa042fafb1bd44fb59f51f7": "club-car-precedent-beige-long-pond-pennsylvania-usa",
-    "6aa03fdcfb1bd44fb59eeb54": "club-car-precedent-beige-hatfield-pennsylvania-usa-01",
-    "6a9c060e00fb3bc25595c40f": "club-car-precedent-green-hatfield-pennsylvania-usa-04",
+    "6a9c060e00fb3bc25595c40f": "club-car-precedent-green-hatfield-pennsylvania-usa-01",
     "6a9b712000fb3bc255953fb8": "club-car-precedent-green-long-pond-pennsylvania-usa",
-    "6a9adb467b18b2dfa7e51585": "club-car-precedent-green-hatfield-pennsylvania-usa-05",
-    "6a9ac7fb3b49b8a2a6b9822b": "club-car-tempo-gray-hatfield-pennsylvania-usa-72",
+    "6a9adb467b18b2dfa7e51585": "club-car-precedent-green-hatfield-pennsylvania-usa-02",
     "6a99dd45912035a20f05b21e": "club-car-tempo-black-hatfield-pennsylvania-usa-01",
-    "6a99c1448c46959a31333cc9": "club-car-tempo-red-hatfield-pennsylvania-usa-01",
-    "6a99c1278c46959a313334a7": "club-car-tempo-beige-hatfield-pennsylvania-usa-03",
-    "6a99c10a8c46959a31333358": "club-car-precedent-beige-hatfield-pennsylvania-usa-02",
-    "6a99ab91520eff53236287d1": "club-car-precedent-green-hatfield-pennsylvania-usa-06",
+    "6a99c1278c46959a313334a7": "club-car-tempo-beige-hatfield-pennsylvania-usa-01",
+    "6a99c10a8c46959a31333358": "club-car-precedent-beige-hatfield-pennsylvania-usa",
     "6a99ab5d520eff5323627c9e": "club-car-precedent-green-long-pond-pennsylvania-usa-01",
     "6a99ab24520eff53236275df": "club-car-precedent-green-long-pond-pennsylvania-usa-02",
     "6a99ab0a520eff5323627144": "club-car-precedent-green-long-pond-pennsylvania-usa-03",
     "6a99aac2520eff5323626ce8": "club-car-precedent-beige-scranton-pennsylvania-usa",
     "6a99aaa6520eff5323626ad6": "club-car-precedent-beige-scranton-pennsylvania-usa-01",
-    "6a99aa6a520eff53236269a4": "club-car-precedent-beige-hatfield-pennsylvania-usa-03",
-    "6a99aa2c520eff532362559a": "club-car-precedent-beige-hatfield-pennsylvania-usa-04",
+    "6a99aa2c520eff532362559a": "club-car-precedent-beige-hatfield-pennsylvania-usa-01",
     "6a99aa10520eff5323625576": "club-car-precedent-beige-scranton-pennsylvania-usa-02",
     "6a99a9f2520eff5323625165": "club-car-precedent-gray-scranton-pennsylvania-usa",
     "6a999cf8520eff53235fc07f": "club-car-tempo-green-hatfield-pennsylvania-usa-02",
     "6a998e7ab091f2063ee1fdf5": "club-car-precedent-beige-long-pond-pennsylvania-usa-01",
-    "6a998e47b091f2063ee1fcab": "club-car-tempo-beige-hatfield-pennsylvania-usa-04",
-    "6a998dbeb091f2063ee1f1b3": "club-car-tempo-beige-hatfield-pennsylvania-usa-05",
-    "6a998d77b091f2063ee1e6bb": "club-car-tempo-beige-hatfield-pennsylvania-usa-06",
-    "6a998d40b091f2063ee1e1c8": "club-car-tempo-beige-hatfield-pennsylvania-usa-07",
-    "6a998d1fb091f2063ee1e0ef": "club-car-tempo-beige-hatfield-pennsylvania-usa-08",
+    "6a998e47b091f2063ee1fcab": "club-car-tempo-beige-hatfield-pennsylvania-usa-02",
+    "6a998dbeb091f2063ee1f1b3": "club-car-tempo-beige-hatfield-pennsylvania-usa-03",
+    "6a998d1fb091f2063ee1e0ef": "club-car-tempo-beige-hatfield-pennsylvania-usa-04",
     "6a998d00b091f2063ee1dd2e": "club-car-precedent-beige-scranton-pennsylvania-usa-03",
-    "6a998cccb091f2063ee1da33": "club-car-tempo-beige-hatfield-pennsylvania-usa-09",
     "6a998c99b091f2063ee1d5a8": "club-car-tempo-beige-scranton-pennsylvania-usa",
-    "6a998c7db091f2063ee1d535": "club-car-tempo-red-hatfield-pennsylvania-usa-02",
+    "6a998c7db091f2063ee1d535": "club-car-tempo-red-hatfield-pennsylvania-usa",
     "6a998c5eb091f2063ee1d4eb": "club-car-tempo-green-scranton-pennsylvania-usa",
-    "6a998c41b091f2063ee1d077": "club-car-tempo-red-hatfield-pennsylvania-usa-03",
+    "6a998c41b091f2063ee1d077": "club-car-tempo-red-hatfield-pennsylvania-usa-01",
     "6a998c23b091f2063ee1cf51": "club-car-tempo-green-hatfield-pennsylvania-usa-03",
-    "6a998bbfd134f3950d80cb4d": "club-car-tempo-blue-hatfield-pennsylvania-usa",
-    "6a998ba5d134f3950d80ca0c": "club-car-tempo-blue-hatfield-pennsylvania-usa-01",
-    "6a998b84d134f3950d80c4de": "club-car-tempo-blue-hatfield-pennsylvania-usa-02",
-    "6a998b5dd134f3950d80c417": "club-car-tempo-red-hatfield-pennsylvania-usa-04",
-    "6a998b3c89c37fd3ec8817a8": "club-car-tempo-blue-hatfield-pennsylvania-usa-03",
-    "6a9881b6c3e4a8b03566607e": "club-car-precedent-green-hatfield-pennsylvania-usa-07",
     "6a984841c3e4a8b0355f46fc": "club-car-tempo-gray-scranton-pennsylvania-usa",
-    "6a98477dc3e4a8b0355f40fb": "club-car-precedent-green-hatfield-pennsylvania-usa-08",
     "6a974c2424a67a4316f9a4fe": "ezgo-txt-champane-hatfield-pennsylvania-usa",
-    "6a9740d224a67a4316f98d17": "club-car-precedent-green-hatfield-pennsylvania-usa-09",
+    "6a9740d224a67a4316f98d17": "club-car-precedent-green-hatfield-pennsylvania-usa-03",
     "6a95db7fb0e9a1ad02ed8003": "club-car-tempo-black-hatfield-pennsylvania-usa-02",
-    "6a958e8cb0e9a1ad02d9ee72": "club-car-tempo-gray-hatfield-pennsylvania-usa-73",
     "6a8ede8c8fe24416f6554b22": "club-car-tempo-black-hatfield-pennsylvania-usa-03",
     "6a8ca7fff523449802473b06": "yamaha-g29-green-hatfield-pennsylvania-usa",
     "6a8ca7a7f52344980247331a": "yamaha-g29-green-hatfield-pennsylvania-usa-01",
     "6a89ae7f962340e42a34870b": "club-car-tempo-gray-scranton-pennsylvania-usa-01",
     "6a88bdf0d7d238bfb54a0bb6": "ezgo-rxv-red-hatfield-pennsylvania-usa-01",
     "6a889cb2e6b2668f49b906ca": "club-car-tempo-beige-scranton-pennsylvania-usa-01",
-    "6a889c96e6b2668f49b90571": "club-car-tempo-beige-hatfield-pennsylvania-usa-10",
-    "6a889c79e6b2668f49b904ca": "club-car-tempo-beige-hatfield-pennsylvania-usa-11",
-    "6a889c5de6b2668f49b90273": "club-car-tempo-beige-hatfield-pennsylvania-usa-12",
-    "6a889c24e6b2668f49b8fafa": "club-car-tempo-beige-hatfield-pennsylvania-usa-13",
-    "6a889c07e6b2668f49b8f9e4": "club-car-tempo-beige-hatfield-pennsylvania-usa-14",
-    "6a889ba2e6b2668f49b8f4f4": "club-car-tempo-beige-hatfield-pennsylvania-usa-15",
-    "6a889b85e6b2668f49b8f2e7": "club-car-tempo-beige-hatfield-pennsylvania-usa-16",
-    "6a889a8ce6b2668f49b8ea3e": "club-car-tempo-beige-hatfield-pennsylvania-usa-17",
-    "6a889a6fe6b2668f49b8e953": "club-car-tempo-beige-hatfield-pennsylvania-usa-18",
-    "6a889a35e6b2668f49b8e709": "club-car-tempo-beige-hatfield-pennsylvania-usa-19",
-    "6a8899f8e6b2668f49b8dfc8": "club-car-precedent-beige-hatfield-pennsylvania-usa-05",
-    "6a88995fe6b2668f49b8cebc": "club-car-precedent-beige-hatfield-pennsylvania-usa-06",
+    "6a889c96e6b2668f49b90571": "club-car-tempo-beige-hatfield-pennsylvania-usa-05",
+    "6a889c24e6b2668f49b8fafa": "club-car-tempo-beige-hatfield-pennsylvania-usa-06",
+    "6a889b85e6b2668f49b8f2e7": "club-car-tempo-beige-hatfield-pennsylvania-usa-07",
+    "6a889a8ce6b2668f49b8ea3e": "club-car-tempo-beige-hatfield-pennsylvania-usa-08",
+    "6a8899f8e6b2668f49b8dfc8": "club-car-precedent-beige-hatfield-pennsylvania-usa-02",
     "6a88993fe6b2668f49b8cac7": "club-car-precedent-beige-long-pond-pennsylvania-usa-02",
-    "6a88991fe6b2668f49b8c78f": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
-    "6a8898fbe6b2668f49b8c6f0": "club-car-precedent-beige-hatfield-pennsylvania-usa-08",
-    "6a8898dae6b2668f49b8c632": "club-car-precedent-beige-hatfield-pennsylvania-usa-09",
-    "6a8898bee6b2668f49b8c16a": "club-car-precedent-beige-hatfield-pennsylvania-usa-10",
-    "6a889815e6b2668f49b8b30e": "club-car-precedent-beige-hatfield-pennsylvania-usa-11",
-    "6a88965fe6b2668f49b6f461": "club-car-tempo-beige-hatfield-pennsylvania-usa-20",
-    "6a8895fce6b2668f49b6d532": "club-car-tempo-beige-hatfield-pennsylvania-usa-21",
-    "6a8895a0e6b2668f49b6c057": "club-car-tempo-beige-hatfield-pennsylvania-usa-22",
-    "6a8893d2e6b2668f49b659db": "club-car-tempo-beige-hatfield-pennsylvania-usa-23",
-    "6a8893b6e6b2668f49b654c8": "club-car-tempo-beige-hatfield-pennsylvania-usa-24",
-    "6a88934ae6b2668f49b64187": "club-car-tempo-beige-hatfield-pennsylvania-usa-25",
+    "6a8893b6e6b2668f49b654c8": "club-car-tempo-beige-hatfield-pennsylvania-usa-09",
+    "6a88934ae6b2668f49b64187": "club-car-tempo-beige-hatfield-pennsylvania-usa-10",
     "6a860c498a635ce53375af7b": "semmc-ev-f8-mini-white-hatfield-pennsylvania-usa",
-    "6a85af36b243c569f1a1266b": "club-car-tempo-gray-hatfield-pennsylvania-usa-74",
+    "6a85af36b243c569f1a1266b": "club-car-tempo-gray-hatfield-pennsylvania-usa-54",
     "6a848938378715fcdef16d39": "club-car-tempo-gray-long-pond-pennsylvania-usa",
     "6a846851f8c4f6e3d53497fd": "denago-rover-xl6-aqua-long-pond-pennsylvania-usa",
     "6a846815f8c4f6e3d5348eb9": "denago-rover-xl6-gray-long-pond-pennsylvania-usa",
@@ -498,21 +437,15 @@
     "6a83216b374cbf80d2fa6d76": "denago-rover-xl6-aqua-scranton-pennsylvania-usa",
     "6a831d06374cbf80d2f86a23": "denago-rover-xl6-gray-scranton-pennsylvania-usa-01",
     "6a80835776764567dfb79651": "ezgo-txt-red-scranton-pennsylvania-usa",
-    "6a7e2a27a5615f3710f27820": "ezgo-other-blue-hatfield-pennsylvania-usa",
     "6a7cd492778c103712321a01": "club-car-tempo-beige-scranton-pennsylvania-usa-02",
     "6a7cd0e5778c10371231f376": "club-car-tempo-green-hatfield-pennsylvania-usa-04",
-    "6a7cd080778c10371231f0b1": "club-car-tempo-green-hatfield-pennsylvania-usa-05",
-    "6a7cd062778c10371231eff0": "club-car-tempo-green-hatfield-pennsylvania-usa-06",
-    "6a7cd021778c10371231ecdf": "club-car-tempo-green-hatfield-pennsylvania-usa-07",
-    "6a7ccfff778c10371231e8e2": "club-car-tempo-green-hatfield-pennsylvania-usa-08",
-    "6a7ccfde778c10371231e870": "club-car-tempo-green-hatfield-pennsylvania-usa-09",
-    "6a7ccf9c778c10371231e40b": "club-car-tempo-green-hatfield-pennsylvania-usa-10",
-    "6a7ccf51778c10371231e3a6": "club-car-tempo-green-hatfield-pennsylvania-usa-11",
-    "6a7ccf31778c10371231e26e": "club-car-tempo-green-hatfield-pennsylvania-usa-12",
-    "6a7cce98778c10371231df5c": "club-car-tempo-green-hatfield-pennsylvania-usa-13",
-    "6a7cce75778c10371231de81": "club-car-tempo-green-hatfield-pennsylvania-usa-14",
+    "6a7cd062778c10371231eff0": "club-car-tempo-green-hatfield-pennsylvania-usa-05",
+    "6a7ccfde778c10371231e870": "club-car-tempo-green-hatfield-pennsylvania-usa-06",
+    "6a7ccf31778c10371231e26e": "club-car-tempo-green-hatfield-pennsylvania-usa-07",
+    "6a7cce98778c10371231df5c": "club-car-tempo-green-hatfield-pennsylvania-usa-08",
+    "6a7cce75778c10371231de81": "club-car-tempo-green-hatfield-pennsylvania-usa-09",
     "6a7ccdc2778c10371231d11c": "club-car-tempo-green-long-pond-pennsylvania-usa",
-    "6a7ccc7c778c10371231c99c": "club-car-tempo-green-hatfield-pennsylvania-usa-15",
+    "6a7ccc7c778c10371231c99c": "club-car-tempo-green-hatfield-pennsylvania-usa-10",
     "6a7cb04e414460a9de375dff": "club-car-tempo-gray-long-pond-pennsylvania-usa-01",
     "6a7c902e414460a9de34e149": "club-car-tempo-gray-long-pond-pennsylvania-usa-02",
     "6a7c7cf2414460a9de34241b": "denago-rover-xxl-scarlet-hatfield-pennsylvania-usa",
@@ -527,7 +460,7 @@
     "6a72179410373af6082c8b87": "denago-scout-2-white-scranton-pennsylvania-usa",
     "6a6cdd62ec6e19ceec585ba9": "club-car-precedent-beige-long-pond-pennsylvania-usa-03",
     "6a6cda2eec6e19ceec5816f5": "yamaha-drive-2-white-long-pond-pennsylvania-usa",
-    "6a6cd9b5ec6e19ceec5813c5": "club-car-tempo-gray-hatfield-pennsylvania-usa-75",
+    "6a6cd9b5ec6e19ceec5813c5": "club-car-tempo-gray-hatfield-pennsylvania-usa-55",
     "6a6a2307f5da535128fa73df": "club-car-tempo-gray-scranton-pennsylvania-usa-03",
     "6a68ea3cf5da535128ee7e64": "ezgo-rxv-glacier-hatfield-pennsylvania-usa",
     "6a68c743f5da535128ea5126": "club-car-tempo-gray-scranton-pennsylvania-usa-04",
@@ -539,7 +472,7 @@
     "6a5e846f08b1230b3be348b3": "ezgo-rxv-red-hatfield-pennsylvania-usa-02",
     "6a5e83b708b1230b3be3348e": "ezgo-rxv-red-hatfield-pennsylvania-usa-03",
     "6a5e131c08b1230b3bd05944": "ezgo-txt-white-hatfield-pennsylvania-usa",
-    "6a5a316ecb80c0ee96efa6cc": "club-car-tempo-gray-hatfield-pennsylvania-usa-76",
+    "6a5a316ecb80c0ee96efa6cc": "club-car-tempo-gray-hatfield-pennsylvania-usa-56",
     "6a58ea13cb80c0ee9685b453": "yamaha-g29-white-scranton-pennsylvania-usa-02",
     "6a57d509cb80c0ee96741769": "yamaha-g29-white-scranton-pennsylvania-usa-03",
     "6a57a8f2cb80c0ee966ffd12": "yamaha-g29-white-scranton-pennsylvania-usa-04",
@@ -569,7 +502,6 @@
     "6a4809f6d74c62e68206cc19": "club-car-tempo-white-scranton-pennsylvania-usa",
     "6a47fa49d74c62e682fe879c": "club-car-tempo-white-scranton-pennsylvania-usa-01",
     "6a46b2d6d74c62e682d1649b": "club-car-tempo-gray-scranton-pennsylvania-usa-06",
-    "6a3ee73b6639bb670bca74dc": "yamaha-g29-green-hatfield-pennsylvania-usa-02",
     "6a3eb6766639bb670bc355cb": "denago-rover-xl-gray-hatfield-pennsylvania-usa",
     "6a3eb5d76639bb670bc33a61": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa",
     "6a3eb5726639bb670bc331c7": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa",
@@ -617,13 +549,13 @@
     "6a1dcc2575a667c288bee381": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-02",
     "6a1db607dfca37b4fc274e23": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-03",
     "6a1da072dfca37b4fc249e20": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-04",
-    "6a1d9173dfca37b4fc232d88": "club-car-tempo-gray-hatfield-pennsylvania-usa-77",
+    "6a1d9173dfca37b4fc232d88": "club-car-tempo-gray-hatfield-pennsylvania-usa-57",
     "6a1d9157dfca37b4fc232b98": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-01",
     "6a1d87b0dfca37b4fc22414f": "denago-rover-xl-matte-white-hatfield-pennsylvania-usa",
-    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-78",
+    "6a19abe757a11a3caeb3306a": "club-car-tempo-gray-hatfield-pennsylvania-usa-58",
     "6a189c614565d34f03e59561": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa",
     "6a189acc4565d34f03e57c24": "denago-nomad-xl-aqua-hatfield-pennsylvania-usa-05",
-    "6a188b674565d34f03e3957f": "club-car-precedent-beige-hatfield-pennsylvania-usa-12",
+    "6a188b674565d34f03e3957f": "club-car-precedent-beige-hatfield-pennsylvania-usa-03",
     "6a15d85c8b2b73012d8ae273": "club-car-tempo-beige-long-pond-pennsylvania-usa",
     "6a15baf806916db7739a39a7": "denago-rover-xl-aqua-long-pond-pennsylvania-usa-03",
     "6a15aa8506916db773980b6e": "denago-rover-xl-matte-black-hatfield-pennsylvania-usa-01",
@@ -649,14 +581,13 @@
     "6a0c9cc5c793101451744e81": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-07",
     "6a0b352e10157207618b8833": "club-car-tempo-beige-scranton-pennsylvania-usa-06",
     "6a0b290c10157207618a5fc4": "cushman-other-camo-scranton-pennsylvania-usa",
-    "6a088a09101572076173325e": "ezgo-other-blue-hatfield-pennsylvania-usa-01",
+    "6a088a09101572076173325e": "ezgo-other-blue-hatfield-pennsylvania-usa",
     "6a0889e510157207617330e7": "ezgo-other-green-hatfield-pennsylvania-usa-01",
     "6a0889be1015720761732e32": "ezgo-other-green-long-pond-pennsylvania-usa",
     "6a0889941015720761732dd6": "ezgo-other-green-hatfield-pennsylvania-usa-02",
     "6a0889641015720761732c36": "ezgo-other-green-hatfield-pennsylvania-usa-03",
     "69f8ee8aaef26a12b97ca7b5": "denago-city-white-hatfield-pennsylvania-usa",
     "69f8ee52aef26a12b97c9fd0": "denago-city-white-hatfield-pennsylvania-usa-01",
-    "69f0bbb1fd1f4d07e7a50514": "cushman-other-blue-hatfield-pennsylvania-usa",
     "69ebd5e699746298272c7460": "yamaha-u-maxx-gray-hatfield-pennsylvania-usa",
     "69eb98c899746298271c2ba4": "denago-rover-xl-aqua-hatfield-pennsylvania-usa-08",
     "69eb918d9974629827146195": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa",
@@ -697,33 +628,28 @@
     "69aed5f1966101fff8284b6d": "yamaha-drive-2-green-scranton-pennsylvania-usa-05",
     "69aed555966101fff8283e86": "yamaha-drive-2-green-scranton-pennsylvania-usa-06",
     "6984aef0266ae7d997f62005": "denago-nomad-black-hatfield-pennsylvania-usa",
-    "695fe433ac47e92a9e833641": "club-car-tempo-blue-hatfield-pennsylvania-usa-04",
-    "695fe28bac47e92a9e832595": "club-car-tempo-blue-hatfield-pennsylvania-usa-05",
+    "695fe28bac47e92a9e832595": "club-car-tempo-blue-hatfield-pennsylvania-usa",
     "6941c480a151c4504d428222": "yamaha-drive-2-black-long-pond-pennsylvania-usa",
     "6939ea7ec7c34dfa63a6d729": "yamaha-u-maxx-gray-long-pond-pennsylvania-usa",
     "6925d76dcbf981335b7c9559": "club-car-tempo-black-long-pond-pennsylvania-usa",
     "691deda7cbf981335b736b2a": "club-car-precedent-beige-long-pond-pennsylvania-usa-04",
     "690ba3ac7b8a9714b74872b1": "tara-spirit-plus-beige-long-pond-pennsylvania-usa",
-    "690b9fbf7b8a9714b7485c14": "tara-spirit-plus-beige-hatfield-pennsylvania-usa",
     "690b9f8a7b8a9714b7485b55": "tara-spirit-plus-beige-scranton-pennsylvania-usa",
-    "690b9ea27b8a9714b7485a16": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-01",
-    "690b9e2f7b8a9714b748569b": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-02",
-    "690b9a997b8a9714b7484004": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-03",
-    "690b99f17b8a9714b7483f69": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-04",
-    "690b99b37b8a9714b7483cb8": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-05",
+    "690b9ea27b8a9714b7485a16": "tara-spirit-plus-beige-hatfield-pennsylvania-usa",
+    "690b9a997b8a9714b7484004": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-01",
+    "690b99b37b8a9714b7483cb8": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-02",
     "690b94f47b8a9714b7482070": "tara-beige-scranton-pennsylvania-usa",
     "690b94467b8a9714b7481583": "tara-spirit-plus-beige-scranton-pennsylvania-usa-01",
-    "690b938c7b8a9714b7481377": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-06",
-    "690b93027b8a9714b7480d53": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-07",
-    "690b928b7b8a9714b74805cd": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-08",
-    "690b877c7b8a9714b747afea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-09",
+    "690b938c7b8a9714b7481377": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-03",
+    "690b93027b8a9714b7480d53": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-04",
+    "690b928b7b8a9714b74805cd": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-05",
+    "690b877c7b8a9714b747afea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-06",
     "690b87357b8a9714b747ad47": "tara-spirit-plus-beige-scranton-pennsylvania-usa-02",
-    "690b86fb7b8a9714b747aae3": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-10",
-    "690b7e8c7b8a9714b74781ea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-11",
+    "690b7e8c7b8a9714b74781ea": "tara-spirit-plus-beige-hatfield-pennsylvania-usa-07",
     "6903bdffc52387fc9119b4dd": "denago-rover-xl-black-hatfield-pennsylvania-usa",
-    "68fbe31ac52387fc91007e67": "cushman-other-blue-hatfield-pennsylvania-usa-01",
+    "68fbe31ac52387fc91007e67": "cushman-other-blue-hatfield-pennsylvania-usa",
     "68fa8c70c52387fc91fc3ab0": "yamaha-drive-2-beige-hatfield-pennsylvania-usa-04",
-    "68fa7c87c52387fc91fb845e": "club-car-precedent-beige-hatfield-pennsylvania-usa-13",
+    "68fa7c87c52387fc91fb845e": "club-car-precedent-beige-hatfield-pennsylvania-usa-04",
     "68fa60cbc52387fc91faf27c": "club-car-carryall-green-hatfield-pennsylvania-usa",
     "68fa4f64c52387fc91faa981": "club-car-carryall-green-hatfield-pennsylvania-usa-01",
     "68f287e5c52387fc91e3f86f": "club-car-precedent-blue-hatfield-pennsylvania-usa",
@@ -757,7 +683,7 @@
     "68b726531101d55c5d890d38": "denago-nomad-xl-white-hatfield-pennsylvania-usa-06",
     "68b1cd7f1101d55c5d6eb484": "denago-rover-xl6-red-hatfield-pennsylvania-usa",
     "68ac92fc0302697df912efe8": "denago-nomad-xl-black-scranton-pennsylvania-usa-01",
-    "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-14",
+    "68a4bd3e5e5f0ec9356b7e1f": "club-car-precedent-beige-hatfield-pennsylvania-usa-05",
     "689f90b4972d0fd09d16a740": "club-car-precedent-beige-long-pond-pennsylvania-usa-06",
     "6890f03780f0b5e9cc7607fd": "denago-rover-xl-gray-hatfield-pennsylvania-usa-02",
     "6887ae8d4c6bccbabe0cd7e0": "club-car-precedent-beige-long-pond-pennsylvania-usa-07",
@@ -768,25 +694,24 @@
     "68838029d8966b61d785f2a4": "club-car-precedent-white-long-pond-pennsylvania-usa-01",
     "687c05e1bc1d8712b451448c": "club-car-tempo-blue-scranton-pennsylvania-usa",
     "68792e77bc1d8712b43a5feb": "club-car-ds-green-hatfield-pennsylvania-usa",
-    "6878090faaf8ac54e79509eb": "club-car-tempo-blue-hatfield-pennsylvania-usa-06",
-    "685eebd137227aa631015fa4": "club-car-tempo-blue-hatfield-pennsylvania-usa-07",
-    "685b0df3190fa1f3d6593085": "club-car-tempo-blue-hatfield-pennsylvania-usa-08",
+    "6878090faaf8ac54e79509eb": "club-car-tempo-blue-hatfield-pennsylvania-usa-01",
+    "685eebd137227aa631015fa4": "club-car-tempo-blue-hatfield-pennsylvania-usa-02",
+    "685b0df3190fa1f3d6593085": "club-car-tempo-blue-hatfield-pennsylvania-usa-03",
     "685ad35c190fa1f3d656d89b": "club-car-tempo-blue-scranton-pennsylvania-usa-01",
     "6854697b3567dc3c70aa7464": "club-car-precedent-black-scranton-pennsylvania-usa",
     "685306e285986cdd6dcf68e7": "denago-nomad-xl-red-hatfield-pennsylvania-usa-04",
     "6852f69485986cdd6dce94f3": "evolution-d5-ranger-4-mineral-white-hatfield-pennsylvania-usa",
     "684c82de81052a519b66be03": "club-car-precedent-long-pond-pennsylvania-usa",
-    "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-15",
+    "684c538681052a519b6290a5": "club-car-precedent-beige-hatfield-pennsylvania-usa-06",
     "684af32b70890276509223ab": "club-car-ds-orange-hatfield-pennsylvania-usa",
     "68474625b0a622e788a91431": "club-car-precedent-beige-long-pond-pennsylvania-usa-09",
-    "6841aefd5e5256dce682b562": "club-car-precedent-beige-hatfield-pennsylvania-usa-16",
     "683daec9e3f1cd836771cd03": "denago-rover-xxl-gray-hatfield-pennsylvania-usa",
     "683b2234e75074647871778d": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-01",
     "683b21e2e7507464787175e1": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-02",
     "683b0e4de75074647870e871": "denago-rover-xl-blue-hatfield-pennsylvania-usa",
     "683a0017e7507464786cbb9d": "ezgo-txt-black-hatfield-pennsylvania-usa-01",
     "68348703cc2789903c94f906": "denago-rover-xl-red-long-pond-pennsylvania-usa-01",
-    "680fd6990a3b46e532d1fddb": "club-car-tempo-green-hatfield-pennsylvania-usa-16",
+    "680fd6990a3b46e532d1fddb": "club-car-tempo-green-hatfield-pennsylvania-usa-11",
     "680f981a230782a4053e6cf6": "denago-rover-xl-verdant-hatfield-pennsylvania-usa",
     "680f892ff174d631aa0cb3ce": "denago-rover-xl-scarlet-hatfield-pennsylvania-usa-03",
     "6803d5480b686dc77ea317fb": "swift-ev-mach-4-white-hatfield-pennsylvania-usa",
@@ -794,9 +719,9 @@
     "67ad0ac7bf482b16f83c9705": "yamaha-drive-2-beige-long-pond-pennsylvania-usa-02",
     "67ab9a862caf1b1d27204594": "ezgo-rxv-silver-scranton-pennsylvania-usa",
     "67a660972b8650f7ed63097d": "yamaha-g29-white-hatfield-pennsylvania-usa-02",
-    "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-17",
+    "67a656c22b8650f7ed630505": "club-car-precedent-beige-hatfield-pennsylvania-usa-07",
     "67a655f82b8650f7ed630384": "yamaha-g29-green-scranton-pennsylvania-usa",
-    "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa-10",
+    "67a1272f2b8650f7ed617d8b": "club-car-precedent-green-hatfield-pennsylvania-usa-04",
     "6772fedee45992ee69837cba": "evolution-forester-4-plus-mineral-white-hatfield-pennsylvania-usa",
     "6734c986555ba477a98303ab": "epic-e60l-light-blue-hatfield-pennsylvania-usa",
     "6716946cec7cde2e2ba74b38": "denago-rover-xl-blue-hatfield-pennsylvania-usa-01",
@@ -890,6 +815,39 @@
       "status": "retail"
     },
     {
+      "_id": "6acd61080f0d9040d42c2e18",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Tempo",
+        "year": "2021"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Gray",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1791984178039.jpg",
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1791984178045.jpg",
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1791984178048.jpg",
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1791984178052.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6acccbf50407ff965472e259",
       "cartType": {
         "make": "Club Car",
@@ -920,34 +878,6 @@
         "34888458-2071-708e-92b2-f42f58e30499-1791843343714.jpg",
         "34888458-2071-708e-92b2-f42f58e30499-1791843343718.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "6aca9b160407ff965471e6b3",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -1488,34 +1418,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ac812dca24636b64c19f3c2",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 4500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6ac80fada24636b64c19f055",
       "cartType": {
         "make": "Club Car",
@@ -1541,39 +1443,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac80e6da24636b64c19edad",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912668041.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912668047.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912668052.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912668056.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -1745,34 +1614,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ac6f54a66733591b07ea464",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6ac690fc66733591b07bcb26",
       "cartType": {
         "make": "Club Car",
@@ -1826,39 +1667,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac57d6166733591b0763809",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791550871936.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791550871942.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791550871945.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791550871948.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -1956,39 +1764,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ac5574c66733591b073f8f5",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 4500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791481973021.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791481973026.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791481973029.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791481973032.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6ac53f9d1f2a6f549345733b",
       "cartType": {
         "make": "Club Car",
@@ -2050,39 +1825,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ac4dff6d435f5bef4208371",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791912128289.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791912128293.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791912128296.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791912128299.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6ac424fad435f5bef42037df",
       "cartType": {
         "make": "Club Car",
@@ -2136,100 +1878,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac3ea81693ae1adaf4af97d",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac3c8cbac3f11ecbd13132d",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Red",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791232484439.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791232484444.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791232484448.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791232484451.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac3b67eac3f11ecbd0f7655",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791472022071.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791472022077.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791472022085.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791472022089.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -2290,7 +1938,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "34888458-2071-708e-92b2-f42f58e30499-1792009261062.jpg",
+        "34888458-2071-708e-92b2-f42f58e30499-1792009261068.jpg",
+        "34888458-2071-708e-92b2-f42f58e30499-1792009261073.jpg",
+        "34888458-2071-708e-92b2-f42f58e30499-1792009261077.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -2350,39 +2003,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ac070eb6dc688d0f122ce2c",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791478788539.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791478788544.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791478788548.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791478788552.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6ac0690f6dc688d0f122cb49",
       "cartType": {
         "make": "Club Car",
@@ -2412,72 +2032,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1791912704378.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1791912704381.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1791912704384.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac063866dc688d0f122c7a9",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 4500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791480719246.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791480719251.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791480719254.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791480719258.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6ac0272b6dc688d0f122ac17",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 4500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791552046791.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791552046796.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791552046799.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791552046802.jpg"
       ],
       "status": "retail"
     },
@@ -2538,34 +2092,6 @@
       "status": "retail"
     },
     {
-      "_id": "6abfad6a17ea55c191c44162",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6abf9c4cbdd90019d442a1cd",
       "cartType": {
         "make": "Club Car",
@@ -2591,39 +2117,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6abef539bdd90019d4422ef9",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791486217839.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791486217845.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791486217848.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791486217854.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -3229,39 +2722,6 @@
       "status": "retail"
     },
     {
-      "_id": "6abdb9e37273d2723200be4f",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791462988203.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791462988208.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791462988211.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791462988215.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6abd57ed7273d27232fe9e7c",
       "cartType": {
         "make": "Club Car",
@@ -3389,34 +2849,6 @@
       "status": "retail"
     },
     {
-      "_id": "6abc5ba0547ea406b2e8e600",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Matte Titanium Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6abc2d33547ea406b2e87ddd",
       "cartType": {
         "make": "Yamaha",
@@ -3513,64 +2945,6 @@
         "34488448-00d1-7057-e2c4-e69d39ec586d-1790714062533.jpg",
         "34488448-00d1-7057-e2c4-e69d39ec586d-1790714062537.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "6abbec3aafbf3a8004a0259b",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1790700601713.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6abbe4d8afbf3a80049ff02b",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2022"
-      },
-      "retailPrice": 6500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -4621,34 +3995,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ab591ed2a0dabe5d452bc77",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6ab568de2a0dabe5d44fe55c",
       "cartType": {
         "make": "Club Car",
@@ -4944,34 +4290,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ab48c8771f4c44827a67010",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 4000,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "Black",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6ab45a7d71f4c44827a66124",
       "cartType": {
         "make": "Club Car",
@@ -5025,39 +4343,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6ab2d4893a8ea6cd4d3d7b20",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2010"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790371669266.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790371669273.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790371669277.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790371669280.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -5475,39 +4760,6 @@
       "status": "retail"
     },
     {
-      "_id": "6ab26a6aa24413e6bf037dee",
-      "cartType": {
-        "make": "EZGO",
-        "model": "Cushman",
-        "year": "2013"
-      },
-      "retailPrice": 5800,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Beige",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34888458-2071-708e-92b2-f42f58e30499-1790356293457.jpg",
-        "34888458-2071-708e-92b2-f42f58e30499-1790356293462.jpg",
-        "34888458-2071-708e-92b2-f42f58e30499-1790356293466.jpg",
-        "34888458-2071-708e-92b2-f42f58e30499-1790356293469.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6ab1d3eba24413e6bf033271",
       "cartType": {
         "make": "Evolution",
@@ -5533,39 +4785,6 @@
         "isStreetLegal": true
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6ab1ca37a24413e6bf032b68",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2010"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790370526729.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790370526734.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790370526737.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790370526740.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -6181,39 +5400,6 @@
       "status": "retail"
     },
     {
-      "_id": "6aaca1a1da3e5296ccea0576",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 4500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "e468f488-70c1-70b6-a0bc-b63f78df084a-1789698464261.jpg",
-        "e468f488-70c1-70b6-a0bc-b63f78df084a-1789698464271.jpg",
-        "e468f488-70c1-70b6-a0bc-b63f78df084a-1789698464275.jpg",
-        "e468f488-70c1-70b6-a0bc-b63f78df084a-1789698464278.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6aac8e42da3e5296cce9f81e",
       "cartType": {
         "make": "Club Car",
@@ -6239,67 +5425,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6aac7a5bda3e5296cce9e0c4",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "G29",
-        "year": "2008"
-      },
-      "retailPrice": 7500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Black",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6aa9d28ac567f007ec09df9f",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790188497575.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790188552568.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790188552574.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790188552577.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -6369,39 +5494,6 @@
       "status": "retail"
     },
     {
-      "_id": "6aa8117956f482f0fd3936a5",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2015"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789582600865.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789582600870.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789582600874.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789582600877.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6aa5950256f482f0fd2c8010",
       "cartType": {
         "make": "EZGO",
@@ -6431,39 +5523,6 @@
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789776722638.jpg",
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789776722647.jpg",
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1789776722651.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6aa485b056f482f0fdde83ca",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789836520060.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789836520067.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789836520071.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789836520074.jpg"
       ],
       "status": "retail"
     },
@@ -6818,39 +5877,6 @@
       "status": "retail"
     },
     {
-      "_id": "6aa2b242a6dd7f038a42dd95",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2014"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "74886418-9041-701d-a52c-644020da930a-1790285287938.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1790285287943.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1790285287947.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1790285287950.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6aa1b0af95fb59350676bf5d",
       "cartType": {
         "make": "Club Car",
@@ -6913,39 +5939,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1789489054942.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1789489054946.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1789489054949.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6aa03fdcfb1bd44fb59eeb54",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789741689269.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789741689283.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789741689287.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789741689290.jpg"
       ],
       "status": "retail"
     },
@@ -7044,34 +6037,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a9ac7fb3b49b8a2a6b9822b",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6a99dd45912035a20f05b21e",
       "cartType": {
         "make": "Club Car",
@@ -7101,39 +6066,6 @@
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791037886927.jpg",
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791037886932.jpg",
         "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791037886937.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a99c1448c46959a31333cc9",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 6000,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Red",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790784946297.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790784946301.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790784946305.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790784946308.jpg"
       ],
       "status": "retail"
     },
@@ -7200,39 +6132,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1791474493737.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1791474493741.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1791474493744.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a99ab91520eff53236287d1",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2020"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912174387.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912174391.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912174395.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791912174399.jpg"
       ],
       "status": "retail"
     },
@@ -7398,39 +6297,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1790265622176.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1790265622180.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1790265622184.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a99aa6a520eff53236269a4",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790193153925.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790193153931.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790193153934.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790193153938.jpg"
       ],
       "status": "retail"
     },
@@ -7661,72 +6527,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a998d77b091f2063ee1e6bb",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475388560.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475388568.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475388573.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475388578.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a998d40b091f2063ee1e1c8",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791392975808.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791392975813.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791392975816.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791392975819.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a998d1fb091f2063ee1e0ef",
       "cartType": {
         "make": "Club Car",
@@ -7789,39 +6589,6 @@
         "94c85418-f041-7083-4fce-c4440dcf50b8-1791815906307.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1791815906310.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1791815906313.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a998cccb091f2063ee1da33",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790972474622.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790972474626.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790972474630.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790972474633.jpg"
       ],
       "status": "retail"
     },
@@ -7991,194 +6758,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a998bbfd134f3950d80cb4d",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791814290212.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791814290217.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791814290221.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791814290225.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a998ba5d134f3950d80ca0c",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a998b84d134f3950d80c4de",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790704690082.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790704690087.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790704690093.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790704690098.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a998b5dd134f3950d80c417",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 6000,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Red",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955462710.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955462717.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955462721.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955462725.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a998b3c89c37fd3ec8817a8",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a9881b6c3e4a8b03566607e",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2014"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791479429348.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791479429354.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791479429357.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791479429361.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a984841c3e4a8b0355f46fc",
       "cartType": {
         "make": "Club Car",
@@ -8208,39 +6787,6 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1789071274931.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1789071274934.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1789071274937.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a98477dc3e4a8b0355f40fb",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2014"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "74886418-9041-701d-a52c-644020da930a-1789745476884.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1789745476889.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1789745476892.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1789745476895.jpg"
       ],
       "status": "retail"
     },
@@ -8335,39 +6881,6 @@
         "34888458-2071-708e-92b2-f42f58e30499-1790361999119.jpg",
         "34888458-2071-708e-92b2-f42f58e30499-1790361999123.jpg",
         "34888458-2071-708e-92b2-f42f58e30499-1790361999127.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a958e8cb0e9a1ad02d9ee72",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Gray",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788547526326.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788547526329.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788547526332.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788547526336.jpg"
       ],
       "status": "retail"
     },
@@ -8593,72 +7106,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a889c79e6b2668f49b904ca",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34888458-2071-708e-92b2-f42f58e30499-1791576755097.jpg",
-        "34888458-2071-708e-92b2-f42f58e30499-1791576755101.jpg",
-        "34888458-2071-708e-92b2-f42f58e30499-1791576755104.jpg",
-        "34888458-2071-708e-92b2-f42f58e30499-1791576755108.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a889c5de6b2668f49b90273",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790964679857.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790964679862.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790964679865.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790964679870.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a889c24e6b2668f49b8fafa",
       "cartType": {
         "make": "Club Car",
@@ -8684,67 +7131,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a889c07e6b2668f49b8f9e4",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a889ba2e6b2668f49b8f4f4",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790779635300.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790779635305.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790779635308.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790779635311.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -8814,67 +7200,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a889a6fe6b2668f49b8e953",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955724544.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955724549.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955724553.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790955724556.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a889a35e6b2668f49b8e709",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6a8899f8e6b2668f49b8dfc8",
       "cartType": {
         "make": "Club Car",
@@ -8900,39 +7225,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6a88995fe6b2668f49b8cebc",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789506196621.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789506196625.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789506196628.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789506196631.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -8966,298 +7258,6 @@
         "c4b8c428-3071-70c8-426d-1f910414964e-1789502661374.jpg",
         "c4b8c428-3071-70c8-426d-1f910414964e-1789502661378.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a88991fe6b2668f49b8c78f",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790195626817.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790195626822.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790195626825.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790195626828.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8898fbe6b2668f49b8c6f0",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790694509936.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790694509940.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790694509943.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790694509947.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8898dae6b2668f49b8c632",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475699302.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475699306.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475699309.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1791475699312.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8898bee6b2668f49b8c16a",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790346751778.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790346751783.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790346751786.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1790346751791.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a889815e6b2668f49b8b30e",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2018"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "74886418-9041-701d-a52c-644020da930a-1790270112563.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1790270519060.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1790270519063.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1790270519067.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a88965fe6b2668f49b6f461",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790701924999.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790701925005.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790701925014.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790701925019.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8895fce6b2668f49b6d532",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790710087211.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790710087221.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790710087226.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1790710087229.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8895a0e6b2668f49b6c057",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791041935589.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791041935594.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791041935597.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1791041935601.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a8893d2e6b2668f49b659db",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2021"
-      },
-      "retailPrice": 5800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -9753,34 +7753,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a7e2a27a5615f3710f27820",
-      "cartType": {
-        "make": "EZGO",
-        "model": "Other",
-        "year": "2015"
-      },
-      "retailPrice": 7500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Beige",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "6a7cd492778c103712321a01",
       "cartType": {
         "make": "Club Car",
@@ -9847,39 +7819,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a7cd080778c10371231f0b1",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788527562635.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788527562682.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788527562686.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788527562689.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a7cd062778c10371231eff0",
       "cartType": {
         "make": "Club Car",
@@ -9913,72 +7852,6 @@
       "status": "retail"
     },
     {
-      "_id": "6a7cd021778c10371231ecdf",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "74886418-9041-701d-a52c-644020da930a-1789052263694.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1789052263699.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1789052263703.jpg",
-        "74886418-9041-701d-a52c-644020da930a-1789052263705.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a7ccfff778c10371231e8e2",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789847263981.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789847263987.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789847263990.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1789847263993.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "6a7ccfde778c10371231e870",
       "cartType": {
         "make": "Club Car",
@@ -10008,72 +7881,6 @@
         "34888458-2071-708e-92b2-f42f58e30499-1790182683748.jpg",
         "34888458-2071-708e-92b2-f42f58e30499-1790182683754.jpg",
         "34888458-2071-708e-92b2-f42f58e30499-1790182751585.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a7ccf9c778c10371231e40b",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788529453238.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788529453251.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788529453254.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788529453258.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a7ccf51778c10371231e3a6",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2020"
-      },
-      "retailPrice": 4500,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791389597319.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791389597324.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791389597328.jpg",
-        "34488448-00d1-7057-e2c4-e69d39ec586d-1791389597332.jpg"
       ],
       "status": "retail"
     },
@@ -11996,39 +9803,6 @@
         "94c85418-f041-7083-4fce-c4440dcf50b8-1787768942695.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1787768942768.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1787768942789.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "6a3ee73b6639bb670bca74dc",
-      "cartType": {
-        "make": "Yamaha",
-        "model": "G29",
-        "year": "2013"
-      },
-      "retailPrice": 6000,
-      "isElectric": false,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Green",
-        "seatColor": "Black",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790695082535.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790695082541.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790695082557.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1790695082584.jpg"
       ],
       "status": "retail"
     },
@@ -14763,39 +12537,6 @@
       "status": "retail"
     },
     {
-      "_id": "69f0bbb1fd1f4d07e7a50514",
-      "cartType": {
-        "make": "Cushman",
-        "model": "Other",
-        "year": "2019"
-      },
-      "retailPrice": 7000,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "Beige",
-        "passengers": "6 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1777384369061.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1777384369066.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1777384369070.jpg",
-        "64b8e428-0021-70d8-223e-ad0fbab3101a-1777384369073.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "69ebd5e699746298272c7460",
       "cartType": {
         "make": "Yamaha",
@@ -16081,39 +13822,6 @@
       "status": "retail"
     },
     {
-      "_id": "695fe433ac47e92a9e833641",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Tempo",
-        "year": "2019"
-      },
-      "retailPrice": 5500,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Blue",
-        "seatColor": "2 Tone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781743369526.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781743369532.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781743369536.jpg",
-        "f4f8a4d8-e061-7051-43fd-f1829c4de2fc-1781743369539.jpg"
-      ],
-      "status": "retail"
-    },
-    {
       "_id": "695fe28bac47e92a9e832595",
       "cartType": {
         "make": "Club Car",
@@ -16302,34 +14010,6 @@
       "status": "retail"
     },
     {
-      "_id": "690b9fbf7b8a9714b7485c14",
-      "cartType": {
-        "make": "Tara",
-        "model": "Spirit Plus",
-        "year": "2025"
-      },
-      "retailPrice": 8995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Brown",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "690b9f8a7b8a9714b7485b55",
       "cartType": {
         "make": "Tara",
@@ -16396,34 +14076,6 @@
       "status": "retail"
     },
     {
-      "_id": "690b9e2f7b8a9714b748569b",
-      "cartType": {
-        "make": "Tara",
-        "model": "Spirit Plus",
-        "year": "2025"
-      },
-      "retailPrice": 8995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Brown",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "690b9a997b8a9714b7484004",
       "cartType": {
         "make": "Tara",
@@ -16454,34 +14106,6 @@
         "74886418-9041-701d-a52c-644020da930a-1790352541299.jpg",
         "74886418-9041-701d-a52c-644020da930a-1790352541304.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "690b99f17b8a9714b7483f69",
-      "cartType": {
-        "make": "Tara",
-        "model": "Spirit Plus",
-        "year": "2025"
-      },
-      "retailPrice": 8995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Brown",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -16736,34 +14360,6 @@
         "84a8d478-9021-7063-1c32-55e975aed618-1777490885502.jpg",
         "84a8d478-9021-7063-1c32-55e975aed618-1777490885505.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "690b86fb7b8a9714b747aae3",
-      "cartType": {
-        "make": "Tara",
-        "model": "Spirit Plus",
-        "year": "2025"
-      },
-      "retailPrice": 8995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Brown",
-        "passengers": "2 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -18618,39 +16214,6 @@
         "isStreetLegal": false
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6841aefd5e5256dce682b562",
-      "cartType": {
-        "make": "Club Car",
-        "model": "Precedent",
-        "year": "2015"
-      },
-      "retailPrice": 3800,
-      "isElectric": true,
-      "isUsed": true,
-      "cartAttributes": {
-        "cartColor": "Beige",
-        "seatColor": "Beige",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": false
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": false
-      },
-      "imageUrls": [
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788978100748.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788978100753.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788978100757.jpg",
-        "a4d87418-3001-707d-7c20-b210e0635d62-1788978100761.jpg"
-      ],
       "status": "retail"
     },
     {
