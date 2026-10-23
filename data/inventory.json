@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-22T09:11:31.010Z",
+  "generatedAt": "2026-10-23T09:07:56.976Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 563,
-  "totalFetched": 563,
+  "totalActive": 561,
+  "totalFetched": 561,
   "statusCounts": {
-    "retail": 563
+    "retail": 561
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 366,
-    "T3 Tigon Long Pond": 99,
+    "T1 Tigon Hatfield": 365,
+    "T3 Tigon Long Pond": 98,
     "T5 Tigon Scranton": 98
   },
   "storeIds": [
@@ -212,6 +212,7 @@
     }
   ],
   "slugMap": {
+    "6ada243ffd742749f42f66ec": "ezgo-txt-silver-hatfield-pennsylvania-usa",
     "6ad8e19213de2f636e2b2cd9": "club-car-tempo-gray-hatfield-pennsylvania-usa",
     "6ad8d73913de2f636e2ab537": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa",
     "6ad8d3fb13de2f636e2a9ceb": "club-car-ds-green-hatfield-pennsylvania-usa",
@@ -263,6 +264,7 @@
     "6ac7f4dfa24636b64c17e91e": "club-car-tempo-gray-hatfield-pennsylvania-usa-27",
     "6ac7e477a24636b64c16caea": "club-car-tempo-gray-hatfield-pennsylvania-usa-28",
     "6ac7e3d6a24636b64c16c220": "club-car-tempo-gray-hatfield-pennsylvania-usa-29",
+    "6ac7a0eb66733591b081a310": "club-car-precedent-black-hatfield-pennsylvania-usa",
     "6ac78d5c66733591b07f16f6": "club-car-tempo-white-hatfield-pennsylvania-usa-02",
     "6ac6f6f566733591b07ea5d5": "club-car-tempo-gray-hatfield-pennsylvania-usa-30",
     "6ac6a51166733591b07d01e8": "club-car-tempo-gray-hatfield-pennsylvania-usa-31",
@@ -364,7 +366,6 @@
     "6ab297fc006b46384c42215b": "evolution-d5-ranger-4-plus-white-hatfield-pennsylvania-usa-07",
     "6ab297a7006b46384c4218e7": "evolution-d5-ranger-4-plus-white-hatfield-pennsylvania-usa-08",
     "6ab29564006b46384c41dbc4": "evolution-d5-ranger-4-plus-mediterranean-blue-long-pond-pennsylvania-usa-02",
-    "6ab2893ba24413e6bf05341d": "evolution-d5-maverick-4-plus-mediterranean-blue-long-pond-pennsylvania-usa-01",
     "6ab1d3eba24413e6bf033271": "evolution-d5-maverick-4-plus-mineral-white-hatfield-pennsylvania-usa",
     "6ab1c0a0a24413e6bf032050": "evolution-d5-ranger-4-plus-mediterranean-blue-hatfield-pennsylvania-usa-06",
     "6ab1b6dca24413e6bf031cfb": "evolution-d5-ranger-4-plus-black-hatfield-pennsylvania-usa-02",
@@ -450,7 +451,7 @@
     "6a860c498a635ce53375af7b": "semmc-ev-f8-mini-white-hatfield-pennsylvania-usa",
     "6a85af36b243c569f1a1266b": "club-car-tempo-gray-hatfield-pennsylvania-usa-66",
     "6a848938378715fcdef16d39": "club-car-tempo-gray-long-pond-pennsylvania-usa",
-    "6a846815f8c4f6e3d5348eb9": "denago-rover-xl6-gray-long-pond-pennsylvania-usa",
+    "6a846851f8c4f6e3d53497fd": "denago-rover-xl6-aqua-long-pond-pennsylvania-usa",
     "6a846733f8c4f6e3d5347500": "denago-rover-xl6-matte-white-long-pond-pennsylvania-usa",
     "6a8324c61a88e70ff1768ffe": "denago-nomad-xl-glacier-scranton-pennsylvania-usa",
     "6a8324031a88e70ff17681f2": "denago-nomad-xl-aqua-scranton-pennsylvania-usa",
@@ -487,7 +488,7 @@
     "6a6a2307f5da535128fa73df": "club-car-tempo-gray-scranton-pennsylvania-usa-03",
     "6a68ea3cf5da535128ee7e64": "ezgo-rxv-glacier-hatfield-pennsylvania-usa",
     "6a68c743f5da535128ea5126": "club-car-tempo-gray-scranton-pennsylvania-usa-04",
-    "6a6773eedceb49c8bf4bc5e1": "ezgo-txt-silver-hatfield-pennsylvania-usa",
+    "6a6773eedceb49c8bf4bc5e1": "ezgo-txt-silver-hatfield-pennsylvania-usa-01",
     "6a64d684dceb49c8bf3469cb": "yamaha-g29-white-scranton-pennsylvania-usa-01",
     "6a64c06adceb49c8bf33b63f": "club-car-tempo-gray-scranton-pennsylvania-usa-05",
     "6a63a821dceb49c8bf2a6b51": "denago-rover-xl6-aqua-hatfield-pennsylvania-usa",
@@ -618,7 +619,6 @@
     "69e8d1bd997462982736b27c": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-02",
     "69e8cc9799746298273639c2": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-03",
     "69e7e001997462982733e999": "denago-nomad-xl-scarlet-hatfield-pennsylvania-usa-04",
-    "69e78be0997462982715cd2c": "denago-nomad-xl-matte-black-hatfield-pennsylvania-usa",
     "69e6663e9974629827fb816d": "denago-nomad-xl-white-hatfield-pennsylvania-usa",
     "69e24cbd997462982725c0de": "denago-nomad-xl-white-scranton-pennsylvania-usa",
     "69e1506899746298271f928d": "yamaha-u-maxx-gray-scranton-pennsylvania-usa",
@@ -706,8 +706,6 @@
     "68bee88fbd4229e7086d9558": "denago-nomad-xl-red-long-pond-pennsylvania-usa",
     "68b894ecbd4229e70840f087": "club-car-ds-beige-hatfield-pennsylvania-usa-01",
     "68b86530bd4229e7083fb356": "ezgo-txt-black-hatfield-pennsylvania-usa",
-    "68b730541101d55c5d896df3": "denago-nomad-xl-black-hatfield-pennsylvania-usa",
-    "68b72fc61101d55c5d896b94": "denago-nomad-xl-black-hatfield-pennsylvania-usa-01",
     "68b72d6b1101d55c5d895f7b": "denago-nomad-xl-white-hatfield-pennsylvania-usa-02",
     "68b72d2c1101d55c5d895c5b": "denago-nomad-xl-white-hatfield-pennsylvania-usa-03",
     "68b729321101d55c5d8941a9": "denago-nomad-xl-white-hatfield-pennsylvania-usa-04",
@@ -777,6 +775,39 @@
     "66f42b440f4b93de4a9ed4ee": "star-ev-sport-lifted-teal-scranton-pennsylvania-usa"
   },
   "carts": [
+    {
+      "_id": "6ada243ffd742749f42f66ec",
+      "cartType": {
+        "make": "EZGO",
+        "model": "TXT",
+        "year": "2019"
+      },
+      "retailPrice": 4800,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Silver",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792681354905.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792681354910.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792681354914.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792681354917.jpg"
+      ],
+      "status": "retail"
+    },
     {
       "_id": "6ad8e19213de2f636e2b2cd9",
       "cartType": {
@@ -2268,6 +2299,34 @@
         "passengers": "4 Passenger",
         "driveTrain": "2X4",
         "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
+      "_id": "6ac7a0eb66733591b081a310",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2005"
+      },
+      "retailPrice": 3000,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Black",
+        "seatColor": "Beige",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
       },
       "cartLocation": {
         "locationId": "T1",
@@ -4477,7 +4536,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792687735871.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792687735876.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792687735880.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792687735883.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4505,7 +4569,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792689066559.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792689066566.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792689066572.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792689066576.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4533,7 +4602,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1792694959371.jpg",
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1792694959376.jpg",
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1792694959380.jpg",
+        "34488448-00d1-7057-e2c4-e69d39ec586d-1792694959384.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4561,7 +4635,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792684084986.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792684084994.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792684084998.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792684085003.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4655,7 +4734,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792682419937.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792682419942.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792682419946.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792682419950.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4917,7 +5001,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699157653.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699157658.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699157663.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699157668.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4945,7 +5034,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792698748668.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792698748673.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792698748676.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792698748679.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -4973,7 +5067,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699069294.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699069301.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699069306.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699069310.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -5421,34 +5520,6 @@
         "54d834c8-0051-70a1-d199-d7a43f35baf8-1790090691991.jpg",
         "54d834c8-0051-70a1-d199-d7a43f35baf8-1790090691995.jpg"
       ],
-      "status": "retail"
-    },
-    {
-      "_id": "6ab2893ba24413e6bf05341d",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D5 Maverick 4 PLUS",
-        "year": "2027"
-      },
-      "retailPrice": 10999,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Mediterranean Blue",
-        "seatColor": "2 Tone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
       "status": "retail"
     },
     {
@@ -8192,7 +8263,7 @@
       "status": "retail"
     },
     {
-      "_id": "6a846815f8c4f6e3d5348eb9",
+      "_id": "6a846851f8c4f6e3d53497fd",
       "cartType": {
         "make": "Denago",
         "model": "Rover XL6",
@@ -8202,7 +8273,7 @@
       "isElectric": true,
       "isUsed": false,
       "cartAttributes": {
-        "cartColor": "Gray",
+        "cartColor": "Aqua",
         "seatColor": "Stone",
         "passengers": "6 Passenger",
         "driveTrain": "2X4",
@@ -8217,10 +8288,10 @@
         "isStreetLegal": true
       },
       "imageUrls": [
-        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318662.jpg",
-        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318668.jpg",
-        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318672.jpg",
-        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787068318676.jpg"
+        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787073867802.jpg",
+        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787073867807.jpg",
+        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787073867810.jpg",
+        "a4e8e4c8-0061-70b0-5065-9f7dbd95d0c5-1787073867814.jpg"
       ],
       "status": "retail"
     },
@@ -8871,7 +8942,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696642566.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696642572.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696642576.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696642579.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -9501,7 +9577,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792701696581.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792701696586.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792701696590.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792701696593.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -10557,7 +10638,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792697367346.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792697367351.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792697367355.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792697367358.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -12441,7 +12527,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699427378.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699427384.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699427388.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699427392.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -12502,7 +12593,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696479195.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696479200.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696479204.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792696479207.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -12595,7 +12691,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "c4b8a448-3011-70f4-6a29-ad066c38bf57-1792700790526.jpg",
+        "c4b8a448-3011-70f4-6a29-ad066c38bf57-1792700790532.jpg",
+        "c4b8a448-3011-70f4-6a29-ad066c38bf57-1792700790535.jpg",
+        "c4b8a448-3011-70f4-6a29-ad066c38bf57-1792700790539.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -13528,39 +13629,6 @@
         "94d8f438-40f1-703d-fb2b-fc81715c3a61-1776866977244.jpg",
         "94d8f438-40f1-703d-fb2b-fc81715c3a61-1776866977248.jpg",
         "94d8f438-40f1-703d-fb2b-fc81715c3a61-1776866977252.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "69e78be0997462982715cd2c",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Matte Black",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776784040535.jpg",
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776784040540.jpg",
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776784040544.jpg",
-        "04c8b4b8-2011-708a-f2d6-0bab1c9796b6-1776784040547.jpg"
       ],
       "status": "retail"
     },
@@ -16281,67 +16349,6 @@
       "status": "retail"
     },
     {
-      "_id": "68b730541101d55c5d896df3",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Black",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1780675573252.jpg",
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1780675573258.jpg",
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1780675573262.jpg",
-        "84189498-7001-7095-1d82-ea1b0baac3dc-1780675573266.jpg"
-      ],
-      "status": "retail"
-    },
-    {
-      "_id": "68b72fc61101d55c5d896b94",
-      "cartType": {
-        "make": "Denago",
-        "model": "Nomad XL",
-        "year": "2026"
-      },
-      "retailPrice": 9995,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "Black",
-        "seatColor": "Stone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T1",
-        "latestStoreId": "T1",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [],
-      "status": "retail"
-    },
-    {
       "_id": "68b72d6b1101d55c5d895f7b",
       "cartType": {
         "make": "Denago",
@@ -17066,7 +17073,7 @@
         "model": "D5 Ranger 4",
         "year": "2023"
       },
-      "retailPrice": 8695,
+      "retailPrice": 14995,
       "isElectric": true,
       "isUsed": false,
       "cartAttributes": {
@@ -17084,7 +17091,11 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792676150030.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792676150040.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792676150043.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -17736,7 +17747,7 @@
         "model": "Rover XL",
         "year": "2024"
       },
-      "retailPrice": 9995,
+      "retailPrice": 9500,
       "isElectric": true,
       "isUsed": false,
       "cartAttributes": {
@@ -17754,7 +17765,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699706851.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699706856.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699706860.jpg",
+        "b4c8e458-0071-70cf-23ad-d8eb8d01bcd0-1792699706863.jpg"
+      ],
       "status": "retail"
     },
     {
