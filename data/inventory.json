@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-28T10:22:40.481Z",
+  "generatedAt": "2026-10-29T10:43:34.742Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 565,
-  "totalFetched": 565,
+  "totalActive": 566,
+  "totalFetched": 566,
   "statusCounts": {
-    "retail": 565
+    "retail": 566
   },
   "storeActiveCounts": {
     "T3 Tigon Long Pond": 101,
-    "T1 Tigon Hatfield": 367,
+    "T1 Tigon Hatfield": 368,
     "T5 Tigon Scranton": 97
   },
   "storeIds": [
@@ -776,7 +776,8 @@
     "66fb03fee2a685c5a27c886f": "star-ev-capella-2-2-black-hatfield-pennsylvania-usa",
     "66fafb17e2a685c5a27c8813": "yamaha-drive-2-blue-long-pond-pennsylvania-usa",
     "66faf912e2a685c5a27c87f9": "icon-i40-lime-long-pond-pennsylvania-usa",
-    "66f42b440f4b93de4a9ed4ee": "star-ev-sport-lifted-teal-scranton-pennsylvania-usa"
+    "66f42b440f4b93de4a9ed4ee": "star-ev-sport-lifted-teal-scranton-pennsylvania-usa",
+    "66f32abf0f4b93de4a9ed3dd": "club-car-precedent-green-hatfield-pennsylvania-usa-07"
   },
   "carts": [
     {
@@ -2855,7 +2856,7 @@
         "model": "Tempo",
         "year": "2021"
       },
-      "retailPrice": 4500,
+      "retailPrice": 6500,
       "isElectric": true,
       "isUsed": true,
       "cartAttributes": {
@@ -18656,6 +18657,34 @@
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892608.jpg",
         "64b8e428-0021-70d8-223e-ad0fbab3101a-1727277892630.jpg"
       ],
+      "status": "retail"
+    },
+    {
+      "_id": "66f32abf0f4b93de4a9ed3dd",
+      "cartType": {
+        "make": "Club Car",
+        "model": "Precedent",
+        "year": "2007"
+      },
+      "retailPrice": 5000,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Green",
+        "seatColor": "Black",
+        "passengers": null,
+        "driveTrain": null,
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
       "status": "retail"
     }
   ]
