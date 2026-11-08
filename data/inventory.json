@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:53:41.262Z",
+  "generatedAt": "2026-11-08T11:03:53.310Z",
   "source": "https://api.tigondms.com/wp-website",
   "totalActive": 535,
   "totalFetched": 535,
@@ -878,7 +878,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794082464082.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794082464087.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794082464091.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794082464095.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -906,7 +911,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794083154539.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794083154543.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794083154547.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794083154550.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -2224,7 +2234,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794067334215.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794067334219.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794067334223.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794067334227.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -2351,7 +2366,12 @@
       "title": {
         "isStreetLegal": true
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794070368509.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794070368513.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794070368516.jpg",
+        "3438e418-8081-7059-a7ec-f142ce4cc366-1794070368519.jpg"
+      ],
       "status": "retail"
     },
     {
