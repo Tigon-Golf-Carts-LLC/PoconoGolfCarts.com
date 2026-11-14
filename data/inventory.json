@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13T11:53:20.290Z",
+  "generatedAt": "2026-11-14T11:14:07.363Z",
   "source": "https://api.tigondms.com/wp-website",
-  "totalActive": 563,
-  "totalFetched": 563,
+  "totalActive": 566,
+  "totalFetched": 566,
   "statusCounts": {
-    "retail": 563
+    "retail": 566
   },
   "storeActiveCounts": {
-    "T1 Tigon Hatfield": 341,
-    "T3 Tigon Long Pond": 122,
-    "T5 Tigon Scranton": 100
+    "T1 Tigon Hatfield": 343,
+    "T3 Tigon Long Pond": 121,
+    "T5 Tigon Scranton": 102
   },
   "storeIds": [
     "T1",
@@ -223,7 +223,6 @@
   "slugMap": {
     "6af31763c5263ba86b5bb2b5": "club-car-tempo-white-hatfield-pennsylvania-usa",
     "6af23f73c5263ba86b5a924c": "evolution-d5-maverick-4-plus-arctic-gray-long-pond-pennsylvania-usa",
-    "6af23f45c5263ba86b5a8dd0": "evolution-d5-maverick-4-plus-white-long-pond-pennsylvania-usa",
     "6af23f14c5263ba86b5a8b5a": "evolution-d5-maverick-4-plus-mediterranean-blue-long-pond-pennsylvania-usa",
     "6af23edec5263ba86b5a8969": "evolution-d5-ranger-4-plus-arctic-gray-long-pond-pennsylvania-usa",
     "6af23eafc5263ba86b5a86ae": "evolution-d5-ranger-4-plus-arctic-gray-long-pond-pennsylvania-usa-01",
@@ -233,7 +232,7 @@
     "6af23d78c5263ba86b5a7e9b": "evolution-d5-ranger-4-plus-white-long-pond-pennsylvania-usa-01",
     "6af23d46c5263ba86b5a7d01": "evolution-d5-ranger-4-plus-white-long-pond-pennsylvania-usa-02",
     "6af23cfac5263ba86b5a7abe": "evolution-d5-maverick-4-plus-flamenco-red-long-pond-pennsylvania-usa",
-    "6af23ccbc5263ba86b5a7971": "evolution-d5-maverick-4-plus-white-long-pond-pennsylvania-usa-01",
+    "6af23ccbc5263ba86b5a7971": "evolution-d5-maverick-4-plus-white-long-pond-pennsylvania-usa",
     "6af23c96c5263ba86b5a78aa": "evolution-d5-maverick-4-plus-mediterranean-blue-long-pond-pennsylvania-usa-01",
     "6af23c59c5263ba86b5a7679": "evolution-d5-ranger-4-plus-arctic-gray-long-pond-pennsylvania-usa-02",
     "6af23a98c5263ba86b5a6b5f": "evolution-d5-ranger-4-plus-portimao-blue-long-pond-pennsylvania-usa",
@@ -243,6 +242,7 @@
     "6af239b5c5263ba86b5a5c26": "evolution-d5-ranger-4-plus-white-long-pond-pennsylvania-usa-04",
     "6af23980c5263ba86b5a5b21": "evolution-d5-ranger-4-plus-white-long-pond-pennsylvania-usa-05",
     "6af208ade5c8f6cc59259429": "club-car-tempo-white-hatfield-pennsylvania-usa-01",
+    "6aee30e2e5c8f6cc590269b9": "ezgo-txt-white-scranton-pennsylvania-usa",
     "6aedf8ffe5c8f6cc59f31aff": "aries-classic-4-xl-c4xl-deep-crimson-hatfield-pennsylvania-usa",
     "6aedf8b7e5c8f6cc59f31651": "aries-classic-6-c6-battleship-gray-hatfield-pennsylvania-usa",
     "6aedf875e5c8f6cc59f3144f": "aries-classic-6-xl-c6xl-dark-cobalt-hatfield-pennsylvania-usa",
@@ -259,7 +259,9 @@
     "6ae0cd4dd2426b7830c1768b": "evolution-d5-maverick-4-mineral-white-long-pond-pennsylvania-usa",
     "6ae0bebed2426b7830c0dfe7": "evolution-d5-maverick-4-mediterranean-blue-long-pond-pennsylvania-usa",
     "6adfae5a5753caccd96e47c4": "ezgo-rxv-champagne-hatfield-pennsylvania-usa",
+    "6adfadf95753caccd96e413c": "ezgo-rxv-charcoal-hatfield-pennsylvania-usa",
     "6adfaa8f5753caccd96e1061": "ezgo-rxv-champagne-hatfield-pennsylvania-usa-01",
+    "6adfa7188f9789493f8ca150": "ezgo-rxv-champagne-hatfield-pennsylvania-usa-02",
     "6ada2fd3e9a0733090d4591b": "yamaha-drive-2-glacier-hatfield-pennsylvania-usa",
     "6ada2fa6e9a0733090d4581e": "yamaha-drive-2-sun-hatfield-pennsylvania-usa",
     "6ada2f50e9a0733090d4546b": "yamaha-drive-2-frosty-hatfield-pennsylvania-usa",
@@ -400,7 +402,7 @@
     "6ab52eb19fac9eaad3d4b937": "denago-rover-xl6-matte-black-hatfield-pennsylvania-usa-01",
     "6ab4580a71f4c44827a65f63": "club-car-tempo-gray-hatfield-pennsylvania-usa-61",
     "6ab2acd4006b46384c45038c": "evolution-d5-maverick-4-plus-black-long-pond-pennsylvania-usa",
-    "6ab2aca6006b46384c44fd48": "evolution-d5-maverick-4-plus-white-long-pond-pennsylvania-usa-02",
+    "6ab2aca6006b46384c44fd48": "evolution-d5-maverick-4-plus-white-long-pond-pennsylvania-usa-01",
     "6ab2abef006b46384c44f0b8": "evolution-d5-ranger-4-plus-arctic-gray-long-pond-pennsylvania-usa-05",
     "6ab2ab53006b46384c44deff": "evolution-d5-ranger-4-plus-black-long-pond-pennsylvania-usa",
     "6ab2ab0f006b46384c44d5f1": "evolution-d5-ranger-4-plus-white-long-pond-pennsylvania-usa-09",
@@ -587,11 +589,11 @@
     "6a2afcdff9da9a89b820fb63": "ezgo-txt-white-long-pond-pennsylvania-usa-04",
     "6a2afb30f9da9a89b8209c82": "ezgo-txt-white-long-pond-pennsylvania-usa-05",
     "6a2ae800f9da9a89b81804ce": "cushman-other-green-black-long-pond-pennsylvania-usa",
-    "6a2acaa6f9da9a89b81031a7": "ezgo-txt-white-scranton-pennsylvania-usa",
-    "6a2ac622f9da9a89b80fd8dd": "ezgo-txt-white-scranton-pennsylvania-usa-01",
-    "6a2ac441f9da9a89b80fb999": "ezgo-txt-white-scranton-pennsylvania-usa-02",
+    "6a2acaa6f9da9a89b81031a7": "ezgo-txt-white-scranton-pennsylvania-usa-01",
+    "6a2ac622f9da9a89b80fd8dd": "ezgo-txt-white-scranton-pennsylvania-usa-02",
+    "6a2ac441f9da9a89b80fb999": "ezgo-txt-white-scranton-pennsylvania-usa-03",
     "6a2ac32cf9da9a89b80f5d4b": "ezgo-txt-green-scranton-pennsylvania-usa",
-    "6a2ac130f9da9a89b80e4654": "ezgo-txt-white-scranton-pennsylvania-usa-03",
+    "6a2ac130f9da9a89b80e4654": "ezgo-txt-white-scranton-pennsylvania-usa-04",
     "6a28663e56905809c60e0509": "cushman-other-green-hatfield-pennsylvania-usa-02",
     "6a26fc8749521a8063d04cce": "cushman-other-green-and-black-long-pond-pennsylvania-usa",
     "6a26d47549521a8063c28cf6": "club-car-precedent-green-scranton-pennsylvania-usa-01",
@@ -659,7 +661,8 @@
     "69bd74c699e3ff4b2d2d0067": "denago-rover-xl-gray-long-pond-pennsylvania-usa",
     "69b83418b75dd0263dfdefa1": "denago-rover-xl-scarlet-scranton-pennsylvania-usa",
     "69b833dfb75dd0263dfdeeb8": "denago-rover-xl-scarlet-scranton-pennsylvania-usa-01",
-    "69b8336eb75dd0263dfde9bb": "denago-rover-xl-white-scranton-pennsylvania-usa-02",
+    "69b833a6b75dd0263dfded8d": "denago-rover-xl-white-scranton-pennsylvania-usa-02",
+    "69b8336eb75dd0263dfde9bb": "denago-rover-xl-white-scranton-pennsylvania-usa-03",
     "69b832fdb75dd0263dfde8ac": "denago-rover-xl-gray-scranton-pennsylvania-usa",
     "69b1ae3b2f2f7297f6b0bdc8": "yamaha-drive-2-beige-scranton-pennsylvania-usa",
     "69b187bd2f2f7297f6acc97d": "yamaha-drive-2-beige-hatfield-pennsylvania-usa-05",
@@ -845,39 +848,6 @@
         "isStreetLegal": true
       },
       "imageUrls": [],
-      "status": "retail"
-    },
-    {
-      "_id": "6af23f45c5263ba86b5a8dd0",
-      "cartType": {
-        "make": "Evolution",
-        "model": "D5 Maverick 4 PLUS",
-        "year": "2027"
-      },
-      "retailPrice": 10999,
-      "isElectric": true,
-      "isUsed": false,
-      "cartAttributes": {
-        "cartColor": "White",
-        "seatColor": "2 Tone",
-        "passengers": "4 Passenger",
-        "driveTrain": "2X4",
-        "isLifted": true
-      },
-      "cartLocation": {
-        "locationId": "T3",
-        "latestStoreId": "T3",
-        "locationDescription": ""
-      },
-      "title": {
-        "isStreetLegal": true
-      },
-      "imageUrls": [
-        "3438e418-8081-7059-a7ec-f142ce4cc366-1794340391143.jpg",
-        "3438e418-8081-7059-a7ec-f142ce4cc366-1794340391149.jpg",
-        "3438e418-8081-7059-a7ec-f142ce4cc366-1794340391153.jpg",
-        "3438e418-8081-7059-a7ec-f142ce4cc366-1794340391158.jpg"
-      ],
       "status": "retail"
     },
     {
@@ -1428,6 +1398,34 @@
       "status": "retail"
     },
     {
+      "_id": "6aee30e2e5c8f6cc590269b9",
+      "cartType": {
+        "make": "EZGO",
+        "model": "TXT",
+        "year": "2006"
+      },
+      "retailPrice": 3500,
+      "isElectric": false,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T5",
+        "latestStoreId": "T5",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [],
+      "status": "retail"
+    },
+    {
       "_id": "6aedf8ffe5c8f6cc59f31aff",
       "cartType": {
         "make": "ARIES",
@@ -1941,6 +1939,39 @@
       "status": "retail"
     },
     {
+      "_id": "6adfadf95753caccd96e413c",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2020"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Charcoal",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794584331046.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794584331050.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794584331053.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794584331057.jpg"
+      ],
+      "status": "retail"
+    },
+    {
       "_id": "6adfaa8f5753caccd96e1061",
       "cartType": {
         "make": "EZGO",
@@ -1970,6 +2001,39 @@
         "a4d87418-3001-707d-7c20-b210e0635d62-1794426960623.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1794426960626.jpg",
         "a4d87418-3001-707d-7c20-b210e0635d62-1794426960629.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "6adfa7188f9789493f8ca150",
+      "cartType": {
+        "make": "EZGO",
+        "model": "RXV",
+        "year": "2020"
+      },
+      "retailPrice": 6500,
+      "isElectric": true,
+      "isUsed": true,
+      "cartAttributes": {
+        "cartColor": "Champagne",
+        "seatColor": "Black",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": false
+      },
+      "cartLocation": {
+        "locationId": "T1",
+        "latestStoreId": "T1",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": false
+      },
+      "imageUrls": [
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794582386919.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794582386923.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794582386926.jpg",
+        "a4d87418-3001-707d-7c20-b210e0635d62-1794582386929.jpg"
       ],
       "status": "retail"
     },
@@ -2823,7 +2887,12 @@
       "title": {
         "isStreetLegal": false
       },
-      "imageUrls": [],
+      "imageUrls": [
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1794593103152.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1794593103157.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1794593103162.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1794593103166.jpg"
+      ],
       "status": "retail"
     },
     {
@@ -14875,6 +14944,39 @@
         "94c85418-f041-7083-4fce-c4440dcf50b8-1774887682434.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1774887682437.jpg",
         "94c85418-f041-7083-4fce-c4440dcf50b8-1774887682440.jpg"
+      ],
+      "status": "retail"
+    },
+    {
+      "_id": "69b833a6b75dd0263dfded8d",
+      "cartType": {
+        "make": "Denago",
+        "model": "Rover XL",
+        "year": "2026"
+      },
+      "retailPrice": 10995,
+      "isElectric": true,
+      "isUsed": false,
+      "cartAttributes": {
+        "cartColor": "White",
+        "seatColor": "Stone",
+        "passengers": "4 Passenger",
+        "driveTrain": "2X4",
+        "isLifted": true
+      },
+      "cartLocation": {
+        "locationId": "T5",
+        "latestStoreId": "T5",
+        "locationDescription": ""
+      },
+      "title": {
+        "isStreetLegal": true
+      },
+      "imageUrls": [
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1774888149355.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1774888149360.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1774888149364.jpg",
+        "94c85418-f041-7083-4fce-c4440dcf50b8-1774888149367.jpg"
       ],
       "status": "retail"
     },
